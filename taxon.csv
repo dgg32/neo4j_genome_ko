@@ -1,0 +1,4132 @@
+taxid,name,rank
+2,Bacteria,superkingdom
+1224,Proteobacteria,phylum
+28211,Alphaproteobacteria,class
+356,Rhizobiales,order
+41294,Bradyrhizobiaceae,family
+1073,Rhodopseudomonas,genus
+1076,Rhodopseudomonas palustris,species
+316056,Rhodopseudomonas palustris BisB18,genome
+204455,Rhodobacterales,order
+31989,Rhodobacteraceae,family
+97050,Ruegeria,genus
+292414,Ruegeria sp. TM1040,species
+1553900,Oligoflexia,class
+213481,Bdellovibrionales,order
+213483,Bdellovibrionaceae,family
+958,Bdellovibrio,genus
+453816,Bdellovibrio exovorus,species
+1184267,Bdellovibrio exovorus JSS,genome
+28216,Betaproteobacteria,class
+206351,Neisseriales,order
+1499392,Chromobacteriaceae,family
+535,Chromobacterium,genus
+1778675,Chromobacterium rhizoryzae,species
+1236,Gammaproteobacteria,class
+91347,Enterobacterales,order
+1903410,Pectobacteriaceae,family
+204037,Dickeya,genus
+69223,Dickeya paradisiaca,species
+579405,Dickeya paradisiaca Ech703,genome
+118882,Brucellaceae,family
+528,Ochrobactrum,genus
+271865,Ochrobactrum quorumnocens,species
+1903409,Erwiniaceae,family
+32199,Buchnera,genus
+9,Buchnera aphidicola,species
+107806,Buchnera aphidicola APS,genome
+135625,Pasteurellales,order
+712,Pasteurellaceae,family
+75984,Mannheimia,genus
+75985,Mannheimia haemolytica,species
+1222034,Mannheimia haemolytica USDA-ARS-USMARC-184,genome
+72273,Thiotrichales,order
+34064,Francisellaceae,family
+262,Francisella,genus
+28110,Francisella philomiragia,species
+481,Neisseriaceae,family
+194195,Alysiella,genus
+194196,Alysiella filiformis,species
+204457,Sphingomonadales,order
+41297,Sphingomonadaceae,family
+541,Zymomonas,genus
+542,Zymomonas mobilis,species
+555217,Zymomonas mobilis subsp. mobilis ATCC 10988,genome
+72274,Pseudomonadales,order
+468,Moraxellaceae,family
+469,Acinetobacter,genus
+1879050,Acinetobacter wuhouensis,species
+551,Erwinia,genus
+182337,Erwinia billingiae,species
+634500,Erwinia billingiae Eb661,genome
+416916,Aggregatibacter,genus
+714,Aggregatibacter actinomycetemcomitans,species
+272556,Aggregatibacter actinomycetemcomitans HK1651,genome
+543,Enterobacteriaceae,family
+590,Salmonella,genus
+28901,Salmonella enterica,species
+454169,Salmonella enterica subsp. enterica serovar Heidelberg SL476,genome
+713,Actinobacillus,genus
+716,Actinobacillus suis,species
+696748,Actinobacillus suis H91-0380,genome
+135623,Vibrionales,order
+641,Vibrionaceae,family
+662,Vibrio,genus
+663,Vibrio alginolyticus,species
+1219076,Vibrio alginolyticus NBRC 15630 = ATCC 17749,genome
+1862950,Rhizobiales bacterium NRL2,species
+159345,Roseibacterium,genus
+159346,Roseibacterium elongatum,species
+1294273,Roseibacterium elongatum DSM 19469,genome
+135619,Oceanospirillales,order
+135620,Oceanospirillaceae,family
+28253,Marinomonas,genus
+119864,Marinomonas mediterranea,species
+717774,Marinomonas mediterranea MMB-1,genome
+122277,Pectobacterium,genus
+78398,Pectobacterium odoriferum,species
+1249016,Otariodibacter,genus
+1032623,Otariodibacter oris,species
+135621,Pseudomonadaceae,family
+286,Pseudomonas,genus
+287,Pseudomonas aeruginosa,species
+1280938,Pseudomonas aeruginosa B136-33,genome
+547,Enterobacter,genus
+550,Enterobacter cloacae,species
+716541,Enterobacter cloacae subsp. cloacae ATCC 13047,genome
+53335,Pantoea,genus
+470934,Pantoea vagans,species
+28256,Halomonadaceae,family
+504090,Kushneria,genus
+657387,Kushneria sp. YCWA18,species
+2745,Halomonas,genus
+115555,Halomonas axialensis,species
+32003,Nitrosomonadales,order
+32011,Methylophilaceae,family
+16,Methylophilus,genus
+1662285,Methylophilus sp. TWE2,species
+766,Rickettsiales,order
+775,Rickettsiaceae,family
+780,Rickettsia,genus
+47589,Rickettsia peacockii,species
+562019,Rickettsia peacockii Rustic,genome
+165697,Sphingopyxis,genus
+1515612,Sphingopyxis fribergensis,species
+28221,Deltaproteobacteria,class
+1779134,Bradymonadales,order
+2292766,Bradymonadales bacterium YN101,species
+29547,Epsilonproteobacteria,class
+213849,Campylobacterales,order
+72293,Helicobacteraceae,family
+209,Helicobacter,genus
+210,Helicobacter pylori,species
+907240,Helicobacter pylori Gambia94/24,genome
+33055,Candidatus Kinetoplastibacterium,genus
+233181,Candidatus Kinetoplastibacterium blastocrithidii,species
+1208923,Candidatus Kinetoplastibacterium blastocrithidii,genome
+202746,Sulfurimonas,genus
+2590021,Sulfurimonas sp. 1-1N,species
+620,Shigella,genus
+623,Shigella flexneri,species
+1282357,Shigella flexneri 2003036,genome
+135613,Chromatiales,order
+1046,Chromatiaceae,family
+1227,Nitrosococcus,genus
+1814290,Nitrosococcus wardiae,species
+1330545,Lelliottia,genus
+1907578,Lelliottia jeotgali,species
+570,Klebsiella,genus
+571,Klebsiella oxytoca,species
+69541,Desulfuromonadales,order
+213421,Desulfuromonadaceae,family
+18,Pelobacter,genus
+19,Pelobacter carbinolicus,species
+338963,Pelobacter carbinolicus DSM 2380,genome
+214,Helicobacter felis,species
+936155,Helicobacter felis ATCC 49179,genome
+1240482,Orbales,order
+1240483,Orbaceae,family
+1193503,Gilliamella,genus
+1196095,Gilliamella apicola,species
+72294,Campylobacteraceae,family
+194,Campylobacter,genus
+1965231,Campylobacter pinnipediorum,species
+1874362,Campylobacter pinnipediorum subsp. caledonicus RM18020,genome
+234,Brucella,genus
+36855,Brucella canis,species
+1408887,Brucella canis Oliveri,genome
+637913,Helicobacter pylori v225d,genome
+772,Bartonellaceae,family
+773,Bartonella,genus
+774,Bartonella bacilliformis,species
+360095,Bartonella bacilliformis KC583,genome
+1676141,Wenzhouxiangellaceae,family
+1676142,Wenzhouxiangella,genus
+1579979,Wenzhouxiangella marina,species
+2007306,Francisella adeliensis,species
+1903411,Yersiniaceae,family
+613,Serratia,genus
+47917,Serratia fonticola,species
+561,Escherichia,genus
+562,Escherichia coli,species
+1033813,Escherichia coli NA114 (UPEC),genome
+80840,Burkholderiales,order
+119060,Burkholderiaceae,family
+32008,Burkholderia,genus
+758796,Burkholderia sp. RPE67,species
+482,Neisseria,genus
+487,Neisseria meningitidis,species
+604162,Neisseria meningitidis 8013 (serogroup C),genome
+165695,Sphingobium,genus
+1843368,Sphingobium sp. RAC03,species
+506,Alcaligenaceae,family
+517,Bordetella,genus
+520,Bordetella pertussis,species
+1017264,Bordetella pertussis CS,genome
+942,Anaplasmataceae,family
+953,Wolbachia,genus
+169402,Wolbachia endosymbiont of Folsomia candida,species
+263,Francisella tularensis,species
+1452728,Francisella tularensis subsp. novicida F6168,genome
+701177,Escherichia coli O55:H7 CB9615 (atypical EPEC),genome
+204441,Rhodospirillales,order
+433,Acetobacteraceae,family
+434,Acetobacter,genus
+438,Acetobacter pasteurianus,species
+634459,Acetobacter pasteurianus IFO 3283-12,genome
+189384,Candidatus Tremblaya,genus
+189385,Candidatus Tremblaya princeps,species
+891398,Candidatus Tremblaya princeps PCIT,genome
+1856685,Pseudomonas sp. TCU-HL1,species
+33990,Rickettsia bellii,species
+336407,Rickettsia bellii RML369-C,genome
+2433,Roseobacter,genus
+42443,Roseobacter litoralis,species
+391595,Roseobacter litoralis Och 149,genome
+119045,Methylobacteriaceae,family
+2282523,Methylorubrum,genus
+408,Methylorubrum extorquens,species
+440085,Methylorubrum extorquens CM4,genome
+196,Campylobacter fetus,species
+1093099,Campylobacter fetus subsp. venerealis 97/608,genome
+1903414,Morganellaceae,family
+637,Arsenophonus,genus
+634113,Candidatus Arsenophonus lipoptenae,species
+58842,Sagittula,genus
+2009329,Sagittula sp. P11,species
+1524249,Pseudohongiella,genus
+1249552,Pseudohongiella spirulinae,species
+342113,Burkholderia oklahomensis,species
+441162,Burkholderia oklahomensis C6786,genome
+1306993,Pseudomonas soli,species
+1738654,Woeseiaceae,family
+1738655,Woeseia,genus
+1548547,Woeseia oceani,species
+1178482,Halomonas huangheensis,species
+29461,Brucella suis,species
+645170,Brucella suis bv. 2 PT09172,genome
+135622,Alteromonadales,order
+72275,Alteromonadaceae,family
+226,Alteromonas,genus
+28108,Alteromonas macleodii,species
+529120,Alteromonas macleodii ATCC 27126,genome
+82996,Serratia plymuthica,species
+768492,Serratia plymuthica AS9,genome
+573,Klebsiella pneumoniae,species
+1225181,Klebsiella pneumoniae subsp. pneumoniae KPNIH24,genome
+267888,Pseudoalteromonadaceae,family
+53246,Pseudoalteromonas,genus
+28109,Pseudoalteromonas nigrifaciens,species
+314281,Pseudoalteromonas tunicata,species
+2500543,Salmonella sp. SSDFZ69,species
+1484158,Pantoea sp. PSNIH1,species
+106654,Acinetobacter nosocomialis,species
+213118,Desulfobacterales,order
+213121,Desulfobulbaceae,family
+893,Desulfobulbus,genus
+1986146,Desulfobulbus oralis,species
+82115,Rhizobiaceae,family
+379,Rhizobium,genus
+1312183,Rhizobium jaguaris,species
+118969,Legionellales,order
+444,Legionellaceae,family
+445,Legionella,genus
+446,Legionella pneumophila,species
+272624,Legionella pneumophila subsp. pneumophila Philadelphia 1 (serogroup 1),genome
+473531,Nitrosococcus watsonii,species
+105559,Nitrosococcus watsonii C-113,genome
+77038,Wolbachia endosymbiont of Drosophila simulans,species
+1236908,Wolbachia sp. wNo,genome
+444163,Brucella microti,species
+568815,Brucella microti CCM 4915,genome
+206379,Nitrosomonadaceae,family
+914,Nitrosomonas,genus
+1444684,Nitrosomonas stercoris,species
+75682,Oxalobacteraceae,family
+29580,Janthinobacterium,genus
+2590869,Janthinobacterium sp. SNU WT3,species
+213554,Halomonas campaniensis,species
+33056,Candidatus Kinetoplastibacterium crithidii,species
+1208918,Candidatus Kinetoplastibacterium crithidii TCC036E,genome
+69328,Pseudomonas sp. VLB120,species
+267891,Moritellaceae,family
+58050,Moritella,genus
+90736,Moritella marina,species
+1202962,Moritella marina ATCC 15381 MP-1,genome
+57975,Burkholderia thailandensis,species
+1249663,Burkholderia thailandensis H0587,genome
+875170,Celeribacter,genus
+1758178,Celeribacter ethanolicus,species
+1009856,Buchnera aphidicola USDA,genome
+290425,Advenella,genus
+302406,Advenella mimigardefordensis,species
+1247726,Advenella mimigardefordensis DPN7,genome
+743277,Bordetella pertussis B1917,genome
+2024979,Bacteriovoracales,order
+1652132,Halobacteriovoraceae,family
+1652133,Halobacteriovorax,genus
+97084,Halobacteriovorax marinus,species
+862908,Halobacteriovorax marinus SJ (Bacteriovorax marinus),genome
+131079,Limnobacter,genus
+2732163,Limnobacter sp. SAORIC-580,species
+1330546,Pluralibacter,genus
+61647,Pluralibacter gergoviae,species
+1234365,Helicobacter pylori Rif1,genome
+2094023,Glaesserella,genus
+738,Glaesserella parasuis,species
+1322346,Glaesserella parasuis ZJ0906 (Haemophilus parasuis ZJ0906),genome
+1191478,Magnetococcales,order
+1191479,Magnetococcaceae,family
+162171,Magnetococcus,genus
+1124597,Magnetococcus marinus,species
+156889,Magnetococcus marinus MC-1,genome
+407,Methylobacterium,genus
+270351,Methylobacterium aquaticum,species
+1382926,Helicobacter pylori oki828,genome
+213115,Desulfovibrionales,order
+194924,Desulfovibrionaceae,family
+2582840,Desulfocurvibacter,genus
+873,Desulfocurvibacter africanus,species
+690850,Desulfocurvibacter africanus subsp. africanus Walvis Bay,genome
+267890,Shewanellaceae,family
+22,Shewanella,genus
+62322,Shewanella baltica,species
+407976,Shewanella baltica OS223,genome
+1382700,Escherichia coli O18:K1 PMV-1 (ExPEC),genome
+1853130,Pseudomonas silesiensis,species
+985080,Helicobacter pylori 2018,genome
+294,Pseudomonas fluorescens,species
+1037911,Pseudomonas fluorescens A506,genome
+34019,Liberibacter,genus
+34021,Candidatus Liberibacter asiaticus,species
+537021,Candidatus Liberibacter asiaticus psy62,genome
+585057,Escherichia coli O7:K1 IAI39 (ExPEC),genome
+74030,Roseovarius,genus
+2587850,Roseovarius sp. THAF27,species
+267894,Psychromonadaceae,family
+67572,Psychromonas,genus
+314282,Psychromonas sp. CNPT3,species
+1706369,Cellvibrionales,order
+1706372,Halieaceae,family
+1217416,Halioglobus,genus
+930805,Halioglobus japonicus,species
+302485,Phaeobacter,genus
+1844006,Phaeobacter porticola,species
+28450,Burkholderia pseudomallei,species
+1229785,Burkholderia pseudomallei BPC006,genome
+236,Brucella ovis,species
+444178,Brucella ovis ATCC 25840,genome
+80864,Comamonadaceae,family
+201096,Alicycliphilus,genus
+179636,Alicycliphilus denitrificans,species
+596153,Alicycliphilus denitrificans BC,genome
+52972,Polaromonas,genus
+216465,Polaromonas naphthalenivorans,species
+365044,Polaromonas naphthalenivorans CJ2,genome
+518,Bordetella bronchiseptica,species
+568707,Bordetella bronchiseptica 253,genome
+693745,Helicobacter pylori B8,genome
+28196,Arcobacter,genus
+28197,Arcobacter butzleri,species
+367737,Arcobacter butzleri RM4018,genome
+106589,Cupriavidus,genus
+106590,Cupriavidus necator,species
+2321115,Halarcobacter,genus
+663364,Halarcobacter bivalviorum,species
+93217,Pandoraea,genus
+656178,Pandoraea vervacti,species
+53408,Pseudomonas citronellolis,species
+204458,Caulobacterales,order
+76892,Caulobacteraceae,family
+75,Caulobacter,genus
+1679497,Caulobacter flavus,species
+90627,Gallionellaceae,family
+935200,Sulfuricella,genus
+649841,Sulfuricella denitrificans,species
+1163617,Sulfuricella denitrificans skB26,genome
+2108399,Pectobacterium punjabense,species
+244366,Klebsiella variicola,species
+640131,Klebsiella variicola At-22,genome
+31993,Methylocystaceae,family
+133,Methylocystis,genus
+187303,Methylocystis sp. SC2,species
+1348660,Serratia plymuthica S13,genome
+29459,Brucella melitensis,species
+520466,Brucella melitensis bv. 3 Ether,genome
+74032,Antarctobacter,genus
+74033,Antarctobacter heliothermus,species
+33989,Rickettsia amblyommatis,species
+57665,Sulfurospirillum,genus
+44674,Sulfurospirillum barnesii,species
+760154,Sulfurospirillum barnesii SES-3,genome
+1104321,Brucella canis HSK A52141,genome
+40136,Oligotropha,genus
+40137,Oligotropha carboxidovorans,species
+1031710,Oligotropha carboxidovorans OM4,genome
+160674,Raoultella,genus
+577,Raoultella terrigena,species
+702,Plesiomonas,genus
+703,Plesiomonas shigelloides,species
+335927,Thalassobius,genus
+53501,Thalassobius gelatinovorus,species
+28898,Campylobacter helveticus,species
+1032072,Arcobacter molluscorum,species
+870501,Malaciobacter molluscorum LMG 25693 = CECT 7696,genome
+354203,Yangia,genus
+311180,Yangia pacifica,species
+2486578,Rickettsiales endosymbiont of Stachyamoeba lipophora,species
+872,Desulfovibrio,genus
+63561,Desulfovibrio sulfodismutans,species
+1121464,Desulfovibrio sulfodismutans DSM 3696,genome
+963,Herbaspirillum,genus
+341045,Herbaspirillum hiltneri,species
+1262470,Herbaspirillum hiltneri N3,genome
+483179,Brucella canis ATCC 23365,genome
+76936,Helicobacter typhlonius,species
+1407059,Pseudomonas aeruginosa PA38182,genome
+1835721,secondary endosymbiont of Trabutina mannipara,species
+152267,Pigmentiphaga,genus
+1940612,Pigmentiphaga aceris,species
+745,Pasteurella,genus
+754,Pasteurella dagmatis,species
+176102,Pseudoalteromonas agarivorans,species
+1312369,Pseudoalteromonas agarivorans DSM 14585,genome
+203804,Candidatus Blochmannia,genus
+203907,Candidatus Blochmannia floridanus,species
+2742,Marinobacter,genus
+2743,Marinobacter hydrocarbonoclasticus,species
+1163748,Marinobacter hydrocarbonoclasticus ATCC 49840,genome
+267849,Nitrincola,genus
+2614693,Nitrincola sp. KXZD1103,species
+1883416,Halomonas sp. 1513,species
+1163739,Helicobacter pylori Shi417,genome
+783,Rickettsia rickettsii,species
+1105101,Rickettsia rickettsii Hlp#2,genome
+61646,Lelliottia amnigena,species
+45401,Hyphomicrobiaceae,family
+59282,Blastochloris,genus
+2233851,Blastochloris tepida,species
+1525371,Neorhizobium,genus
+399,Neorhizobium galegae,species
+1028800,Neorhizobium galegae bv. orientalis HAMBI 540,genome
+1671721,Marinobacter sp. CP1,species
+876,Desulfovibrio desulfuricans,species
+641491,Desulfovibrio desulfuricans ND132,genome
+1500960,Campylobacter sp. RM16704,species
+1775403,Nevskiales,order
+568386,Sinobacteraceae,family
+413435,Solimonas,genus
+2303331,Solimonas sp. K1W22B-7,species
+1807140,Acidithiobacillia,class
+225057,Acidithiobacillales,order
+225058,Acidithiobacillaceae,family
+119977,Acidithiobacillus,genus
+930,Acidithiobacillus thiooxidans,species
+637390,Acidithiobacillus thiooxidans ATCC 19377,genome
+1055530,Helicobacter pylori SNT49,genome
+781,Rickettsia conorii,species
+272944,Rickettsia conorii Malish 7,genome
+41295,Rhodospirillaceae,family
+171436,Tistrella,genus
+171437,Tistrella mobilis,species
+1110502,Tistrella mobilis KA081020-065,genome
+1706371,Cellvibrionaceae,family
+316625,Saccharophagus,genus
+86304,Saccharophagus degradans,species
+203122,Saccharophagus degradans 2-40,genome
+28095,Burkholderia gladioli,species
+48736,Ralstonia,genus
+305,Ralstonia solanacearum,species
+859657,Ralstonia solanacearum PSI07,genome
+1235990,Candidatus Pantoea carbekii,species
+1812935,Enterobacter roggenkampii,species
+1499973,Escherichia marmotae,species
+135617,Thiotrichaceae,family
+40751,Thioploca,genus
+40754,Thioploca ingrica,species
+188905,Jannaschia,genus
+290400,Jannaschia sp. CCS1,species
+520487,Brucella suis bv. 3 686,genome
+13687,Sphingomonas,genus
+160791,Sphingomonas wittichii,species
+392499,Sphingomonas wittichii RW1,genome
+715,Actinobacillus pleuropneumoniae,species
+434271,Actinobacillus pleuropneumoniae JL03 (serotype 3),genome
+1469502,Burkholderiales bacterium GJ-E10,species
+391905,Methylocystis heyeri,species
+866768,Escherichia coli BL21-Gold(DE3)pLysS AG,genome
+34037,Rahnella,genus
+34038,Rahnella aquatilis,species
+745277,Rahnella aquatilis CIP 78.65 = ATCC 33071,genome
+1481923,Vibrio astriarenae,species
+2666100,Neisseria brasiliensis,species
+157782,Pseudomonas parafulva,species
+213462,Syntrophobacterales,order
+213465,Syntrophobacteraceae,family
+29526,Syntrophobacter,genus
+119484,Syntrophobacter fumaroxidans,species
+335543,Syntrophobacter fumaroxidans MPOB,genome
+1120045,Rhizobium grahamii,species
+135614,Xanthomonadales,order
+32033,Xanthomonadaceae,family
+40323,Stenotrophomonas,genus
+40324,Stenotrophomonas maltophilia,species
+1163399,Stenotrophomonas maltophilia D457,genome
+666,Vibrio cholerae,species
+686,Vibrio cholerae O1 El Tor FJ147,genome
+257313,Bordetella pertussis Tohama I,genome
+29471,Pectobacterium atrosepticum,species
+724,Haemophilus,genus
+727,Haemophilus influenzae,species
+202,Campylobacter mucosalis,species
+206389,Rhodocyclales,order
+2008794,Zoogloeaceae,family
+12960,Azoarcus,genus
+418699,Azoarcus olearius,species
+244566,Pseudomonas lurida,species
+655015,Methylocystis bryophila,species
+696406,Escherichia coli UMNK88 (ETEC,genome
+920,Acidithiobacillus ferrooxidans,species
+243159,Acidithiobacillus ferrooxidans ATCC 23270,genome
+1341656,Francisella tularensis subsp. tularensis SCHU S4 NR-28534,genome
+615,Serratia marcescens,species
+435998,Serratia marcescens WW4,genome
+93220,Pandoraea pnomenusa,species
+1416914,Pandoraea pnomenusa 3kgm,genome
+909946,Salmonella enterica subsp. enterica serovar Typhimurium ST4/74,genome
+1134687,Klebsiella michiganensis,species
+1308980,Klebsiella michiganensis HKOPL1,genome
+2370,Xylella,genus
+2371,Xylella fastidiosa,species
+788929,Xylella fastidiosa subsp. fastidiosa GB514,genome
+329,Ralstonia pickettii,species
+402626,Ralstonia pickettii 12J,genome
+807,Bartonella elizabethae,species
+470,Acinetobacter baumannii,species
+1434011,Komagataeibacter,genus
+33995,Komagataeibacter europaeus,species
+96230,Legionella fallonii,species
+1212491,Legionella fallonii LLAP-10,genome
+629,Yersinia,genus
+29483,Yersinia aldovae,species
+1453495,Yersinia aldovae 670-83,genome
+34072,Variovorax,genus
+436515,Variovorax boronicumulans,species
+991903,Polymorphum,genus
+991904,Polymorphum gilvum,species
+991905,Polymorphum gilvum SL003B-26A1,genome
+29485,Yersinia rohdei,species
+357,Agrobacterium,genus
+160699,Agrobacterium larrymoorei,species
+515417,Amphritea,genus
+452627,Amphritea japonica,species
+1278309,Amphritea japonica ATCC BAA-1530,genome
+1407071,Acinetobacter sp. TGL-Y2,species
+191033,Oleiphilaceae,family
+141450,Oleiphilus,genus
+141451,Oleiphilus messinensis,species
+1064551,Salmonella enterica subsp. enterica serovar Thompson RM6836,genome
+655184,Candidatus Thioglobus,genus
+2508687,Candidatus Thioglobus sp. NP1,species
+409304,Candidatus Ishikawaella,genus
+168169,Candidatus Ishikawaella capsulata,species
+476281,Candidatus Ishikawaella capsulata Mpkobe,genome
+35817,Helicobacter heilmannii,species
+1216962,Helicobacter heilmannii ASB1.4,genome
+2601894,Halioglobus maricola,species
+102608,Helicobacter pylori F32,genome
+1194424,Zymomonas mobilis subsp. mobilis NRRL B-12526,genome
+135624,Aeromonadales,order
+84642,Aeromonadaceae,family
+642,Aeromonas,genus
+644,Aeromonas hydrophila,species
+1418107,Aeromonas hydrophila pc104A,genome
+441,Gluconobacter,genus
+442,Gluconobacter oxydans,species
+1224746,Gluconobacter oxydans H24,genome
+1382922,Helicobacter pylori oki128,genome
+60136,Sulfitobacter,genus
+2070369,Sulfitobacter sp. JL08,species
+69277,Phyllobacteriaceae,family
+68287,Mesorhizobium,genus
+28104,Mesorhizobium huakuii,species
+763057,Mesorhizobium huakuii 7653R,genome
+213116,Desulfomicrobiaceae,family
+898,Desulfomicrobium,genus
+132132,Desulfomicrobium orale,species
+888061,Desulfomicrobium orale DSM 12838,genome
+861365,Klebsiella pneumoniae subsp. rhinoscleromatis SB3432,genome
+1249660,Burkholderia thailandensis 2002721643,genome
+135618,Methylococcales,order
+403,Methylococcaceae,family
+73778,Methylocaldum,genus
+1432792,Methylocaldum marinum,species
+380021,Pseudomonas protegens,species
+1124983,Pseudomonas protegens CHA0,genome
+114185,Candidatus Carsonella,genus
+114186,Candidatus Carsonella ruddii,species
+1202537,Candidatus Carsonella ruddii CS,genome
+1420599,Pseudomonas protegens Cab57,genome
+407020,Sphingobium sp. MI1205,species
+1079,Blastochloris viridis,species
+47879,Pseudomonas corrugata,species
+536056,Escherichia coli DH1,genome
+476528,Bibersteinia,genus
+47735,Bibersteinia trehalosi,species
+1263829,Bibersteinia trehalosi USDA-ARS-USMARC-188,genome
+108981,Acinetobacter schindleri,species
+34008,Rhodovulum,genus
+1564506,Rhodovulum sp. P5,species
+224372,Alcanivoracaceae,family
+59753,Alcanivorax,genus
+1094342,Alcanivorax xenomutans,species
+191,Azospirillum,genus
+192,Azospirillum brasilense,species
+1064539,Azospirillum baldaniorum Sp245 (Azospirillum brasilense Sp245),genome
+29,Myxococcales,order
+31,Myxococcaceae,family
+83461,Corallococcus,genus
+35,Corallococcus macrosporus,species
+47670,Lautropia,genus
+47671,Lautropia mirabilis,species
+219181,Ottowia,genus
+1658672,Ottowia sp. oral taxon 894,species
+843,Wolinella,genus
+844,Wolinella succinogenes,species
+273121,Wolinella succinogenes DSM 1740,genome
+1045317,Sphingomonas lutea,species
+222,Achromobacter,genus
+32002,Achromobacter denitrificans,species
+243277,Vibrio cholerae O1 El Tor N16961,genome
+263377,Salipiger,genus
+1229727,Salipiger profundus,species
+335405,Sphingosinicella,genus
+335406,Sphingosinicella microcystinivorans,species
+1537215,Rhodobacteraceae bacterium Lw-13e,species
+413,Methylococcus,genus
+414,Methylococcus capsulatus,species
+243233,Methylococcus capsulatus Bath,genome
+1412461,Salmonella enterica subsp. enterica serovar Enteritidis EC20090332,genome
+316,Pseudomonas stutzeri,species
+644801,Pseudomonas stutzeri RCH2,genome
+1306418,Burkholderia pseudomallei HBPUB10134a,genome
+197,Campylobacter jejuni,species
+1383068,Campylobacter jejuni subsp. jejuni 00-2544,genome
+632,Yersinia pestis,species
+413496,Cronobacter,genus
+413503,Cronobacter malonaticus,species
+1159491,Cronobacter malonaticus LMG 23826,genome
+785,Rickettsia typhi,species
+1003201,Rickettsia typhi TH1527,genome
+224914,Brucella melitensis bv. 1 16M,genome
+72276,Ectothiorhodospiraceae,family
+106633,Thioalkalivibrio,genus
+108010,Thioalkalivibrio paradoxus,species
+713585,Thioalkalivibrio paradoxus ARh 1,genome
+155493,Gallibacterium,genus
+750,Gallibacterium anatis,species
+1005058,Gallibacterium anatis UMN179,genome
+1009857,Buchnera aphidicola W106,genome
+2004650,Acinetobacter chinensis,species
+1765964,Acidihalobacter,genus
+160660,Acidihalobacter prosperus,species
+1419584,Aeromonas hydrophila J-1,genome
+1920240,Kangiellaceae,family
+261963,Kangiella,genus
+1144748,Kangiella sediminilitoris,species
+1775411,Rhodanobacteraceae,family
+242605,Luteibacter,genus
+2589080,Luteibacter pinisoli,species
+2100764,Mixta,genus
+1458355,Mixta theicola,species
+1060,Rhodobacter,genus
+1063,Rhodobacter sphaeroides,species
+557760,Rhodobacter sphaeroides KD131,genome
+255473,Parvularculales,order
+255474,Parvularculaceae,family
+208215,Parvularcula,genus
+208216,Parvularcula bermudensis,species
+314260,Parvularcula bermudensis HTCC2503,genome
+592316,Pantoea sp. At-9b,species
+325240,Shewanella baltica OS155,genome
+109232,Rickettsia monacensis,species
+1302376,Candidatus Pseudomonas adelgestsugas,species
+149698,Massilia,genus
+321984,Massilia plicata,species
+28105,Sinorhizobium,genus
+382,Sinorhizobium meliloti,species
+707241,Sinorhizobium meliloti SM11,genome
+71433,Mesorhizobium amorphae,species
+1082933,Mesorhizobium amorphae CCNWGS0123,genome
+419475,Ochrobactrum pseudogrignonense,species
+95486,Burkholderia cenocepacia,species
+331272,Burkholderia cenocepacia HI2424,genome
+1904640,Betaproteobacteria bacterium GR16-43,species
+96344,Cupriavidus oxalaticus,species
+198214,Shigella flexneri 301 (serotype 2a),genome
+51228,Wigglesworthia,genus
+51229,Wigglesworthia glossinidia,species
+36870,Wigglesworthia glossinidia (Wigglesworthia brevipalpis),genome
+1310165,Ralstonia pseudosolanacearum,species
+68,Lysobacter,genus
+1605891,Lysobacter maris,species
+1283312,Sphingomonas wittichii DC-6,genome
+84531,Lysobacter antibioticus,species
+2661800,Georhizobium,genus
+2341112,Georhizobium profundi,species
+352,Azotobacter,genus
+354,Azotobacter vinelandii,species
+322710,Azotobacter vinelandii DJ,genome
+959,Bdellovibrio bacteriovorus,species
+103855,Bordetella hinzii,species
+281310,Haemophilus influenzae 86-028NP (nontypeable),genome
+264,Francisella tularensis subsp. novicida DPG 3A-IS (Francisella tularensis subsp. tularensis WY96),genome
+1813019,Campylobacter hepaticus,species
+33993,Neorickettsia,genus
+950,Neorickettsia risticii,species
+434131,Neorickettsia risticii Illinois,genome
+549298,Francisella halioticida,species
+29449,Rhizobium etli,species
+347834,Rhizobium etli CFN 42,genome
+1792508,Yangia sp. CCB-MM3,species
+2035811,Pseudodesulfovibrio,genus
+182210,Pseudodesulfovibrio aespoeensis,species
+643562,Pseudodesulfovibrio aespoeensis Aspo-2 (Desulfovibrio aespoeensis Aspo-2),genome
+47883,Pseudomonas synxantha,species
+1261126,Mannheimia haemolytica D153,genome
+633,Yersinia pseudotuberculosis,species
+502801,Yersinia pseudotuberculosis PB1/+ (serotype 1B),genome
+1328325,Klebsiella pneumoniae subsp. pneumoniae KPR0928,genome
+1008297,Salmonella enterica subsp. enterica serovar Typhimurium 798,genome
+1673076,Sphingobium hydrophobicum,species
+1758179,Aeromonas sp. ASNIH5,species
+13134,Magnetospirillum,genus
+1639348,Magnetospirillum sp. ME-1,species
+1804663,Haematospirillum,genus
+1549855,Haematospirillum jordaniae,species
+135616,Piscirickettsiaceae,family
+2039723,Thiomicrorhabdus,genus
+2580412,Thiomicrorhabdus sp. G1,species
+497,Psychrobacter,genus
+45610,Psychrobacter urativorans,species
+1133852,Escherichia coli O104:H4 2011C-3493 (EAEC),genome
+233316,Alteromonas stellipolaris,species
+28448,Komagataeibacter xylinus,species
+1296990,Komagataeibacter xylinus E25 (Gluconacetobacter xylinus E25),genome
+693444,Enterobacteriaceae bacterium strain FGI 57,species
+217,Helicobacter mustelae,species
+679897,Helicobacter mustelae 12198,genome
+214092,Yersinia pestis CO92 (biovar Orientalis),genome
+1279008,Pseudomonas aeruginosa PA1R,genome
+138563,Helicobacter cetorum,species
+182217,Helicobacter cetorum MIT 00-7128,genome
+1906659,Candidatus Hoaglandella,genus
+1778263,Candidatus Hoaglandella endobia,species
+428406,Ralstonia pickettii 12D,genome
+272630,Methylorubrum extorquens AM1,genome
+97481,Pasteurella skyensis,species
+452,Legionella spiritensis,species
+206,Campylobacter sputorum,species
+1031920,Campylobacter sputorum bv. faecalis CCUG 20703,genome
+271848,Burkholderia thailandensis E264,genome
+630,Yersinia enterocolitica,species
+1443113,Yersinia enterocolitica LC20,genome
+216778,Stenotrophomonas rhizophila,species
+225143,Oceanisphaera,genus
+1903694,Oceanisphaera avium,species
+712310,Haemophilus sp. oral taxon 036,species
+357544,Helicobacter pylori HPAG1,genome
+509170,Acinetobacter baumannii SDF,genome
+267893,Idiomarinaceae,family
+135575,Idiomarina,genus
+1096243,Idiomarina piscisalsi,species
+995019,Sutterellaceae,family
+40544,Sutterella,genus
+2494234,Sutterella megalosphaeroides,species
+178399,Marinomonas primoryensis,species
+1416627,Oceanisphaera profunda,species
+374,Bradyrhizobium,genus
+858423,Bradyrhizobium arachidis,species
+165696,Novosphingobium,genus
+158500,Novosphingobium resinovorum,species
+33059,Acidithiobacillus caldus,species
+637389,Acidithiobacillus caldus ATCC 51756,genome
+1609977,Sphingomonas hengshuiensis,species
+119541,Rhodobaca,genus
+441209,Rhodobaca barguzinensis,species
+595495,Escherichia coli KO11FL,genome
+163164,Wolbachia endosymbiont of Drosophila melanogaster,species
+449,Legionella hackeliae,species
+877500,Arcobacter anaerophilus,species
+1241583,Burkholderia pseudomallei NCTC 13179,genome
+72407,Klebsiella pneumoniae subsp. pneumoniae KPNIH30,genome
+320372,Burkholderia pseudomallei 1710b,genome
+1933904,Bartonella sp. WD16.2,species
+491916,Rhizobium etli CIAT 652,genome
+367190,Yersinia similis,species
+264462,Bdellovibrio bacteriovorus HD100,genome
+1306787,Alcanivorax pacificus,species
+391936,Alcanivorax pacificus W11-5,genome
+935599,Neisseria meningitidis G2136 (serogroup B),genome
+35791,Rickettsia massiliae,species
+416276,Rickettsia massiliae MTU5,genome
+930166,Pseudomonas brassicacearum,species
+994484,Pseudomonas brassicacearum subsp. brassicacearum NFM421,genome
+69218,Enterobacter cancerogenus,species
+2203895,Psychrobacter sp. YP14,species
+943,Ehrlichia,genus
+945,Ehrlichia chaffeensis,species
+1249653,Ehrlichia chaffeensis Liberty,genome
+596154,Alicycliphilus denitrificans K601,genome
+85108,Halorhodospira,genus
+1052,Halorhodospira halochloris,species
+1404367,Bradyrhizobium symbiodeficiens,species
+198618,Pseudomonas umsongensis,species
+335929,Erythrobacteraceae,family
+1111,Porphyrobacter,genus
+1112,Porphyrobacter neustonensis,species
+1504981,Halomonas sp. KO116,species
+54526,Pelagibacterales,order
+1655514,Pelagibacteraceae,family
+198251,Candidatus Pelagibacter,genus
+2563896,Candidatus Pelagibacter giovannonii,species
+213422,Geobacteraceae,family
+28231,Geobacter,genus
+443143,Geobacter sp. M18,species
+32012,Thiomonas,genus
+926,Thiomonas intermedia,species
+75379,Thiomonas intermedia K12,genome
+93681,Roseateles,genus
+76731,Roseateles depolymerans,species
+1825976,Neorhizobium sp. NCHU2750,species
+380394,Acidithiobacillus ferrooxidans ATCC 53993,genome
+29543,Pelobacter propionicus,species
+338966,Pelobacter propionicus DSM 2379,genome
+803,Bartonella quintana,species
+1225179,Bartonella quintana RM-11,genome
+303,Pseudomonas putida,species
+1211579,Pseudomonas putida NBRC 14164,genome
+2605945,Chromobacterium sp. 257-1,species
+361177,Altererythrobacter,genus
+543877,Altererythrobacter marensis,species
+81,Hyphomicrobium,genus
+717785,Hyphomicrobium sp. MC1,species
+443144,Geobacter sp. M21,species
+33047,Bartonella vinsonii,species
+1094497,Bartonella vinsonii subsp. berkhoffii Winnie,genome
+336203,Sphingobium fuliginis,species
+1208342,Sphingobium fuliginis ATCC 27551,genome
+931866,Bradyrhizobium ottawaense,species
+416344,Burkholderia sp. KJ006,species
+1403053,Bordetella pertussis 137,genome
+235899,Nautiliales,order
+224467,Nautiliaceae,family
+191291,Nautilia,genus
+244787,Nautilia profundicola,species
+598659,Nautilia profundicola AmH,genome
+768,Anaplasma,genus
+770,Anaplasma marginale,species
+234826,Anaplasma marginale St. Maries,genome
+936476,Marinomonas posidonica,species
+491952,Marinomonas posidonica IVIA-Po-181,genome
+330922,Psychrobacter cryohalolentis,species
+335284,Psychrobacter cryohalolentis K5,genome
+672,Vibrio vulnificus,species
+914127,Vibrio vulnificus MO6-24/O,genome
+283699,Pseudoalteromonas sp. Bsw20308,species
+55601,Vibrio anguillarum,species
+882102,Vibrio anguillarum 775,genome
+99287,Salmonella enterica subsp. enterica serovar Typhimurium LT2 (Salmonella typhimurium LT2),genome
+1330547,Kosakonia,genus
+208223,Kosakonia cowanii,species
+1300165,Kosakonia cowanii JCM 10956 = DSM 18146,genome
+894,Desulfobulbus propionicus,species
+577650,Desulfobulbus propionicus DSM 2032,genome
+1334193,[Enterobacter] lignolyticus,species
+701347,Enterobacter lignolyticus SCF1 (Enterobacter cloacae SCF1),genome
+1055524,Burkholderia cenocepacia H111,genome
+1734920,Pseudorhodoplanes,genus
+1235591,Pseudorhodoplanes sinuspersici,species
+47885,Pseudomonas oryzihabitans,species
+585055,Escherichia coli 55989 (EAEC),genome
+756892,Acinetobacter indicus,species
+1321941,Helicobacter pylori UM298,genome
+2202828,Methylobacterium sp. 17Sr1-43,species
+118968,Coxiellaceae,family
+254245,Aquicella,genus
+254246,Aquicella lusitana,species
+1716143,Pseudodesulfovibrio indicus,species
+391896,Rickettsia bellii OSU 85-389,genome
+782,Rickettsia prowazekii,species
+272947,Rickettsia prowazekii Madrid E,genome
+29574,Taylorella,genus
+29575,Taylorella equigenitalis,species
+1091497,Taylorella equigenitalis 14/56,genome
+634452,Acetobacter pasteurianus IFO 3283-01,genome
+529,Ochrobactrum anthropi,species
+890,Desulfuromonas,genus
+1823759,Desulfuromonas sp. DDH964,species
+1780362,Campylobacter geochelonis,species
+515393,Pseudomonas yamanorum,species
+941193,Pseudomonas aeruginosa M18,genome
+119044,Filomicrobium,genus
+1608628,Candidatus Filomicrobium marinum,species
+1267577,Candidatus Kinetoplastibacterium crithidii,genome
+431946,Escherichia coli O150:H5 SE15 (commensal),genome
+187492,Thalassolituus,genus
+187493,Thalassolituus oleivorans,species
+1298593,Thalassolituus oleivorans MIL-1,genome
+1968541,Sulfitobacter sp. D7,species
+1208922,Candidatus Kinetoplastibacterium blastocrithidii TCC012E,genome
+1543705,Nitrospirillum,genus
+28077,Nitrospirillum amazonense,species
+1441467,Nitrospirillum amazonense CBAmC,genome
+454166,Salmonella enterica subsp. enterica serovar Agona SL483,genome
+670,Vibrio parahaemolyticus,species
+1338034,Vibrio parahaemolyticus O1:Kuk FDA_R31,genome
+488446,Burkholderia latens,species
+89583,Gluconacetobacter,genus
+33996,Gluconacetobacter diazotrophicus,species
+272568,Gluconacetobacter diazotrophicus PA1 5 (Brazil),genome
+931281,Pseudomonas putida BIRD-1,genome
+41275,Brevundimonas,genus
+1827469,Brevundimonas sp. GW460-12-10-14-LB2,species
+2016596,Azoarcus sp. M9-3-2,species
+56730,Rhizobium gallicum,species
+1418105,Rhizobium gallicum bv. gallicum R602,genome
+2008790,Thiobacillaceae,family
+919,Thiobacillus,genus
+36861,Thiobacillus denitrificans,species
+292415,Thiobacillus denitrificans ATCC 25259,genome
+571800,Psychrobacter sp. G,species
+1030,Thiothrix,genus
+1032,Thiothrix sp.,species
+1427356,Hyphomicrobium nitrativorans,species
+1029756,Hyphomicrobium nitrativorans NL23,genome
+538,Eikenella,genus
+2528037,Eikenella exigua,species
+899,Desulfomicrobium baculatum,species
+525897,Desulfomicrobium baculatum DSM 4028,genome
+13689,Sphingomonas paucimobilis,species
+310575,Advenella kashmirensis,species
+1036672,Advenella kashmirensis WT001,genome
+200,Campylobacter curvus,species
+360105,Campylobacter curvus 525.92,genome
+866630,Haemophilus influenzae F3031 (nontypeable),genome
+396,Rhizobium phaseoli,species
+484021,Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 (serotype K1),genome
+265,Paracoccus,genus
+1499308,Paracoccus mutanolyticus,species
+1248902,Escherichia coli O145:H28 RM13514 (EHEC),genome
+257310,Bordetella bronchiseptica RB50,genome
+213119,Desulfobacteraceae,family
+2295,Desulfobacterium,genus
+2296,Desulfobacterium autotrophicum,species
+177437,Desulfobacterium autotrophicum HRM2,genome
+323620,Shinella,genus
+879274,Shinella sp. HZN7,species
+1340851,Pseudomonas aeruginosa RP73,genome
+557723,Glaesserella parasuis SH0165 (Haemophilus parasuis SH0165),genome
+83618,Pseudoxanthomonas,genus
+314722,Pseudoxanthomonas suwonensis,species
+58180,Desulfovibrio alaskensis,species
+207559,Desulfovibrio alaskensis G20 (Desulfovibrio desulfuricans G20),genome
+1891675,Pantoea alhagi,species
+80865,Delftia,genus
+180282,Delftia tsuruhatensis,species
+85962,Helicobacter pylori 26695,genome
+2025949,Herbaspirillum sp. meg3,species
+881,Desulfovibrio vulgaris,species
+573059,Desulfovibrio vulgaris RCH1,genome
+634454,Acetobacter pasteurianus IFO 3283-07,genome
+1274631,Bradyrhizobium icense,species
+65959,Acetobacter pomorum,species
+269258,Nitratiruptor,genus
+387092,Nitratiruptor sp. SB155-2,species
+1176649,Agrobacterium fabrum,species
+176299,Agrobacterium fabrum C58 (Agrobacterium tumefaciens C58),genome
+742030,Salinisphaerales,order
+742031,Salinisphaeraceae,family
+180541,Salinisphaera,genus
+2183911,Salinisphaera sp. LB1,species
+1123519,Pseudomonas stutzeri DSM 10701,genome
+449719,Granulosicoccaceae,family
+437504,Granulosicoccus,genus
+437505,Granulosicoccus antarcticus,species
+1192854,Granulosicoccus antarcticus IMCC3135,genome
+212,Helicobacter acinonychis,species
+382638,Helicobacter acinonychis Sheeba,genome
+331112,Escherichia coli O9 HS (commensal strain),genome
+718,Actinobacillus equuli,species
+202947,Actinobacillus equuli subsp. equuli 19392,genome
+391613,Roseovarius sp. TM1035,species
+2203213,Roseovarius sp. AK1035,genome
+626,Xenorhabdus,genus
+40577,Xenorhabdus poinarii,species
+1354304,Xenorhabdus poinarii G6,genome
+67854,Actinobacillus succinogenes,species
+339671,Actinobacillus succinogenes 130Z,genome
+1861863,Sinimarinibacterium,genus
+2698684,Sinimarinibacterium sp. NLF-5-8,species
+263369,Bacteriovoracaceae,family
+146784,Bacteriovorax,genus
+960,Bacteriovorax stolpii,species
+2060726,Neorhizobium sp. SOG26,species
+1397108,Celeribacter marinus,species
+1259973,Raoultella electrica,species
+1594166,Oricola,genus
+2742145,Oricola sp. MEBiC13590,species
+480119,Acinetobacter baumannii AB0057,genome
+1628086,Pseudomonas kribbensis,species
+220664,Pseudomonas protegens Pf-5,genome
+92944,Ketogulonicigenium,genus
+92945,Ketogulonicigenium vulgare,species
+880591,Ketogulonicigenium vulgare Y25,genome
+1328881,Candidatus Midichloriaceae,family
+1802983,Candidatus Fokinia,genus
+1802984,Candidatus Fokinia solitaria,species
+1850250,Rhodobacter sp. LPB0142,species
+1412459,Salmonella enterica subsp. enterica serovar Enteritidis EC20090193,genome
+318147,Paucibacter,genus
+1768242,Paucibacter sp. KCTC 42545,species
+1004954,Brucella suis bv. 1 S2,genome
+37372,Helicobacter bilis,species
+28449,Neisseria subflava,species
+656179,Pandoraea faecigallinarum,species
+125216,Roseomonas,genus
+207340,Roseomonas mucosa,species
+476213,Salmonella enterica subsp. enterica serovar Paratyphi C RKS4594,genome
+879567,Pseudodesulfovibrio piezophilus,species
+1322246,Pseudodesulfovibrio piezophilus C1TLV30 (Desulfovibrio piezophilus C1TLV30),genome
+463040,Bordetella genomosp. 13,species
+316612,Methylibium,genus
+105560,Methylibium petroleiphilum,species
+420662,Methylibium petroleiphilum PM1,genome
+76890,Asticcacaulis,genus
+78587,Asticcacaulis excentricus,species
+573065,Asticcacaulis excentricus CB 48,genome
+338,Xanthomonas,genus
+56464,Xanthomonas theicola,species
+44013,Polynucleobacter,genus
+576610,Polynucleobacter necessarius,species
+452638,Polynucleobacter necessarius STIR1,genome
+1660076,Campylobacter sp. RM12175,species
+266834,Sinorhizobium meliloti 1021,genome
+71,Simonsiella,genus
+72,Simonsiella muelleri,species
+641147,Simonsiella muelleri ATCC 29453,genome
+715451,Alteromonas naphthalenivorans,species
+60478,Shewanella amazonensis,species
+326297,Shewanella amazonensis SB2B,genome
+134,Methylocystis parvus,species
+320373,Burkholderia pseudomallei 668,genome
+158836,Enterobacter hormaechei,species
+299766,Enterobacter hormaechei subsp. steigerwaltii 34977,genome
+298657,Pseudoalteromonas spongiae,species
+1117319,Pseudoalteromonas spongiae UST010723-006,genome
+205920,Ehrlichia chaffeensis Arkansas,genome
+69657,Hyphomonadaceae,family
+74317,Maricaulis,genus
+74318,Maricaulis maris,species
+394221,Maricaulis maris MCS10,genome
+40576,Xenorhabdus bovienii,species
+1822464,Paraburkholderia,genus
+252970,Paraburkholderia phenoliruptrix,species
+1229205,Paraburkholderia phenoliruptrix BR3459a,genome
+316058,Rhodopseudomonas palustris HaA2,genome
+2030797,Glaesserella sp. 15-184,species
+1649510,Variibacter,genus
+1333996,Variibacter gotjawalensis,species
+655307,Neisseria sp. KEM232,species
+1236179,Janthinobacterium sp. B9-8,species
+442694,Xanthomonas perforans,species
+54736,Salmonella bongori,species
+1382510,Salmonella bongori serovar 48:z41:-- RKS3044,genome
+338565,Erwinia tasmaniensis,species
+465817,Erwinia tasmaniensis Et1/99,genome
+739141,Methylobacterium sp. XJLW,species
+47880,Pseudomonas fulva,species
+743720,Pseudomonas fulva 12-X,genome
+1288313,Gluconobacter oxydans DSM 3504,genome
+374930,Haemophilus influenzae PittEE (nontypeable),genome
+119857,Francisella tularensis subsp. holarctica FTT_1,genome
+267889,Colwelliaceae,family
+28228,Colwellia,genus
+2161872,Colwellia sp. Arc7-D,species
+83654,Leclercia,genus
+2681307,Leclercia sp. J807,species
+453227,Desulfarculales,order
+453228,Desulfarculaceae,family
+453229,Desulfarculus,genus
+453230,Desulfarculus baarsii,species
+644282,Desulfarculus baarsii DSM 2075,genome
+106591,Ensifer,genus
+375549,Ensifer mexicanus,species
+1646340,Kosakonia pseudosacchari,species
+1418110,Aeromonas hydrophila AL09-71,genome
+28065,Rhodoferax,genus
+2509614,Rhodoferax sediminis,species
+399599,Shewanella baltica OS195,genome
+1793721,Stenotrophomonas sp. KCTC 12332,species
+413501,Cronobacter muytjensii,species
+1159613,Cronobacter muytjensii ATCC 51329,genome
+292486,Avibacterium,genus
+728,Avibacterium paragallinarum,species
+218207,Desulfatibacillum,genus
+218208,Desulfatibacillum aliphaticivorans,species
+435,Acetobacter aceti,species
+1609758,Novosphingobium sp. P6W,species
+634455,Acetobacter pasteurianus IFO 3283-22,genome
+1028801,Neorhizobium galegae bv. officinalis bv. officinalis HAMBI 1141,genome
+397260,Sphingomonas sanxanigenens,species
+1123269,Sphingomonas sanxanigenens DSM 19645 = NX02,genome
+215221,Komagataeibacter rhaeticus,species
+859656,Ralstonia solanacearum CFBP2957,genome
+1321940,Helicobacter pylori UM066,genome
+579,Kluyvera,genus
+61648,Kluyvera intermedia,species
+2678886,Pulveribacter,genus
+2116657,Pulveribacter suum,species
+368607,Janthinobacterium svalbardensis,species
+948107,Paraburkholderia sprentiae,species
+754502,Paraburkholderia sprentiae WSM5005,genome
+1105103,Rickettsia rickettsii Hauke,genome
+1524216,Labilitrichaceae,family
+1524217,Labilithrix,genus
+1391654,Labilithrix luteola,species
+2067960,Azoarcus sp. SY39,species
+375,Bradyrhizobium japonicum,species
+657445,Francisella noatunensis,species
+1163389,Francisella orientalis Toba 04,genome
+1380768,Campylobacter jejuni subsp. jejuni 00-2538,genome
+671990,Serratia sp. FGI94,species
+453783,Lysobacter soli,species
+85413,Bosea,genus
+1792307,Bosea sp. PAMC 26642,species
+1055532,Helicobacter pylori Aklavik86,genome
+1249471,Burkholderia pseudomallei MSHR146,genome
+158483,Cedecea,genus
+158823,Cedecea lapagei,species
+876364,Cupriavidus sp. USMAA2-4,species
+94624,Bordetella petrii,species
+340100,Bordetella petrii DSM 12804,genome
+2115980,Candidatus Phycorickettsia,genus
+2115978,Candidatus Phycorickettsia trachydisci,species
+1436289,Candidatus Symbiobacter,genus
+1436290,Candidatus Symbiobacter mobilis,species
+946483,Candidatus Symbiobacter mobilis CR (Comamonadaceae bacterium CR),genome
+779,Ehrlichia ruminantium,species
+302409,Ehrlichia ruminantium Gardel,genome
+56455,Xanthomonas hyacinthi,species
+687,Vibrio gazogenes,species
+33073,Zymobacter,genus
+33074,Zymobacter palmae,species
+1434046,Sphingorhabdus,genus
+1806885,Sphingorhabdus sp. M41,species
+241368,Desulfovibrio ferrophilus,species
+339,Xanthomonas campestris,species
+190485,Xanthomonas campestris pv. campestris ATCC 33913,genome
+2579250,Nautilia sp. PV-1,species
+730,[Haemophilus] ducreyi,species
+233412,Haemophilus ducreyi 35000HP,genome
+375286,Janthinobacterium sp. Marseille,species
+2678688,Pseudodesulfovibrio sp. SRB007,species
+93682,Roseivivax,genus
+2588299,Roseivivax sp. THAF197b,species
+204039,Dickeya dianthicola,species
+1306405,Dickeya dianthicola RNS04.9,genome
+360106,Campylobacter fetus subsp. fetus 82-40,genome
+1202540,Candidatus Carsonella ruddii PC isolate NHV,genome
+190893,Vibrio coralliilyticus,species
+552,Erwinia amylovora,species
+716540,Erwinia amylovora ATCC 49946,genome
+522,Acidiphilium,genus
+62140,Acidiphilium multivorum,species
+926570,Acidiphilium multivorum AIU301,genome
+1154756,Serratia plymuthica PRI-2C,genome
+2745590,Rhodobacteraceae bacterium SC52,species
+60890,Phaeobacter gallaeciensis,species
+1423144,Phaeobacter gallaeciensis DSM 26640,genome
+349106,Psychrobacter sp. PRwf-1,species
+1518149,Thalassotalea,genus
+2552945,Thalassotalea sp. HSM 43,species
+573235,Escherichia coli O26:H11 11368 (EHEC),genome
+48664,Xanthomonas fragariae,species
+32022,Campylobacter jejuni subsp. jejuni YH001,genome
+544,Citrobacter,genus
+133448,Citrobacter youngae,species
+558537,Delftia lacustris,species
+314275,Alteromonas mediterranea,species
+1300258,Alteromonas mediterranea UM7 (Alteromonas macleodii Ionian Sea UM7),genome
+82976,Buttiauxella,genus
+82977,Buttiauxella agrestis,species
+1927833,Candidatus Fukatsuia,genus
+1878942,Candidatus Fukatsuia symbiotica,species
+34067,Cycloclasticus,genus
+728003,Cycloclasticus sp. PY97N,species
+1197719,Salmonella bongori N268-08,genome
+1273266,Campylobacter fetus subsp. venerealis cfvi03/293,genome
+1706375,Spongiibacteraceae,family
+630749,Spongiibacter,genus
+1620392,Spongiibacter sp. IMCC21906,species
+1105100,Rickettsia rickettsii Hino,genome
+2675054,Thiomicrorhabdus sp. aks77,species
+1985254,Xanthomonas phaseoli,species
+317013,Xanthomonas phaseoli pv. phaseoli CFBP6546R,genome
+235,Brucella abortus,species
+520454,Brucella abortus bv. 6 870,genome
+69,Lysobacter enzymogenes,species
+261317,Buchnera aphidicola BCtu,genome
+122587,Neisseria meningitidis Z2491 (serogroup A),genome
+201,Campylobacter lari,species
+1388749,Campylobacter lari NCTC 11845,genome
+71655,Brenneria,genus
+1109412,Brenneria goodwinii,species
+2126319,Variovorax sp. PMC12,species
+158822,Cedecea neteri,species
+321983,Massilia albidiflava,species
+374106,Campylobacter cuniculorum,species
+1121267,Campylobacter cuniculorum DSM 23162 = LMG 24588,genome
+621,Shigella boydii,species
+344609,Shigella boydii CDC 3083-94 (serotype 18),genome
+391036,Ehrlichia sp. HF,species
+1249526,Mannheimia haemolytica USDA-ARS-USMARC-185,genome
+2599640,Bosea sp. F3-2,species
+120576,Brucella pinnipedialis,species
+1903412,Hafniaceae,family
+635,Edwardsiella,genus
+1578828,Edwardsiella sp. EA181011,species
+776,Coxiella,genus
+2054173,Candidatus Coxiella mudrowiae,species
+223967,Methylorubrum populi,species
+441620,Methylorubrum populi BJ001,genome
+56812,Shewanella frigidimarina,species
+318167,Shewanella frigidimarina NCIMB 400,genome
+1649468,Melaminivora,genus
+2109913,Melaminivora sp. SC2-9,species
+1563222,Citrobacter pasteurii,species
+2425,Teredinibacter,genus
+2426,Teredinibacter turnerae,species
+377629,Teredinibacter turnerae T7901,genome
+769,Anaplasma centrale,species
+574556,Anaplasma centrale Israel,genome
+326523,Neisseria zoodegmatis,species
+149539,Salmonella enterica subsp. enterica serovar Enteritidis OLF-SE1-1019-1,genome
+314565,Xanthomonas campestris pv. campestris 8004 (Beijing),genome
+68895,Cupriavidus basilensis,species
+765963,Helicobacter pylori PeCan4,genome
+573657,Candidatus Hodgkinia,genus
+573658,Candidatus Hodgkinia cicadicola,species
+573234,Candidatus Hodgkinia cicadicola Dsem,genome
+321846,Pseudomonas simiae,species
+59,Vitreoscilla,genus
+96942,Vitreoscilla sp. C1,species
+152682,Sphingomonas melonis,species
+621456,Sphingomonas melonis TY,genome
+85698,Achromobacter xylosoxidans,species
+2133959,Bartonella kosoyi,species
+2008795,Azonexaceae,family
+73029,Dechloromonas,genus
+2231055,Dechloromonas sp. HYN0024,species
+657,Photobacterium,genus
+38293,Photobacterium damselae,species
+85581,Photobacterium damselae subsp. damselae KC-Na-1,genome
+1443919,Tabrizicola,genus
+2494374,Tabrizicola piscis,species
+788,Rickettsia canadensis,species
+1105107,Rickettsia canadensis CA410,genome
+238749,Diaphorobacter,genus
+1288495,Diaphorobacter aerolatus,species
+66969,Legionella waltersii,species
+507,Alcaligenes,genus
+511,Alcaligenes faecalis,species
+2283318,Moraxellaceae bacterium HYN0046,species
+1411902,Celeribacter manganoxidans,species
+1902578,Candidatus Tokpelaia,genus
+1902579,Candidatus Tokpelaia hoelldoblerii,species
+1699622,Psychrobacter sp. P2G3,species
+510831,Francisella tularensis subsp. tularensis NE061598,genome
+2057741,Bradyrhizobium sp. SK17,species
+1938605,Brevundimonas sp. LM2,species
+230666,Chitinibacter,genus
+1737446,Chitinibacter fontanus,species
+309868,Candidatus Liberibacter americanus,species
+1261131,Candidatus Liberibacter americanus Sao Paulo,genome
+59754,Alcanivorax borkumensis,species
+393595,Alcanivorax borkumensis SK2,genome
+1093787,Pseudomonas aeruginosa DK2,genome
+1463165,Klebsiella quasipneumoniae,species
+1201032,Campylobacter jejuni subsp. jejuni PT14,genome
+85404,Mannheimia varigena,species
+1433287,Mannheimia varigena USDA-ARS-USMARC-1296,genome
+652103,Rhodopseudomonas palustris DX-1,genome
+873191,Arcobacter defluvii,species
+1004787,Alteromonas macleodii Balearic Sea AD45,genome
+55518,Magnetospirillum gryphiswaldense,species
+1430440,Magnetospirillum gryphiswaldense MSR-1 v2,genome
+1295392,Photobacterium gaetbulicola,species
+658445,Photobacterium gaetbulicola Gung47,genome
+1053648,Candidatus Tremblaya princeps PCVAL,genome
+45404,Beijerinckiaceae,family
+120652,Methylocella,genus
+227605,Methylocella tundrae,species
+525146,Desulfovibrio desulfuricans ATCC 27774,genome
+255475,Aurantimonadaceae,family
+293088,Martelella,genus
+1486262,Martelella endophytica,species
+1644131,Janthinobacterium sp. 1_2014MBL_MicDiv,species
+486,Neisseria lactamica,species
+489653,Neisseria lactamica 020-06,genome
+251535,Candidatus Blochmannia vafer,species
+859654,Candidatus Blochmannia vafer BVAF,genome
+246861,Grimontia,genus
+673,Grimontia hollisae,species
+235572,Candidatus Portiera,genus
+91844,Candidatus Portiera aleyrodidarum,species
+56877,Helicobacter bizzozeronii,species
+1002804,Helicobacter bizzozeronii CIII-1,genome
+36873,Paraburkholderia xenovorans,species
+266265,Paraburkholderia xenovorans LB400 (Burkholderia xenovorans LB400),genome
+1125630,Klebsiella pneumoniae subsp. pneumoniae HS11286,genome
+911,Nitrobacter,genus
+913,Nitrobacter winogradskyi,species
+323098,Nitrobacter winogradskyi Nb-255,genome
+1335631,Frischella,genus
+1267021,Frischella perrara,species
+56459,Xanthomonas vasicola,species
+325776,Xanthomonas vasicola pv. vasculorum SAM119,genome
+561501,Buchnera aphidicola Tuc7,genome
+198215,Shigella flexneri 2457T (serotype 2a),genome
+859653,alpha proteobacterium HIMB5,species
+1311759,Mannheimia haemolytica D171,genome
+1174529,Candidatus Liberibacter asiaticus gxpsy,genome
+1352356,Helicobacter pylori SouthAfrica20,genome
+347,Xanthomonas oryzae,species
+383407,Xanthomonas oryzae pv. oryzicola BLS256,genome
+2259883,Acetobacter sp. JWB,species
+221822,Phaeobacter inhibens,species
+391619,Phaeobacter inhibens DSM 17395 (Phaeobacter gallaeciensis DSM 17395),genome
+73010,Aeromonas encheleia,species
+933,Thiomicrospira,genus
+147268,Thiomicrospira cyclica,species
+717773,Thiomicrospira cyclica ALM1 (Thioalkalimicrobium cyclicum ALM1),genome
+405440,Xylella fastidiosa M12,genome
+35703,Citrobacter amalonaticus,species
+89184,Ruegeria pomeroyi,species
+246200,Ruegeria pomeroyi DSS-3,genome
+1706373,Microbulbiferaceae,family
+48073,Microbulbifer,genus
+2587856,Microbulbifer sp. THAF38,species
+585535,Helicobacter pylori 35A,genome
+2494701,Enterobacter chengduensis,species
+2202827,Methylobacterium terrae,species
+396595,Thioalkalivibrio sp. K90mix,species
+75787,Rhodocyclaceae,family
+1898103,Rhodocyclaceae bacterium,species
+511145,Escherichia coli K-12 MG1655,genome
+456327,Xanthomonas euvesicatoria,species
+316273,Xanthomonas campestris pv. vesicatoria 85-10,genome
+2299,Desulfosarcina,genus
+571177,Desulfosarcina alkanivorans,species
+631,Yersinia intermedia,species
+28107,Pseudoalteromonas espejiana,species
+1314869,Pseudoalteromonas espejiana DSM 9414,genome
+696749,Acinetobacter baumannii 1656-2,genome
+528244,Azospirillum thiophilum,species
+937774,Taylorella equigenitalis MCE9,genome
+225194,Geobacter bemidjiensis,species
+404380,Geobacter bemidjiensis Bem,genome
+743721,Pseudoxanthomonas suwonensis 11-1,genome
+1892855,Sphingosinicella sp. BN140058,species
+202950,Acinetobacter baylyi,species
+62977,Acinetobacter baylyi ADP1 (Acinetobacter sp. ADP1),genome
+346,Xanthomonas citri,species
+611301,Xanthomonas citri pv. citri mf20 (Xanthomonas citri subsp. citri mf20),genome
+1462615,Halarcobacter ebronensis,species
+1004785,Alteromonas macleodii Black Sea 11,genome
+2520507,Shewanella maritima,species
+2211641,Yoonia,genus
+245188,Yoonia vestfoldensis,species
+2732067,Nitrosomonadales bacterium 0125_3,species
+53945,Octadecabacter,genus
+1458307,Octadecabacter temperatus,species
+583,Proteus,genus
+584,Proteus mirabilis,species
+1266738,Proteus mirabilis BB2000,genome
+777,Coxiella burnetii,species
+434923,Coxiella burnetii CbuG_Q212,genome
+59803,Sphingomonas echinoides,species
+28232,Geobacter metallireducens,species
+269799,Geobacter metallireducens GS-15,genome
+114615,Bradyrhizobium sp. ORS 278,species
+1420916,Marinobacter similis,species
+669,Vibrio harveyi,species
+2685927,Tardibacter,genus
+1921510,Tardibacter chloracetimidivorans,species
+568708,Salmonella enterica subsp. enterica serovar Typhimurium D23580,genome
+481805,Escherichia coli ATCC 8739,genome
+106648,Acinetobacter bereziniae,species
+1920116,Leclercia sp. LSNIH3,species
+1234600,Helicobacter pylori Rif2,genome
+2045208,Massilia violaceinigra,species
+1715720,Diaphorobacter ruginosibacter,species
+82367,Paracoccus pantotrophus,species
+41977,Azoarcus communis,species
+65741,Pseudomonas knackmussii,species
+1301098,Pseudomonas knackmussii B13,genome
+1249662,Burkholderia thailandensis E444,genome
+93222,Pandoraea sputorum,species
+2490452,Serpentinomonas,genus
+1458425,Serpentinomonas raichei,species
+393011,Francisella tularensis subsp. holarctica OSU18,genome
+1593482,Massilia sp. YMA4,species
+994692,Candidatus Kinetoplastibacterium desouzaii,species
+1208919,Candidatus Kinetoplastibacterium desouzaii TCC079E,genome
+2220073,Bdellovibrio sp. NC01,species
+1335745,Spiribacter,genus
+1335746,Spiribacter salinus,species
+1260251,Spiribacter salinus M19-40,genome
+1016987,Novosphingobium sp. THN1,species
+93219,Pandoraea norimbergensis,species
+29487,Photorhabdus,genus
+2218628,Photorhabdus laumondii,species
+243265,Photorhabdus laumondii subsp. laumondii TTO1 (Photorhabdus luminescens subsp. laumondii TTO1),genome
+488731,Burkholderia seminalis,species
+135577,Idiomarina loihiensis,species
+283942,Idiomarina loihiensis L2TR,genome
+2587862,Vibrio sp. THAF100,species
+1263978,Candidatus Endolissoclinum,genus
+1263979,Candidatus Endolissoclinum faulkneri,species
+1401328,Candidatus Endolissoclinum faulkneri L5,genome
+217204,Achromobacter insolitus,species
+2321113,Pseudoarcobacter,genus
+1849015,Pseudoarcobacter acticola,species
+47420,Hydrogenophaga,genus
+2565558,Hydrogenophaga sp. PAMC20947,species
+497724,Campylobacter subantarcticus,species
+1388752,Campylobacter subantarcticus LMG 24377,genome
+29581,Janthinobacterium lividum,species
+618,Serratia odorifera,species
+212743,Rhizobacter,genus
+946333,Rhizobacter gummiphilus,species
+1427342,Pseudomonas aeruginosa SCV20265,genome
+2042066,Paraphotobacterium,genus
+1755811,Paraphotobacterium marinum,species
+543913,beta proteobacterium CB,species
+951,Neorickettsia sennetsu,species
+222891,Neorickettsia sennetsu Miyayama,genome
+1777866,Mesorhizobium erdmanii,species
+204722,Brucella suis 1330,genome
+548,Klebsiella aerogenes,species
+1028307,Klebsiella aerogenes KCTC 2190 (Enterobacter aerogenes KCTC 2190),genome
+2171755,Rhodobacteraceae bacterium BAR1,species
+1068,Rhodomicrobium,genus
+1069,Rhodomicrobium vannielii,species
+648757,Rhodomicrobium vannielii ATCC 17100,genome
+1324350,Acinetobacter equi,species
+2575375,Pantoea sp. SO10,species
+1048689,Escherichia coli O55:H7 RM12579 (EPEC),genome
+2080469,Zoogloeaceae bacteirum Par-f-2,species
+1439855,Burkholderia pseudomallei A79A,genome
+24,Shewanella putrefaciens,species
+399804,Shewanella putrefaciens 200,genome
+216595,Pseudomonas fluorescens SBW25,genome
+183190,Xylella fastidiosa Temecula1,genome
+933093,Legionella pneumophila subsp. pneumophila ATCC 43290 (serogroup 12),genome
+1903416,Budviciaceae,family
+82980,Leminorella,genus
+158841,Leminorella richardii,species
+244734,Bradyrhizobium betae,species
+283,Comamonas,genus
+1082851,Comamonas serinivorans,species
+29423,Legionella oakridgensis,species
+1268635,Legionella oakridgensis ATCC 33761 = DSM 21215,genome
+765869,Bdellovibrio bacteriovorus W,genome
+2547598,Marinobacter sp. JH2,species
+1249474,Burkholderia pseudomallei MSHR511,genome
+197482,Arcobacter halophilus,species
+380,Sinorhizobium fredii,species
+394,Sinorhizobium fredii NGR234,genome
+1100841,Acinetobacter baumannii TYTH-1,genome
+28884,Hydrogenovibrio,genus
+265883,Hydrogenovibrio thermophilus,species
+581,Morganella,genus
+582,Morganella morganii,species
+1124991,Morganella morganii subsp. morganii KT,genome
+447792,Phytobacter,genus
+395631,Phytobacter diazotrophicus,species
+420953,Paraburkholderia megapolitana,species
+475,Moraxella,genus
+476,Moraxella bovis,species
+84590,Taylorella asinigenitalis,species
+1008459,Taylorella asinigenitalis MCE3,genome
+2565556,Sphingopyxis sp. PAMC25046,species
+557722,Pseudomonas aeruginosa LESB58,genome
+2052938,Enterobacteriaceae bacterium S05,species
+439851,Salmonella enterica subsp. enterica serovar Dublin CT_02021853,genome
+2666185,Spiribacter sp. 2438,species
+748672,Yersinia pseudotuberculosis PA3606,genome
+35794,Rickettsia slovaca,species
+941638,Rickettsia slovaca 13-B,genome
+2082386,Methylibium sp. Pch-M,species
+155892,Caulobacter vibrioides,species
+190650,Caulobacter vibrioides CB15 (Caulobacter crescentus CB15),genome
+191028,Leisingera,genus
+1396826,Leisingera aquaemixtae,species
+404011,Shewanella piezotolerans,species
+225849,Shewanella piezotolerans WP3,genome
+1549949,Bradyrhizobium vignae,species
+1338411,Rickettsia rickettsii R,genome
+28173,Vibrio nigripulchritudo,species
+450,Legionella longbeachae,species
+661367,Legionella longbeachae NSW150,genome
+255526,Halothiobacillaceae,family
+109262,Halothiobacillus,genus
+927,Halothiobacillus neapolitanus,species
+555778,Halothiobacillus neapolitanus c2,genome
+913109,Arcobacter ellisii,species
+2267264,Alteromonas sp. RKMC-009,species
+1010676,Candidatus Tremblaya phenacola,species
+1266371,Candidatus Tremblaya phenacola PAVE,genome
+1133853,Escherichia coli O104:H4 2009EL-2071 (EAEC),genome
+1108595,Chromobacterium vaccinii,species
+32,Myxococcus,genus
+1297742,Myxococcus hansupus,species
+665029,Erwinia amylovora CFBP1430,genome
+680,Vibrio campbellii,species
+338187,Vibrio campbellii ATCC BAA-1116 (Vibrio harveyi ATCC BAA-1116),genome
+1960084,Rodentibacter,genus
+1906744,Rodentibacter heylii,species
+2579977,Brevundimonas sp. SGAir0440,species
+61651,Serratia ficaria,species
+640512,Burkholderia sp. CCGE1003,species
+72173,Citromicrobium,genus
+1634516,Citromicrobium sp. JL477,species
+1321370,Idiomarina loihiensis GSL 199,genome
+2705399,Hypericibacter,genus
+2602015,Hypericibacter terrae,species
+1785128,Acinetobacter lactucae,species
+1036172,Arcobacter butzleri 7h1h,genome
+13373,Burkholderia mallei,species
+320389,Burkholderia mallei NCTC 10247,genome
+152500,Burkholderia dolosa,species
+350701,Burkholderia dolosa AU0158,genome
+1690485,Betaproteobacteria bacterium UKL13-2,species
+351745,Shewanella sp. W3-18-1,species
+413497,Cronobacter dublinensis,species
+1159554,Cronobacter dublinensis subsp. dublinensis LMG 23823,genome
+1913578,Sphingopyxis sp. LPB0140,species
+1248726,Helicobacter pylori OK310,genome
+258594,Rhodopseudomonas palustris CGA009,genome
+231454,Dyella,genus
+445710,Dyella thiooxydans,species
+1749259,Marinobacter sp. LQ44,species
+93378,Edwardsiella hoshinae,species
+213,Helicobacter cinaedi,species
+1172562,Helicobacter cinaedi PAGU611,genome
+1030157,Sphingomonas sp. KC8,species
+1532555,Brevundimonas sp. DS20,species
+40216,Acinetobacter radioresistens,species
+80842,Herbaspirillum rubrisubalbicans,species
+1078773,Herbaspirillum rubrisubalbicans M1,genome
+2027405,Azoarcus sp. DD4,species
+743973,Taylorella equigenitalis ATCC 35865,genome
+204038,Dickeya dadantii,species
+198628,Dickeya dadantii 3937,genome
+334852,Methylobacterium oryzae,species
+693986,Methylobacterium oryzae CBMB20,genome
+174951,Ramlibacter,genus
+94132,Ramlibacter tataouinensis,species
+365046,Ramlibacter tataouinensis TTB310,genome
+1176536,Novosphingobium ginsenosidimutans,species
+1055529,Helicobacter pylori Puno135,genome
+50719,Vibrio diabolicus,species
+640030,Neisseria zalophi,species
+168934,Thalassospira,genus
+220697,Thalassospira xiamenensis,species
+1123366,Thalassospira xiamenensis M-5 = DSM 17429,genome
+85076,Marichromatium,genus
+37487,Marichromatium purpuratum,species
+765910,Marichromatium purpuratum 984,genome
+1290427,Rickettsia prowazekii NMRC Madrid E,genome
+1053,Halorhodospira halophila,species
+349124,Halorhodospira halophila SL1,genome
+29430,Acinetobacter haemolyticus,species
+585,Proteus vulgaris,species
+152297,Pseudoalteromonas issachenkonii,species
+449216,Rickettsia prowazekii Rp22,genome
+567106,Campylobacter jejuni subsp. jejuni IA3902,genome
+100901,Wolbachia endosymbiont of Onchocerca ochengi,species
+544404,Escherichia coli O157:H7 TW14359 (EHEC),genome
+1041,Erythrobacter,genus
+192812,Erythrobacter flavus,species
+762,Avibacterium volantium,species
+1961362,Sphingomonas sp. NIC1,species
+2042057,Pectobacterium polaris,species
+316055,Rhodopseudomonas palustris BisA53,genome
+1296536,Enterobacter hormaechei subsp. xiangfangensis LMG27195,genome
+2505970,Campylobacter armoricus,species
+48935,Novosphingobium aromaticivorans,species
+279238,Novosphingobium aromaticivorans DSM 12444,genome
+2026199,Paraburkholderia aromaticivorans,species
+367771,Marinovum,genus
+42444,Marinovum algicola,species
+988812,Marinovum algicola DG 898,genome
+1333850,Enterobacter cloacae ECNIH2,genome
+1160717,Salmonella enterica subsp. enterica serovar Heidelberg B182,genome
+288793,Salinimonas,genus
+2572577,Salinimonas sp. KX18D6,species
+96563,Pseudomonas stutzeri ATCC 17588 = LMG 11199,genome
+1827195,Caballeronia,genus
+2705547,Caballeronia sp. SBC2,species
+260714,Campylobacter insulaenigrae,species
+1031564,Campylobacter insulaenigrae NCTC 12927,genome
+563041,Helicobacter pylori G27,genome
+553,Pantoea ananatis,species
+1095774,Pantoea ananatis PA13,genome
+316057,Rhodopseudomonas palustris BisB5,genome
+1112912,Brucella suis VBI22,genome
+106592,Ensifer adhaerens,species
+1416753,Ensifer adhaerens OV14,genome
+1621534,Paraglaciecola,genus
+326544,Paraglaciecola psychrophila,species
+1129794,Paraglaciecola psychrophila 170 (Glaciecola psychrophila 170),genome
+198620,Pseudomonas koreensis,species
+1312904,Legionella pneumophila subsp. pneumophila LPE509 (Legionella pneumophila subsp. pneumophila Philadelphia 1),genome
+1105098,Rickettsia prowazekii GvV257,genome
+2023229,Porphyrobacter sp. HT-58-2,species
+1089456,Pseudomonas aeruginosa NCGM2.S1,genome
+360528,Pelagibaca,genus
+1250539,Pelagibaca abyssi,species
+214906,Histophilus,genus
+731,Histophilus somni,species
+205914,Histophilus somni 129PT (Haemophilus somnus 129PT),genome
+482957,Burkholderia lata,species
+2033438,Serratia sp. MYb239,species
+51161,Actinobacillus delphinicola,species
+1407462,Helicobacter pylori BM012A,genome
+515256,Bartonella sp. 1-1C,species
+981386,Brucella vulpis,species
+366649,Xanthomonas citri pv. fuscans 4834-R (Xanthomonas fuscans subsp. fuscans 4834-R),genome
+242606,Luteibacter rhizovicinus,species
+1440763,Luteibacter rhizovicinus DSM 16549 LJ96T (Luteibacter rhizovicinus LJ96T),genome
+743714,Orbus,genus
+1635327,Orbus sp. IPMB12,species
+1283330,Azotobacter vinelandii CA,genome
+1612157,Pararhodospirillum,genus
+1084,Pararhodospirillum photometricum,species
+1150469,Pararhodospirillum photometricum DSM 122 (Rhodospirillum photometricum DSM 122),genome
+570508,Helicobacter pylori P12,genome
+305976,Pusillimonas,genus
+2716226,Pusillimonas sp. DMV24BSW_D,species
+391774,Desulfovibrio vulgaris DP4,genome
+2048283,Thalassospira marina,species
+228,Pseudoalteromonas haloplanktis,species
+326442,Pseudoalteromonas translucida TAC125 (Pseudoalteromonas haloplanktis TAC125),genome
+209261,Salmonella enterica subsp. enterica serovar Typhi Ty2,genome
+83614,Luteimonas,genus
+2006110,Luteimonas sp. 100111,species
+364409,Granulibacter,genus
+364410,Granulibacter bethesdensis,species
+1051974,Granulibacter bethesdensis CGDNIH2,genome
+1134782,Escherichia coli O104:H4 2009EL-2050 (EAEC),genome
+568394,Pseudogulbenkiania,genus
+748280,Pseudogulbenkiania sp. NH8B,species
+360094,Xanthomonas oryzae pv. oryzae PXO99A,genome
+1171376,Salmonella enterica subsp. enterica serovar Typhimurium U288,genome
+1249531,Mannheimia haemolytica USDA-ARS-USMARC-183,genome
+234831,Pseudoalteromonas sp. SM9913,species
+1412840,Anaplasma marginale Gypsy Plains,genome
+108980,Acinetobacter ursingii,species
+1514074,Pseudoalteromonas sp. NC201,species
+1448139,Aeromonas hydrophila YL17,genome
+511678,Aliivibrio,genus
+668,Aliivibrio fischeri,species
+312309,Aliivibrio fischeri ES114 (Vibrio fischeri ES114),genome
+546,Citrobacter freundii,species
+1333848,Citrobacter freundii CFNIH1,genome
+587753,Pseudomonas chlororaphis,species
+2321111,Aliiarcobacter,genus
+1935204,[Arcobacter] porcinus,species
+373,Agrobacterium vitis,species
+311402,Agrobacterium vitis S4,genome
+1670800,Mesorhizobium oceanicum,species
+33057,Thauera,genus
+96773,Thauera chlorobenzoica,species
+33050,Sphingopyxis macrogoltabida,species
+335928,Xanthobacteraceae,family
+279,Xanthobacter,genus
+280,Xanthobacter autotrophicus,species
+78245,Xanthobacter autotrophicus Py2,genome
+101564,Pseudomonas alcaliphila,species
+741155,Pseudomonas alcaliphila JAB1,genome
+2547601,Porphyrobacter sp. YT40,species
+60552,Burkholderia vietnamiensis,species
+1449978,Burkholderia vietnamiensis LMG 10929,genome
+191301,Caminibacter,genus
+291048,Caminibacter mediatlanticus,species
+391592,Caminibacter mediatlanticus TB-2,genome
+720,Actinobacillus lignieresii,species
+2661818,Saliniradius,genus
+2183582,Saliniradius amylolyticus,species
+1124936,Salmonella enterica subsp. enterica serovar Heidelberg 41578,genome
+1920114,Leclercia sp. LSNIH1,species
+1871111,Acinetobacter defluvii,species
+1432652,Francisella tularensis subsp. holarctica PHIT-FT049,genome
+79967,Erwinia pyrifoliae,species
+634499,Erwinia pyrifoliae Ep1/96,genome
+2008793,Sterolibacteriaceae,family
+378210,Methyloversatilis,genus
+1842540,Methyloversatilis sp. RAC08,species
+2676233,Sphingosinithalassobacter,genus
+2711215,Sphingosinithalassobacter sp. zrk23,species
+1442155,Ferrovales,order
+1442156,Ferrovaceae,family
+416212,Ferrovum,genus
+416213,Ferrovum myxofaciens,species
+948,Anaplasma phagocytophilum,species
+212042,Anaplasma phagocytophilum HZ,genome
+910348,Escherichia coli P12b,genome
+1789224,Acinetobacter larvae,species
+475662,Halomonas beimenensis,species
+2172100,Limnobaculum,genus
+2172103,Limnobaculum parvum,species
+263819,Yersinia aleksiciae,species
+110321,Sinorhizobium medicae,species
+366394,Sinorhizobium medicae WSM419,genome
+205844,Novosphingobium pentaromativorans,species
+1088721,Novosphingobium pentaromativorans US6-1,genome
+2182384,Erythrobacter aureus,species
+257363,Rickettsia typhi Wilmington (ATCC VR-144),genome
+67824,Citrobacter farmeri,species
+2293862,Ruegeria sp. AD91A,species
+204619,Candidatus Nardonella,genus
+1972134,endosymbiont of Sipalinus gigas,species
+1920191,Delftia sp. HK171,species
+35792,Rickettsia parkeri,species
+1105108,Rickettsia parkeri Portsmouth,genome
+931202,Candidatus Liberibacter asiaticus Ishi-1,genome
+1813821,Shigella sp. PAMC 28760,species
+80854,Moritella viscosa,species
+267128,Sphingopyxis granuli,species
+603050,Arcobacter mytili,species
+1032238,Malaciobacter mytili LMG 24559,genome
+1632780,Phreatobacter,genus
+1940610,Phreatobacter stygius,species
+80849,Wolbachia endosymbiont of Brugia malayi,species
+292805,Wolbachia sp. wBm,genome
+366602,Caulobacter sp. K31,species
+747,Pasteurella multocida,species
+52443,Vibrio tapetis,species
+1671868,Vibrio tapetis subsp. tapetis Vibrio tapetis CECT4600,genome
+644651,Erwinia pyrifoliae DSM 12163,genome
+423368,Salmonella enterica subsp. enterica serovar Newport SL254,genome
+2025617,Ketobacter,genus
+1917421,Ketobacter alkanivorans,species
+1855519,Sphingobium sp. EP60837,species
+1089444,Dickeya solani,species
+1225786,Dickeya solani IPO 2222,genome
+129577,Oceanimonas,genus
+511062,Oceanimonas sp. GK1,species
+53399,Hyphomicrobium denitrificans,species
+582899,Hyphomicrobium denitrificans ATCC 51888,genome
+945844,Massilia oculi,species
+694569,Aggregatibacter actinomycetemcomitans D7S-1,genome
+39766,Sulfurimonas denitrificans,species
+326298,Sulfurimonas denitrificans DSM 1251,genome
+217203,Achromobacter spanius,species
+1649499,Swingsia,genus
+1293412,Swingsia samuiensis,species
+39960,Erythrobacter litoralis,species
+314225,Erythrobacter litoralis HTCC2594,genome
+1977852,Bordetella sp. J329,species
+142058,Anaplasma ovis,species
+1248439,Anaplasma ovis Haibei,genome
+1795874,Burkholderia sp. PAMC 28687,species
+1193729,Candidatus Endolissoclinum faulkneri L2,genome
+739,Aggregatibacter segnis,species
+888057,Aggregatibacter segnis ATCC 33393,genome
+213485,Micavibrio,genus
+349221,Micavibrio aeruginosavorus,species
+856793,Micavibrio aeruginosavorus ARL-13,genome
+1775691,Cetia,genus
+1424653,Cetia pacifica,species
+28141,Cronobacter sakazakii,species
+884214,Candidatus Zinderia,genus
+884215,Candidatus Zinderia insecticola,species
+871271,Candidatus Zinderia insecticola CARI,genome
+6,Azorhizobium,genus
+7,Azorhizobium caulinodans,species
+438753,Azorhizobium caulinodans ORS 571,genome
+44574,Nitrosomonas communis,species
+545,Citrobacter koseri,species
+290338,Citrobacter koseri ATCC BAA-895,genome
+2584094,Sphingorhabdus sp. SMR4y,species
+29447,Xanthomonas albilineans,species
+380358,Xanthomonas albilineans GPE PC73,genome
+2136182,Acinetobacter cumulans,species
+1163741,Helicobacter pylori Shi169,genome
+195,Campylobacter coli,species
+1183379,Campylobacter coli RM4661,genome
+198804,Buchnera aphidicola Sg,genome
+456,Legionella jordanis,species
+1081,Rhodospirillum,genus
+1085,Rhodospirillum rubrum,species
+1036743,Rhodospirillum rubrum F11,genome
+384,Rhizobium leguminosarum,species
+395492,Rhizobium leguminosarum bv. trifolii WSM2304,genome
+122355,Pseudomonas psychrophila,species
+1917485,Sulfitobacter sp. AM1-D1,species
+1921002,Holosporales,order
+1777752,Candidatus Paracaedibacteraceae,family
+1521255,Candidatus Paracaedibacter,genus
+91604,Candidatus Paracaedibacter acanthamoebae,species
+34003,Paracoccus aminophilus,species
+1367847,Paracoccus aminophilus JCM 7686,genome
+82984,Pragia,genus
+2498113,Pragia sp. CF-458,species
+434924,Coxiella burnetii CbuK_Q154,genome
+1308541,Xanthomonas citri subsp. citri A306,genome
+861208,Agrobacterium sp. H13-3,species
+1692040,Acidiferrobacterales,order
+1692041,Acidiferrobacteraceae,family
+1692042,Sulfurifustis,genus
+1675686,Sulfurifustis variabilis,species
+697331,Basfia,genus
+653940,Basfia succiniciproducens,species
+877468,Salmonella enterica subsp. enterica serovar Newport USMARC-S3124.1,genome
+340,Xanthomonas campestris pv. campestris B100,genome
+133924,Leisingera methylohalidivorans,species
+999552,Leisingera methylohalidivorans DSM 14336 MB2,genome
+1249654,Ehrlichia chaffeensis Osceola,genome
+262698,Brucella abortus bv. 1 9-941,genome
+1037409,Bradyrhizobium japonicum USDA 6,genome
+2561924,Brevundimonas sp. MF30-B,species
+1810868,Mycoavidus,genus
+1553431,Mycoavidus cysteinexigens,species
+2020311,Rhizobium sp. Kim5,species
+1225522,Salmonella enterica subsp. enterica serovar Gallinarum/pullorum CDC1983-67,genome
+1720344,Psychrobacter sp. AntiMn-1,species
+115808,Bradyrhizobium sp. ORS 285,species
+66821,Sulfurospirillum multivorans,species
+1150621,Sulfurospirillum multivorans DSM 12446,genome
+480,Moraxella catarrhalis,species
+2571749,Novosphingobium sp. ABRDHK2,species
+292913,Sphingopyxis sp. 113P3,species
+1160720,Alteromonas stellipolaris LMG 21856,genome
+290633,Gluconobacter oxydans 621H,genome
+41514,Salmonella enterica subsp. arizonae serovar 62:z4,genome
+2739434,Chitinibacter sp. 2T18,species
+449972,Chelativorans,genus
+266779,Chelativorans sp. BNC1,species
+374931,Haemophilus influenzae PittGG (nontypeable),genome
+458234,Francisella tularensis subsp. holarctica FTNF002-00,genome
+1827478,Youhaiella,genus
+1447062,Youhaiella tibetensis,species
+93064,Sphingomonas koreensis,species
+134536,Paraburkholderia caledonica,species
+29570,Halomonas meridiana,species
+2650549,Hydrocarboniclastica,genus
+2259620,Hydrocarboniclastica marina,species
+35788,Rickettsia africae,species
+347255,Rickettsia africae ESF-5,genome
+418136,Francisella tularensis subsp. tularensis WY96-3418,genome
+565050,Caulobacter vibrioides NA1000 (Caulobacter crescentus NA1000),genome
+80852,Aliivibrio wodanis,species
+944547,Arcobacter sp. L,species
+155864,Escherichia coli O157:H7 EDL933 (EHEC),genome
+192073,Shewanella denitrificans,species
+318161,Shewanella denitrificans OS217,genome
+34073,Variovorax paradoxus,species
+1246301,Variovorax paradoxus B4,genome
+1849530,Oblitimonas,genus
+1697053,Oblitimonas alkaliphila,species
+53392,Thiodictyon,genus
+1166950,Candidatus Thiodictyon syntrophicum,species
+1853278,Neisseria chenwenguii,species
+1921565,Proteus sp. CD3,species
+82986,Tatumella,genus
+82987,Tatumella ptyseos,species
+269260,Nitratifractor,genus
+269261,Nitratifractor salsuginis,species
+749222,Nitratifractor salsuginis DSM 16511,genome
+2163011,Bordetella sp. HZ20,species
+117207,Sphingopyxis alaskensis,species
+317655,Sphingopyxis alaskensis RB2256,genome
+28067,Rubrivivax,genus
+28068,Rubrivivax gelatinosus,species
+983917,Rubrivivax gelatinosus IL144,genome
+1338032,Vibrio parahaemolyticus O1:K33 CDC_K4557,genome
+141948,Thermomonas,genus
+215691,Thermomonas brevis,species
+332056,Sphingobium japonicum,species
+452662,Sphingobium japonicum UT26S,genome
+1608298,Thiolapillus,genus
+1076588,Thiolapillus brandeum,species
+907238,Helicobacter pylori India7,genome
+762296,Methylovulum,genus
+1704499,Methylovulum psychrotolerans,species
+1611770,Pseudomonas sp. MRSN12121,species
+1193292,Klebsiella pneumoniae subsp. pneumoniae 1084 (serotype K1),genome
+1163742,Helicobacter pylori PeCan18,genome
+1458476,Xanthomonas oryzae pv. oryzae PXO86,genome
+520455,Brucella abortus bv. 9 C68,genome
+45498,Helicobacter cholecystus,species
+1232394,Francisella tularensis subsp. holarctica F92,genome
+45067,Legionella lansingensis,species
+1703962,Rhizobium sp. N1341,species
+955,Wolbachia pipientis,species
+1116230,Wolbachia pipientis wAlbB,genome
+478070,Labrenzia,genus
+187304,Labrenzia aggregata,species
+909420,Neisseria meningitidis H44/76 (serogroup B),genome
+401614,Francisella tularensis subsp. novicida U112,genome
+1420013,Klebsiella pneumoniae 30684/NJST258_2,genome
+196024,Aeromonas dhakensis,species
+1382921,Helicobacter pylori oki112,genome
+90371,Salmonella enterica subsp. enterica serovar Typhimurium 138736,genome
+85402,Mannheimia granulomatis,species
+1105102,Rickettsia rickettsii Colombia,genome
+160492,Xylella fastidiosa 9a5c,genome
+1105112,Rickettsia massiliae AZT80,genome
+1132496,Pasteurella multocida subsp. multocida HN06,genome
+535744,Cronobacter universalis,species
+1074000,Cronobacter universalis NCTC 9529,genome
+60137,Sulfitobacter pontiacus,species
+416,Methylomonas,genus
+421,Methylomonas methanica,species
+857087,Methylomonas methanica MC09,genome
+213468,Syntrophaceae,family
+2357,Desulfomonile,genus
+2358,Desulfomonile tiedjei,species
+706587,Desulfomonile tiedjei DSM 6799,genome
+150340,Vibrio antiquarius,species
+1001542,Francisella tularensis subsp. tularensis TIGB03,genome
+60961,Shewanella woodyi,species
+392500,Shewanella woodyi ATCC 51908,genome
+215579,Schlegelella,genus
+215580,Schlegelella thermodepolymerans,species
+439855,Escherichia coli SMS-3-5 (environmental isolate),genome
+147645,Paracoccus yeei,species
+227873,Pannonibacter,genus
+121719,Pannonibacter phragmitetus,species
+39,Archangiaceae,family
+42,Cystobacter,genus
+43,Cystobacter fuscus,species
+407217,Aquitalea,genus
+332411,Aquitalea magnusonii,species
+257438,Gluconobacter thailandicus,species
+202747,Sulfurimonas autotrophica,species
+563040,Sulfurimonas autotrophica DSM 16294,genome
+363952,Comamonas thiooxydans,species
+2571159,Mycetohabitans,genus
+412963,Paraburkholderia rhizoxinica,species
+882378,Mycetohabitans rhizoxinica HKI 454 (Burkholderia rhizoxinica HKI 454),genome
+2249302,Francisella marina,species
+1211705,Vibrio parahaemolyticus BB22OP,genome
+2213226,Pseudomonas sp. QZS01,species
+29484,Yersinia frederiksenii,species
+1454377,Yersinia frederiksenii Y225,genome
+532,Beijerinckia,genus
+533,Beijerinckia indica,species
+395963,Beijerinckia indica subsp. indica ATCC 9039,genome
+1500686,Pseudomonas sp. Os17,species
+1262462,Yersinia enterocolitica (type O:5) YE53/03,genome
+353,Azotobacter chroococcum,species
+1328314,Azotobacter chroococcum NCIMB 8003,genome
+483,Neisseria cinerea,species
+224379,Hahellaceae,family
+158481,Hahella,genus
+1628392,Hahella sp. KA22,species
+916,Nitrosomonas eutropha,species
+335283,Nitrosomonas eutropha C91,genome
+430066,Brucella abortus S19,genome
+1234545,Parasphingopyxis,genus
+2026624,Parasphingopyxis algicola,species
+359407,Methylotenera,genus
+1055487,Methylotenera versatilis,species
+666681,Methylotenera versatilis 301,genome
+689,Vibrio mediterranei,species
+88688,Caulobacter segnis,species
+509190,Caulobacter segnis ATCC 21756,genome
+1177712,Komagataeibacter medellinensis,species
+634177,Komagataeibacter medellinensis NBRC 3288 (Gluconacetobacter xylinus NBRC 3288),genome
+1778540,Dickeya fangzhongdai,species
+1752398,Ensifer alkalisoli,species
+330734,Marinobacter psychrophilus,species
+56426,Bartonella clarridgeiae,species
+696125,Bartonella clarridgeiae 73,genome
+413997,Escherichia coli B REL606,genome
+1134456,Vibrio cholerae O1 IEC224,genome
+882,Desulfovibrio vulgaris Hildenborough,genome
+1163710,Cronobacter condimenti,species
+1073999,Cronobacter condimenti 1330 LMG 26250,genome
+392021,Rickettsia rickettsii Sheila Smith,genome
+1564138,Aliiarcobacter faecis,species
+273123,Yersinia pseudotuberculosis IP 32953 (serotype I),genome
+28885,Hydrogenovibrio marinus,species
+1104320,Brucella abortus A13334,genome
+1216976,Achromobacter xylosoxidans NBRC 15126 = ATCC 27061,genome
+1639133,Citrobacter portucalensis,species
+35790,Rickettsia japonica,species
+652620,Rickettsia japonica YH,genome
+197575,Haemophilus aegyptius,species
+718274,Salmonella enterica subsp. enterica serovar Typhimurium T000240,genome
+1137651,Xanthomonas citri subsp. citri Aw12879,genome
+589873,Alteromonas australica,species
+1294143,Pseudomonas sp. ATCC 13867,species
+71421,Haemophilus influenzae Rd KW20 (serotype d),genome
+2587851,Erythrobacter sp. THAF29,species
+693982,Sinorhizobium meliloti AK83,genome
+579112,Vibrio cholerae O1 M66-2,genome
+929812,Gibbsiella,genus
+929813,Gibbsiella quercinecans,species
+2071710,Enterobacter sichuanensis,species
+1265350,Buchnera aphidicola BAg,genome
+184914,Corallococcus coralloides,species
+1144275,Corallococcus coralloides DSM 2259,genome
+83455,Myxococcus stipitatus,species
+1278073,Myxococcus stipitatus DSM 14675,genome
+1842532,Pelobacter sp. SFB93,species
+1560339,Enterobacter sp. E20,species
+1191061,Klebsiella michiganensis E718,genome
+28090,Acinetobacter lwoffii,species
+88,Leptothrix,genus
+34029,Leptothrix cholodnii,species
+395495,Leptothrix cholodnii SP-6,genome
+345073,Vibrio cholerae O1 O395,genome
+1300257,Alteromonas mediterranea U8 (Alteromonas macleodii Ionian Sea U8),genome
+99,Ancylobacter,genus
+1745854,Ancylobacter pratisalsi,species
+360109,Campylobacter jejuni subsp. doylei 269.97,genome
+944546,Arcobacter butzleri ED-1,genome
+230089,Photorhabdus thracensis,species
+485,Neisseria gonorrhoeae,species
+242231,Neisseria gonorrhoeae FA 1090,genome
+262324,Lysobacter gummosus,species
+195099,Campylobacter jejuni RM1221,genome
+418223,Methylobacterium phyllosphaerae,species
+1006551,Klebsiella michiganensis KCTC 1686,genome
+13690,Sphingobium yanoikuyae,species
+321314,Salmonella enterica subsp. enterica serovar Choleraesuis SC-B67,genome
+1356861,Francisella orientalis LADL--07-285A (Francisella noatunensis subsp. orientalis LADL--07-285A),genome
+29433,Moraxella ovis,species
+190486,Xanthomonas citri pv. citri 306 (Xanthomonas axonopodis pv. citri 306),genome
+28087,Legionella sainthelensi,species
+157779,Kushneria marisflavi,species
+1167634,Achromobacter xylosoxidans NH44784-1996,genome
+1097668,Burkholderia sp. YI23,species
+208964,Pseudomonas aeruginosa PAO1,genome
+1300259,Alteromonas mediterranea UM4b (Alteromonas macleodii Ionian Sea UM4b),genome
+1284657,Planktomarina,genus
+1284658,Planktomarina temperata,species
+666509,Planktomarina temperata RCA23,genome
+32257,Kingella,genus
+505,Kingella oralis,species
+84565,Sodalis,genus
+1486991,Candidatus Sodalis pierantonius,species
+2342,Candidatus Sodalis pierantonius SOPE,genome
+1193515,Snodgrassella,genus
+1196083,Snodgrassella alvi,species
+1196094,Snodgrassella alvi wkB2,genome
+1173427,Salmonella enterica subsp. enterica serovar Bareilly CFSAN000189,genome
+249188,Haemophilus pittmaniae,species
+44255,Bradyrhizobium oligotrophicum,species
+1245469,Bradyrhizobium oligotrophicum S58 (Agromonas oligotrophica S58),genome
+379731,Pseudomonas stutzeri A1501,genome
+1686310,Bartonella apis,species
+1827481,Enterobacter sp. ODB01,species
+150203,Blastomonas,genus
+1550728,Blastomonas fulva,species
+439843,Salmonella enterica subsp. enterica serovar Schwarzengrund CVM19633,genome
+1759417,Pseudohalocynthiibacter,genus
+1591409,Pseudohalocynthiibacter aestuariivivens,species
+1867715,Bosea sp. Tri-49,species
+356837,Azoarcus sp. DN11,species
+638,Arsenophonus nasoniae,species
+1249655,Ehrlichia chaffeensis Saint Vincent,genome
+334107,Conchiformibius,genus
+153493,Conchiformibius steedae,species
+1380767,Campylobacter jejuni subsp. jejuni 00-2426,genome
+2259340,Paracoccus sp. SC2-6,species
+300268,Shigella boydii Sb227 (serotype 4),genome
+2303538,Salinimonas sediminis,species
+1249650,Ehrlichia chaffeensis West Paces,genome
+290847,Helicobacter pylori 51,genome
+1678678,Burkholderia sp. HB1,species
+449732,Litoricolaceae,family
+418700,Litoricola,genus
+418701,Litoricola lipolytica,species
+758793,Burkholderia insecticola,species
+662598,Neisseria meningitidis alpha14 (contains capsule null locus),genome
+1166130,Enterobacter sp. R4-368,species
+271097,Shewanella sediminis,species
+425104,Shewanella sediminis HAW-EB3,genome
+1420917,Marinobacter salarius,species
+60548,Paraburkholderia graminis,species
+40269,Aliivibrio salmonicida,species
+316275,Aliivibrio salmonicida LFI1238,genome
+264203,Zymomonas mobilis subsp. mobilis ZM4,genome
+1184253,Anaplasma phagocytophilum HZ2,genome
+539329,Francisella philomiragia subsp. philomiragia ATCC 25015 O#319L,genome
+1816219,Colwellia sp. PAMC 21821,species
+225992,Comamonas kerstersii,species
+39956,Methylobacterium mesophilicum,species
+908290,Methylobacterium mesophilicum SR1.6/6,genome
+1311760,Mannheimia haemolytica D174,genome
+226665,Rickettsia heilongjiangensis,species
+1032845,Rickettsia heilongjiangensis 054,genome
+676,Vibrio fluvialis,species
+323413,Dokdonella,genus
+323415,Dokdonella koreensis,species
+1300342,Dokdonella koreensis DS-123,genome
+1897649,Pistricoccus,genus
+1883414,Pistricoccus aurantiacus,species
+29407,Rhodoplanes,genus
+674703,Rhodoplanes sp. Z2-YC6860,species
+374833,Neisseria meningitidis 053442 (serogroup C),genome
+431944,Magnetospirillum gryphiswaldense MSR-1,genome
+667013,Candidatus Carsonella ruddii DC,genome
+1395974,Tardiphaga,genus
+943830,Tardiphaga robiniae,species
+585396,Escherichia coli O111:H- 11128 (EHEC),genome
+387662,Candidatus Carsonella ruddii PV,genome
+1868589,Phreatobacter cathodiphilus,species
+1803865,Thiomicrospira sp. S5,species
+89404,Glaciecola,genus
+300231,Glaciecola nitratireducens,species
+1085623,Glaciecola nitratireducens FR1064,genome
+580370,Zetaproteobacteria,class
+580371,Mariprofundales,order
+580372,Mariprofundaceae,family
+377315,Mariprofundus,genus
+1921086,Mariprofundus aestuarium,species
+213117,Desulfohalobiaceae,family
+45662,Desulfohalobium,genus
+45663,Desulfohalobium retbaense,species
+485915,Desulfohalobium retbaense DSM 5692,genome
+34018,Rhodospirillum centenum,species
+414684,Rhodospirillum centenum SW,genome
+1463158,Thermomonas carbonis,species
+2681309,Leclercia sp. 1106151,species
+49,Polyangiaceae,family
+50,Chondromyces,genus
+52,Chondromyces crocatus,species
+414371,Aureimonas,genus
+1349819,Aureimonas sp. AU20,species
+1842536,Agrobacterium sp. RAC06,species
+82982,Obesumbacterium,genus
+82983,Obesumbacterium proteus,species
+452659,Rickettsia rickettsii Iowa,genome
+70864,Shewanella pealeana,species
+398579,Shewanella pealeana ATCC 700345,genome
+1016998,Salmonella enterica subsp. enterica serovar Paratyphi B SPB7,genome
+469008,Escherichia coli BL21(DE3),genome
+1904944,Stenotrophomonas sp. LM091,species
+554,Pectobacterium carotovorum,species
+561230,Pectobacterium carotovorum subsp. carotovorum PC1,genome
+1074311,Vibrio alfacsensis,species
+133193,Alkalilimnicola,genus
+351052,Alkalilimnicola ehrlichii,species
+187272,Alkalilimnicola ehrlichii MLHE-1,genome
+1537406,Bacterioplanes,genus
+1249553,Bacterioplanes sanyensis,species
+1235461,Sinorhizobium meliloti GR4,genome
+1579315,Halocynthiibacter,genus
+1579316,Halocynthiibacter arcticus,species
+628,Xenorhabdus nematophila,species
+406817,Xenorhabdus nematophila ATCC 19061,genome
+1249656,Ehrlichia chaffeensis Wakulla,genome
+591946,Escherichia coli LF82,genome
+261302,Paraburkholderia phytofirmans,species
+1417228,Paraburkholderia phytofirmans OLGA172,genome
+267892,Ferrimonadaceae,family
+44011,Ferrimonas,genus
+2724191,Ferrimonas sp. S7,species
+519,Bordetella parapertussis,species
+257311,Bordetella parapertussis 12822,genome
+1239881,Candidatus Portiera aleyrodidarum BT-QVLC,genome
+693973,Shewanella baltica OS678,genome
+1528098,Rickettsiales bacterium Ac37b,species
+2219696,Sphingomonas sp. FARSPH,species
+28084,Legionella cherrii,species
+292630,Hydrogenimonaceae,family
+223785,Hydrogenimonas,genus
+2231112,Hydrogenimonas sp.,species
+266,Paracoccus denitrificans,species
+318586,Paracoccus denitrificans PD1222,genome
+983545,Glaciecola sp. 4H-3-7+YE-5,species
+85701,Bartonella tribocorum,species
+382640,Bartonella tribocorum CIP 105476,genome
+85569,Salmonella enterica subsp. enterica serovar Typhimurium DT104,genome
+269482,Burkholderia vietnamiensis G4,genome
+1132507,Salmonella enterica subsp. enterica serovar Typhi P-stx-12,genome
+2213057,Pseudomonas sp. R2A2,species
+1795631,Variovorax sp. PAMC 28711,species
+1751872,Lacimicrobium,genus
+1526571,Lacimicrobium alkaliphilum,species
+2044467,Escherichia sp. E4742,species
+74313,Brevundimonas subvibrioides,species
+633149,Brevundimonas subvibrioides ATCC 15264,genome
+33069,Pseudomonas viridiflava,species
+1042878,Cupriavidus necator N-1,genome
+261964,Kangiella koreensis,species
+523791,Kangiella koreensis DSM 16069,genome
+1390395,Sphingomonas sp. LK11,species
+2055876,Metakosakonia,genus
+2487150,Metakosakonia sp. MRY16-398,species
+299767,Enterobacter ludwigii,species
+1320309,Salmonella enterica subsp. enterica serovar Bovismorbificans 3114,genome
+864828,Massilia umbonata,species
+44746,Holosporaceae,family
+86106,endosymbiont of Acanthamoeba sp. UWC8,species
+54291,Raoultella ornithinolytica,species
+1286170,Raoultella ornithinolytica B6,genome
+1080223,Arcobacter pacificus,species
+316997,Rubrivivax benzoatilyticus,species
+987059,Rubrivivax benzoatilyticus JA2 = ATCC BAA-35,genome
+406818,Xenorhabdus bovienii SS-2004,genome
+94625,Ochrobactrum intermedium,species
+33991,Rickettsia montanensis,species
+1105114,Rickettsia montanensis OSU 85-930,genome
+1697043,Bordetella sp. H567,species
+411566,Candidatus Midichloria,genus
+234827,Candidatus Midichloria mitochondrii,species
+696127,Candidatus Midichloria mitochondrii IricVA,genome
+2584944,Sutterella faecalis,species
+575,Raoultella planticola,species
+1929246,Sodalis endosymbiont of Henestaris halophilus,species
+648995,Rhizobium pusense,species
+1318743,Bartonella ancashensis,species
+696485,Vibrio owensii,species
+85643,Thauera sp. MZ1T,species
+488,Neisseria mucosa,species
+425,Methylosinus,genus
+426,Methylosinus trichosporium,species
+595536,Methylosinus trichosporium OB3b,genome
+1333849,Enterobacter hormaechei subsp. hoffmannii ECR091,genome
+1355374,Arcobacter lanthieri,species
+1915401,Roseitalea,genus
+1852022,Roseitalea porphyridii,species
+990282,Salmonella enterica subsp. enterica serovar Typhimurium UK-1,genome
+367825,Cupriavidus malaysiensis,species
+2055892,Idiomarina sp. X4,species
+2024973,Silvanigrellales,order
+2493639,Silvanigrellales bacterium RF1110005,species
+65047,Mitsuaria,genus
+1658665,Mitsuaria sp. 7,species
+1912871,Arcobacter canalis,species
+622488,Francisella hispaniensis,species
+1088883,Francisella hispaniensis FSC454,genome
+31988,Aminobacter,genus
+83263,Aminobacter aminovorans,species
+1468409,Burkholderia sp. 2002721687,species
+1138308,Cronobacter sakazakii ES15,genome
+1331671,Pseudomonas putida H8234,genome
+1208324,Celeribacter indicus,species
+768490,Serratia sp. AS12,species
+640510,Burkholderia sp. CCGE1001,species
+248026,Cupriavidus pinatubonensis,species
+264198,Cupriavidus pinatubonensis JMP134 (Ralstonia eutropha JMP134),genome
+585034,Escherichia coli O8 IAI1 (commensal strain),genome
+1325724,Brevundimonas vancanneytii,species
+702114,Methylomonas koyamae,species
+1298917,Salmonella enterica subsp. enterica serovar Pullorum S06004,genome
+55508,Janthinobacterium agaricidamnosum,species
+1349767,Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628,genome
+1172191,Catenovulum,genus
+2172099,Catenovulum sp. CCB-QB4,species
+568768,Dickeya poaceiphila,species
+585395,Escherichia coli O103:H2 12009 (EHEC),genome
+1271863,Salmonella enterica subsp. enterica serovar Cubana CFSAN002050,genome
+55208,Pectobacterium wasabiae,species
+1175631,Pectobacterium wasabiae CFBP 3304,genome
+28100,Phyllobacterium,genus
+1867719,Phyllobacterium zundukense,species
+76759,Pseudomonas monteilii,species
+1435058,Pseudomonas monteilii SB3101,genome
+188907,Oleispira,genus
+188908,Oleispira antarctica,species
+698738,Oleispira antarctica RB-8,genome
+1572860,Hartmannibacter,genus
+1482074,Hartmannibacter diazotrophicus,species
+1301032,Rhizobium sp. IE4771,species
+43657,Pseudoalteromonas luteoviolacea,species
+53412,Pseudomonas resinovorans,species
+1245471,Pseudomonas resinovorans NBRC 106553,genome
+44935,Halomonas venusta,species
+547048,Yersinia pestis Harbin 35 (biovar Medievalis),genome
+652,Aeromonas schubertii,species
+1705394,Candidatus Thioglobus autotrophicus,species
+1967665,Colwellia beringensis,species
+1842535,Blastomonas sp. RAC04,species
+1780190,Izhakiella,genus
+2579935,Izhakiella sp. KSNA2,species
+2707020,Aerosticca,genus
+2010829,Aerosticca soli,species
+41276,Brevundimonas vesicularis,species
+28091,Neisseria weaveri,species
+351348,Marinobacter hydrocarbonoclasticus VT8 (Marinobacter aquaeolei VT8),genome
+994695,Candidatus Kinetoplastibacterium galatii,species
+1208921,Candidatus Kinetoplastibacterium galatii TCC219,genome
+1076596,Acetobacter persici,species
+326522,Neisseria animaloris,species
+573569,Francisella salina,species
+1920109,Enterobacteriaceae bacterium ENNIH2,species
+401469,Undibacterium,genus
+401471,Undibacterium parvum,species
+1869285,Allofrancisella,genus
+1085644,Allofrancisella frigidaquae,species
+463025,Bordetella bronchialis,species
+2675053,Thiomicrorhabdus sp. AkT22,species
+1091495,Taylorella asinigenitalis 14/45,genome
+349747,Yersinia pseudotuberculosis IP 31758 (serotype O:1b),genome
+357794,Psychromonas ingrahamii,species
+357804,Psychromonas ingrahamii 37,genome
+935897,Haemophilus influenzae F3047 (nontypeable),genome
+1507806,Campylobacter fetus subsp. testudinum pet-3,genome
+388640,Bartonella australis,species
+1094489,Bartonella australis Aust/NH1,genome
+12916,Acidovorax,genus
+2478662,Acidovorax sp. 1608163,species
+1434019,Mameliella,genus
+561184,Mameliella alba,species
+1206109,Candidatus Portiera aleyrodidarum BT-B-HRs,genome
+553814,Acidovorax carolinensis,species
+323284,Alcaligenes aquatilis,species
+454,Legionella israelensis,species
+272843,Pasteurella multocida subsp. multocida Pm70,genome
+203,Campylobacter rectus,species
+2715678,Nitrosomonadales bacterium skT11,species
+2679994,Mannheimia sp. ZY170218,species
+1075089,Pasteurella multocida 36950,genome
+63612,Sodalis glossinidius,species
+343509,Sodalis glossinidius morsitans,genome
+885276,Escherichia coli clone D i2,genome
+2202825,Methylobacterium durans,species
+1648404,Erythrobacter atlanticus,species
+351679,Xenorhabdus hominickii,species
+749,[Pasteurella] aerogenes,species
+55213,Brenneria rubrifaciens,species
+1348114,Pseudoalteromonas piratica,species
+512562,Helicobacter pylori Shi470,genome
+401618,Candidatus Riesia,genus
+401619,Candidatus Riesia pediculicola,species
+515618,Candidatus Riesia pediculicola USDA,genome
+586,Providencia,genus
+588,Providencia stuartii,species
+1157951,Providencia stuartii MRSN 2154,genome
+1382925,Helicobacter pylori oki673,genome
+238783,Pseudorhodobacter,genus
+2500533,Pseudorhodobacter sp. S12M18,species
+1082702,Lonsdalea,genus
+1172565,Lonsdalea populi,species
+664962,Azospirillum sp. TSH58,species
+588858,Salmonella enterica subsp. enterica serovar Typhimurium 14028S,genome
+2495591,Undibacterium piscinae,species
+2267833,Rhizobium oryzihabitans,species
+39645,Mesorhizobium ciceri,species
+765698,Mesorhizobium ciceri biovar biserrulae WSM1271,genome
+2689614,Steroidobacteraceae,family
+469322,Steroidobacter,genus
+465721,Steroidobacter denitrificans,species
+60481,Shewanella sp. MR-7,species
+435897,Lysobacter capsici,species
+34062,Moraxella osloensis,species
+1096995,Acinetobacter baumannii BJAB07104,genome
+43947,Tolumonas,genus
+43948,Tolumonas auensis,species
+595494,Tolumonas auensis DSM 9187,genome
+1185652,Sinorhizobium fredii USDA 257,genome
+585035,Escherichia coli O45:K1:H7 S88 (ExPEC),genome
+186650,Microvirga,genus
+1882682,Microvirga ossetica,species
+1380908,Klebsiella pneumoniae JM45,genome
+621376,Pseudoalteromonas donghaensis,species
+187410,Yersinia pestis KIM10+ (biovar Mediaevalis),genome
+1149952,Brucella sp. 09RB8471,species
+1674922,Labrenzia sp. CP4,species
+92645,Herbaspirillum frisingense,species
+1295140,Haemophilus influenzae CGSHiCZ412602,genome
+1263550,Edwardsiella piscicida,species
+1288122,Edwardsiella piscicida C07-087,genome
+439375,Ochrobactrum anthropi ATCC 49188,genome
+218493,Salmonella bongori NCTC 12419,genome
+1453989,Campylobacter lari RM16701,genome
+624,Shigella sonnei,species
+300269,Shigella sonnei Ss046,genome
+713602,Buchnera aphidicola TLW03,genome
+255507,Arcobacter cibarius,species
+1223423,Neokomagataea,genus
+661191,Neokomagataea tanensis,species
+994476,Yersinia enterocolitica subsp. palearctica 105.5R(r) (serotype:O:9),genome
+1938607,Sphingomonas sp. LM7,species
+104102,Acetobacter tropicalis,species
+1176533,Luteimonas sp. Gr-4,species
+1249477,Burkholderia pseudomallei NAU35A-3,genome
+981368,Xanthomonas axonopodis pv. citrumelo F1,genome
+272774,Halomonas alkaliphila,species
+566546,Escherichia coli W,genome
+300,Pseudomonas mendocina,species
+399739,Pseudomonas mendocina ymp,genome
+111830,Defluviicoccus,genus
+111831,Defluviicoccus vanus,species
+713600,Buchnera aphidicola JF98,genome
+1049565,Klebsiella pneumoniae KCTC 2242,genome
+37448,Polaromonas vacuolata,species
+29438,Pseudomonas savastanoi,species
+264730,Pseudomonas savastanoi pv. phaseolicola 1448A (Pseudomonas syringae pv. phaseolicola 1448A),genome
+1745211,Chania,genus
+1639108,Chania multitudinisentens,species
+1441930,Chania multitudinisentens RB-25,genome
+527001,Salmonella enterica subsp. enterica serovar Typhi Ty21a,genome
+668336,Aggregatibacter actinomycetemcomitans D11S-1,genome
+314343,Sideroxydans,genus
+63745,Sideroxydans lithotrophicus,species
+580332,Sideroxydans lithotrophicus ES-1,genome
+1926868,Acidovorax monticola,species
+380703,Aeromonas hydrophila subsp. hydrophila ATCC 7966,genome
+1075,Rhodobacter blasticus,species
+1007105,Pusillimonas sp. T7-7,species
+1382927,Helicobacter pylori oki898,genome
+1328306,Rhizobium etli bv. mimosae Mim1,genome
+1485594,Methyloligella,genus
+2742204,Methyloligella sp. GL2,species
+1028752,Shewanella aestuarii,species
+627343,Zymomonas mobilis subsp. mobilis CP4 = NRRL B-14023,genome
+52764,Bartonella alsatica,species
+795665,Hydrogenophaga sp. PBC,species
+259537,Dechloromonas aromatica,species
+159087,Dechloromonas aromatica RCB,genome
+1495768,Candidatus Evansia,genus
+1495769,Candidatus Evansia muelleri,species
+42862,Rickettsia felis,species
+315456,Rickettsia felis URRWXCal2,genome
+33994,Neorickettsia helminthoeca,species
+1286528,Neorickettsia helminthoeca Oregon,genome
+180957,Pectobacterium brasiliense,species
+135719,Sphingobium amiense,species
+1105095,Rickettsia prowazekii Katsinyian,genome
+1271864,Salmonella enterica subsp. enterica serovar Heidelberg CFSAN002069,genome
+252301,Oceanicola,genus
+2587163,Oceanicola sp. D3,species
+204042,Dickeya zeae,species
+590409,Dickeya zeae Ech586,genome
+54066,Xylophilus,genus
+2697032,Xylophilus sp. KACC 21265,species
+153497,Kozakia,genus
+153496,Kozakia baliensis,species
+446692,Acetobacter senegalensis,species
+359,Agrobacterium rhizogenes,species
+2558361,Swingsia sp. F3b2,species
+109168,Desulfotalea,genus
+84980,Desulfotalea psychrophila,species
+177439,Desulfotalea psychrophila LSv54,genome
+334543,Psychrobacter arcticus,species
+259536,Psychrobacter arcticus 273-4,genome
+1678028,Massilia sp. NR 4-1,species
+138074,Serratia symbiotica,species
+568817,Serratia symbiotica Cinara cedri,genome
+2005884,Thauera sp. K11,species
+76761,Pseudomonas veronii,species
+67780,Edwardsiella ictaluri,species
+634503,Edwardsiella ictaluri 93-146,genome
+265960,Komagataeibacter nataicola,species
+381666,Cupriavidus necator H16 (Ralstonia eutropha H16),genome
+320496,Neoasaia,genus
+320497,Neoasaia chiangmaiensis,species
+41201,Ewingella,genus
+41202,Ewingella americana,species
+627192,Sphingobium sp. SYK-6,species
+319224,Shewanella putrefaciens CN-32,genome
+224464,Kofleriaceae,family
+162027,Haliangium,genus
+80816,Haliangium ochraceum,species
+502025,Haliangium ochraceum DSM 14365,genome
+868597,Stenotrophomonas maltophilia JV3,genome
+2590022,Sulfurimonas sp. GYSZ_1,species
+75654,Duganella,genus
+2728021,Duganella sp. AF9R3,species
+237609,Pseudomonas alkylphenolica,species
+693153,Vibrio atlanticus,species
+2282475,Achromobacter sp. B7,species
+2607663,Yersinia canariae,species
+381754,Pseudomonas aeruginosa PA7,genome
+92947,Ketogulonicigenium robustum,species
+44577,Nitrosomonas ureae,species
+765964,Helicobacter pylori Cuz20,genome
+584721,Pasteurella multocida subsp. multocida 3480,genome
+351581,Francisella tularensis subsp. holarctica FSC200,genome
+257820,Kerstersia,genus
+206506,Kerstersia gyiorum,species
+1650654,Edwardsiella sp. LADL05-105,species
+885040,Enterobacter soli,species
+109471,Bisgaardia,genus
+109472,Bisgaardia hudsonensis,species
+51366,Salinivibrio,genus
+2003370,Salinivibrio sp. YCSC6,species
+631220,Desulfovibrio sp. G11,species
+1434050,Zhongshania,genus
+1470434,Zhongshania aliphaticivorans,species
+748247,Azoarcus sp. KH32C,species
+1295327,Croceicoccus,genus
+450378,Croceicoccus marinus,species
+1920110,Citrobacter sp. CFNIH10,species
+1249652,Ehrlichia chaffeensis Jax,genome
+2605946,Rhodobacteraceae bacterium SH-1,species
+1699624,Psychrobacter sp. P11G5,species
+283686,Kosakonia radicincitans,species
+320483,Anaplasma marginale Florida,genome
+333962,Providencia heimbachae,species
+47877,Pseudomonas amygdali,species
+129138,Pseudomonas amygdali pv. morsprunorum R15244,genome
+1842539,Bosea sp. RAC05,species
+1679002,Candidatus Methylopumilus,genus
+1581557,Candidatus Methylopumilus planktonicus,species
+2202141,Chromobacterium sp. IIBBL 112-1,species
+1778653,Sulfuriferula,genus
+171865,Sulfuriferula plumbiphila,species
+288,Pseudoalteromonas atlantica,species
+342610,Pseudoalteromonas atlantica T6c,genome
+1244085,Klebsiella pneumoniae CG43,genome
+1028989,Pseudomonas sp. StFLB209,species
+274591,Hoeflea,genus
+1620421,Hoeflea sp. IMCC20628,species
+231455,Dyella japonica,species
+1217721,Dyella japonica A8,genome
+1340425,Geobacter anodireducens,species
+1300253,Alteromonas mediterranea 615 (Alteromonas macleodii English Channel 615),genome
+28080,Campylobacter upsaliensis,species
+1031733,Campylobacter upsaliensis RM3940,genome
+1334187,Haemophilus influenzae KR494 (serotype f),genome
+623276,Maritalea,genus
+454601,Maritalea myrionectae,species
+347533,Zobellella,genus
+347534,Zobellella denitrificans,species
+166935,Pseudoalteromonas translucida,species
+1315283,Pseudoalteromonas translucida KMM 520,genome
+194424,Sulfurospirillum halorespirans,species
+1193502,Sulfurospirillum halorespirans DSM 13726,genome
+1524215,Anaeromyxobacteraceae,family
+161492,Anaeromyxobacter,genus
+161493,Anaeromyxobacter dehalogenans,species
+455488,Anaeromyxobacter dehalogenans 2CP-1,genome
+337,Burkholderia glumae,species
+626418,Burkholderia glumae BGR1,genome
+358,Agrobacterium tumefaciens,species
+187,Aquaspirillum,genus
+1938604,Aquaspirillum sp. LM1,species
+1283331,Azotobacter vinelandii CA6,genome
+2067957,Methylobacterium sp. DM1,species
+1965282,Shewanella khirikhana,species
+745310,Sphingomonas sp. MM-1,species
+160488,Pseudomonas putida KT2440,genome
+286130,Sulfuricurvum,genus
+1249480,Candidatus Sulfuricurvum sp. RIFRC-1,species
+1232575,Acidithiobacillus ferridurans,species
+472825,Candidatus Purcelliella,genus
+472834,Candidatus Purcelliella pentastirinorum,species
+521,Bordetella avium,species
+360910,Bordetella avium 197N,genome
+1945662,Paracoccus contaminans,species
+126385,Providencia alcalifaciens,species
+257708,Roseomonas gilardii,species
+218491,Pectobacterium atrosepticum SCRI1043,genome
+388396,Aliivibrio fischeri MJ11 (Vibrio fischeri MJ11),genome
+251542,Candidatus Blochmannia chromaiodes,species
+1240471,Candidatus Blochmannia chromaiodes 640,genome
+634458,Acetobacter pasteurianus IFO 3283-01-42C,genome
+1922217,Candidatus Erwinia haradaeae,species
+43773,Syntrophus,genus
+316277,Syntrophus aciditrophicus,species
+56780,Syntrophus aciditrophicus SB,genome
+199,Campylobacter concisus,species
+1934945,Immundisolibacterales,order
+1934946,Immundisolibacteraceae,family
+1934947,Immundisolibacter,genus
+1810504,Immundisolibacter cernigliae,species
+492,Neisseria animalis,species
+637382,Yersinia pestis D106004,genome
+2602016,Hypericibacter adhaerens,species
+406425,Burkholderia cenocepacia MC0-3,genome
+1649470,Minicystis,genus
+888845,Minicystis rosea,species
+81682,Methylovorus,genus
+266009,Methylovorus glucosotrophus,species
+582744,Methylovorus glucosetrophus SIP3-4,genome
+930944,Yersinia enterocolitica subsp. palearctica Y11 (serotype:0:3),genome
+866346,Helicobacter pylori F57,genome
+158850,Providencia rustigianii,species
+664683,Halomonas titanicae,species
+536,Chromobacterium violaceum,species
+243365,Chromobacterium violaceum ATCC 12472,genome
+412022,Burkholderia mallei NCTC 10229,genome
+1769779,Microbulbifer aggregans,species
+146474,Acetobacter orientalis,species
+1727196,Methylomonas sp. DH-1,species
+1072459,Escherichia coli O7:K1 CE10,genome
+1415630,Pseudomonas sp. TKP,species
+134287,secondary endosymbiont of Heteropsylla cubana,species
+400668,Marinomonas sp. MWYL1,species
+1758194,Achromobacter sp. AONIH1,species
+754507,Aggregatibacter actinomycetemcomitans ANH9381,genome
+1096997,Acinetobacter baumannii BJAB0868,genome
+935589,Neisseria meningitidis NZ-05/33 (serogroup B),genome
+362663,Escherichia coli O6:K15:H31 536 (UPEC),genome
+83655,Leclercia adecarboxylata,species
+2604537,Altererythrobacter sp. BO-6,species
+1443590,Ferriphaselus,genus
+1188319,Ferriphaselus amnicola,species
+119219,Cupriavidus metallidurans,species
+266264,Cupriavidus metallidurans CH34,genome
+194963,Sinorhizobium americanum,species
+1052095,Granulibacter bethesdensis CGDNIH4,genome
+158327,Hahella chejuensis,species
+349521,Hahella chejuensis KCTC 2396,genome
+1619313,Erwinia gerundensis,species
+342109,Xanthomonas oryzae pv. oryzae MAFF 311018,genome
+741093,Escherichia coli O157:H7 Xuzhou21 (EHEC),genome
+1148157,Acinetobacter oleivorans,species
+436717,Acinetobacter oleivorans DR1,genome
+269796,Rhodospirillum rubrum ATCC 11170,genome
+1980513,Candidatus Nitrosoglobus,genus
+1630141,Candidatus Nitrosoglobus terrae,species
+1127122,Helicobacter pylori XZ274,genome
+374606,Aminobacter sp. MSH1,species
+85073,Thermochromatium,genus
+1050,Thermochromatium tepidum,species
+316276,Thermochromatium tepidum ATCC 43061,genome
+1648497,Boseongicola,genus
+2552942,Boseongicola sp. CCM32,species
+232721,Acidovorax sp. JS42,species
+2051553,Methylobacterium currus,species
+885864,Jeongeupia,genus
+1906741,Jeongeupia sp. USM3,species
+708186,Arcobacter trophiarum,species
+1032241,Arcobacter trophiarum LMG 25534,genome
+762376,Achromobacter xylosoxidans A8,genome
+354242,Campylobacter jejuni subsp. jejuni 81-176,genome
+157673,[Mannheimia] succiniciproducens,species
+221988,Mannheimia succiniciproducens MBEL55E,genome
+1615494,Mixta intestinalis,species
+29542,Pelobacter acetylenicus,species
+208224,Enterobacter kobei,species
+990288,Acidithiobacillus caldus SM-1,genome
+1484898,Methyloceanibacter,genus
+1384459,Methyloceanibacter caenitepidi,species
+361183,Altererythrobacter epoxidivorans,species
+1105096,Rickettsia prowazekii BuV67-CWPP,genome
+871742,Massilia flava,species
+296842,Desulfovibrio carbinolicus,species
+887061,Methylovorus sp. MP688,species
+1278212,Arcobacter suis,species
+663365,Arcobacter suis CECT 7833,genome
+119043,Rhodobiaceae,family
+256616,Parvibaculum,genus
+256618,Parvibaculum lavamentivorans,species
+402881,Parvibaculum lavamentivorans DS-1,genome
+1367494,Pseudomonas aeruginosa PAO1-VE13,genome
+579138,Zymomonas mobilis subsp. pomaceae ATCC 29192,genome
+2738399,Parasedimentitalea,genus
+2483033,Parasedimentitalea marina,species
+1549858,Sphingomonas taxi,species
+490759,Marinobacter sp. BSs20148,species
+267212,Neisseria bacilliformis,species
+2686094,Caulobacteraceae bacterium 0127_4,species
+453161,Candidatus Nitrotoga,genus
+2559597,Candidatus Nitrotoga sp. AM1P,species
+59195,Rickettsiella,genus
+676208,Candidatus Rickettsiella viridis,species
+1702170,Citrobacter sp. FDAARGOS_156,species
+351604,Geobacter uraniireducens,species
+351605,Geobacter uraniireducens Rf4,genome
+2283483,Sulfurimonas sp. CVO,species
+1401256,Xylella fastidiosa MUL0034,genome
+385025,Cycloclasticus sp. P1,species
+394751,Pseudoalteromonas arctica,species
+1117313,Pseudoalteromonas arctica A 37-1-2,genome
+251701,Pseudomonas syringae group genomosp. 3,species
+223283,Pseudomonas syringae pv. tomato DC3000,genome
+2597701,Comamonas sp. NLF-7-7,species
+295319,Salmonella enterica subsp. enterica serovar Paratyphi A ATCC 9150,genome
+1774373,Alteromonas mediterranea DE (Alteromonas macleodii Deep ecotype),genome
+488732,Burkholderia diffusa,species
+2487929,Coxiella endosymbiont of Amblyomma sculptum,species
+626774,Proteus cibarius,species
+2029873,Monaibacterium,genus
+2715211,Monaibacterium sp. ALG8,species
+55211,Erwinia persicina,species
+95485,Burkholderia stabilis,species
+2082949,Microvirga sp. 17 mud 1-3,species
+2060312,Altererythrobacter sp. B11,species
+2588449,Shewanella polaris,species
+60550,Burkholderia pyrrocinia,species
+283165,Bartonella quintana Toulouse,genome
+91891,Legionella pneumophila subsp. pneumophila HL06041035 (serogroup 1),genome
+645464,Campylobacter jejuni subsp. jejuni M1,genome
+2026785,Rhodobiaceae bacterium,species
+381,Mesorhizobium loti,species
+935546,Mesorhizobium loti NZP2037,genome
+1084558,Oceanicoccus,genus
+716816,Oceanicoccus sagamiensis,species
+497978,Acinetobacter baumannii MDR-ZJ06,genome
+2011159,Erythrobacter sp. KY5,species
+69665,Caulobacter sp. FWC26,species
+1311573,Helicobacter pylori UM032,genome
+2723,Hirschia,genus
+2724,Hirschia baltica,species
+582402,Hirschia baltica ATCC 49814,genome
+1649877,Pseudomonas sp. CCOS 191,species
+686597,Martelella sp. AD-3,species
+204456,Gemmobacter,genus
+2169400,Gemmobacter sp. HYN0069,species
+935593,Neisseria meningitidis M04-240196 (serogroup B),genome
+1105104,Rickettsia rickettsii Brazil,genome
+39643,Sorangium,genus
+56,Sorangium cellulosum,species
+448385,Sorangium cellulosum So ce56,genome
+1933907,Bartonella sp. JB63,species
+1297582,Candidatus Portiera aleyrodidarum TV,genome
+394935,Chromobacterium haemolyticum,species
+1028416,Psychrobacter sp. DAB_AL43B,species
+106634,Thioalkalivibrio versutus,species
+862964,Haemophilus influenzae 10810 (serotype b),genome
+674,Vibrio mimicus,species
+59814,Pantoea dispersa,species
+1663591,Magnetospirillum sp. XM-1,species
+224915,Buchnera aphidicola Bp,genome
+237610,Pseudomonas psychrotolerans,species
+1649279,Epibacterium,genus
+379347,Epibacterium mobile,species
+1265309,Epibacterium mobile F1926,genome
+1379159,Dyella jiangningensis,species
+58049,Colwellia sp. MT41,species
+313985,Geobacter lovleyi,species
+398767,Geobacter lovleyi SZ,genome
+29494,Vibrio furnissii,species
+903510,Vibrio furnissii NCTC 11218,genome
+634456,Acetobacter pasteurianus IFO 3283-26,genome
+759362,Ketogulonicigenium vulgare WSH-001,genome
+1267753,Salmonella enterica subsp. enterica serovar Javiana CFSAN001992,genome
+863372,Herbaspirillum huttiense,species
+595537,Variovorax paradoxus EPS,genome
+225848,Shewanella psychrophila,species
+364316,Verminephrobacter,genus
+364317,Verminephrobacter eiseniae,species
+391735,Verminephrobacter eiseniae EF01-2,genome
+1367491,Campylobacter coli 76339,genome
+134537,Paraburkholderia fungorum,species
+1054033,Arcobacter venerupis,species
+59405,Thauera aromatica,species
+44139,Thauera aromatica K172,genome
+1123863,Pantoea ananatis LMG 5342,genome
+786,Rickettsia akari,species
+293614,Rickettsia akari Hartford,genome
+702113,Novosphingobium sp. PP1Y,species
+1406860,Salmonella enterica subsp. enterica serovar Agona 24249,genome
+488142,Serratia sp. SCBI,species
+1005090,Buchnera aphidicola Ak,genome
+231023,Pseudomonas putida ND6,genome
+349102,Rhodobacter sphaeroides ATCC 17025,genome
+28152,Yersinia kristensenii,species
+1759059,Caulobacteraceae bacterium OTSz_A_272,species
+287094,Alteromonas addita,species
+1033846,Marinobacter adhaerens,species
+225937,Marinobacter adhaerens HP15,genome
+348824,Rhizobium favelukesii,species
+272831,Neisseria meningitidis FAM18 (serogroup C),genome
+359391,Brucella abortus 2308 (Brucella melitensis biovar Abortus 2308),genome
+1237,Piscirickettsia,genus
+1238,Piscirickettsia salmonis,species
+1227812,Piscirickettsia salmonis LF-89,genome
+1427366,Dickeya zeae EC1,genome
+1860122,Halothiobacillus sp. LS2,species
+317,Pseudomonas syringae,species
+1357279,Pseudomonas syringae CC1557,genome
+1273173,Campylobacter coli CVM N29710,genome
+996285,Pseudomonas stutzeri DSM 4166,genome
+698828,Kushneria konosiri,species
+551759,Aromatoleum,genus
+551760,Aromatoleum aromaticum,species
+76114,Aromatoleum aromaticum EbN1,genome
+1435044,Pseudomonas monteilii SB3078,genome
+1266844,Acetobacter pasteurianus 386B,genome
+198252,Candidatus Pelagibacter ubique,species
+335992,Candidatus Pelagibacter ubique HTCC1062,genome
+92793,Aquabacterium,genus
+1296669,Aquabacterium olei,species
+120107,Sphingobium cloacae,species
+383750,Marinomonas arctica,species
+1286640,Sinorhizobium meliloti 2011,genome
+376488,Halotalea,genus
+376489,Halotalea alkalilenta,species
+436,Komagataeibacter hansenii,species
+703352,Brucella melitensis M5-90,genome
+40,Stigmatella,genus
+41,Stigmatella aurantiaca,species
+378806,Stigmatella aurantiaca DW4/3-1,genome
+10,Cellvibrio,genus
+155077,Cellvibrio japonicus,species
+498211,Cellvibrio japonicus Ueda107,genome
+2494550,Roseovarius sp. MME-070,species
+1603606,Desulfuromonas soudanensis,species
+1301080,Candidatus Nasuia,genus
+1160784,Candidatus Nasuia deltocephalinicola,species
+1343077,Candidatus Nasuia deltocephalinicola NAS-ALF,genome
+2231053,Bdellovibrio sp. ZAP7,species
+882944,Vibrio anguillarum M3,genome
+441952,Francisella tularensis subsp. mediasiatica FSC147,genome
+980514,Acinetobacter baumannii TCDC-AB0715,genome
+80866,Delftia acidovorans,species
+398578,Delftia acidovorans SPH-1,genome
+1142511,Wigglesworthia glossinidia,genome
+2675225,Novosphingobium sp. Gsoil 351,species
+471,Acinetobacter calcoaceticus,species
+2726810,Scandinavium,genus
+1851514,Scandinavium goeteborgense,species
+1896196,Porphyrobacter sp. LM 6,species
+654,Aeromonas veronii,species
+34061,Moraxella cuniculi,species
+2109914,Ottowia oryzae,species
+1254432,Sorangium cellulosum So0157-2,genome
+114616,Methylobacterium nodulans,species
+460265,Methylobacterium nodulans ORS 2060,genome
+1444770,Xylella taiwanensis,species
+47878,Pseudomonas azotoformans,species
+120577,Brucella ceti,species
+1407053,Brucella ceti TE28753-12,genome
+41707,Lawsonia,genus
+29546,Lawsonia intracellularis,species
+1234378,Lawsonia intracellularis N343,genome
+1455315,Acinetobacter baumannii LAC-4,genome
+1448140,Pseudomonas aeruginosa YL84,genome
+311230,Paraburkholderia terrae,species
+1933910,Bartonella sp. A1379B,species
+1740162,Burkholderia sp. Bp5365,species
+238800,Rickettsia asiatica,species
+75612,Pseudomonas mandelii,species
+1147786,Pseudomonas mandelii JR-1,genome
+40215,Acinetobacter junii,species
+685038,Escherichia coli O83:H1 NRG 857C (AIEC),genome
+216142,Pseudomonas rhizosphaerae,species
+2016517,Francisella opportunistica,species
+1813600,Candidatus Tenderia,genus
+1748243,Candidatus Tenderia electrophaga,species
+1248725,Helicobacter pylori OK113,genome
+60892,Desulfobacca,genus
+60893,Desulfobacca acetoxidans,species
+880072,Desulfobacca acetoxidans DSM 11109,genome
+421000,Sulfitobacter donghicola,species
+614,Serratia liquefaciens,species
+1346614,Serratia liquefaciens ATCC 27592,genome
+158627,Pseudomonas graminis,species
+53318,Desulfocapsa,genus
+65555,Desulfocapsa sulfexigens,species
+1167006,Desulfocapsa sulfexigens DSM 10523,genome
+1660073,Campylobacter sp. RM6137,species
+1114970,Pseudomonas fluorescens F113,genome
+1649479,Permianibacter,genus
+1510150,Permianibacter aggregans,species
+470933,Pantoea eucalypti,species
+200451,Pseudomonas poae,species
+1282356,Pseudomonas poae RE*1-1-14,genome
+148813,Sulfuricurvum kujiense,species
+709032,Sulfuricurvum kujiense DSM 16994,genome
+391165,Granulibacter bethesdensis CGDNIH1,genome
+2100422,Idiomarina sp. OT37-5b,species
+585538,Helicobacter pylori 83,genome
+1335307,Burkholderia pseudomallei MSHR305,genome
+729,Haemophilus parainfluenzae,species
+862965,Haemophilus parainfluenzae T3T1,genome
+285,Comamonas testosteroni,species
+1392005,Comamonas testosteroni TK102,genome
+29486,Yersinia ruckeri,species
+1267766,Altererythrobacter atlanticus,species
+522485,Campylobacter avium,species
+522484,Campylobacter avium LMG 24591,genome
+271098,Shewanella halifaxensis,species
+458817,Shewanella halifaxensis HAW-EB4,genome
+1134435,Thauera humireducens,species
+573570,Francisella uliginis,species
+504832,Oligotropha carboxidovorans OM5 (Mississippi),genome
+1051,Ectothiorhodospira,genus
+1442136,Ectothiorhodospira sp. BSL-9,species
+219572,Pseudomonas antarctica,species
+436357,Thalassococcus,genus
+2017482,Thalassococcus sp. S3,species
+152053,Starkeya,genus
+2709380,Starkeya sp. ORNL1,species
+186490,Candidatus Baumannia cicadellinicola,species
+158876,Yokenella,genus
+158877,Yokenella regensburgei,species
+1590041,Aquitalea sp. USM4,species
+186931,Thioalkalivibrio nitratireducens,species
+1255043,Thioalkalivibrio nitratireducens DSM 14787,genome
+1183380,Campylobacter coli RM5611,genome
+1240980,Campylobacter fetus subsp. fetus 04/554,genome
+550538,Salmonella enterica subsp. enterica serovar Gallinarum 287/91,genome
+1261127,Citrobacter amalonaticus Y19,genome
+1905730,Pectobacterium parmentieri,species
+2746,Halomonas elongata,species
+768066,Halomonas elongata DSM 2581,genome
+1199245,secondary endosymbiont of Ctenarytaina eucalypti,species
+2500532,Paracoccus sp. Arc7-R13,species
+1001585,Pseudomonas mendocina NK-01,genome
+1484693,Rhodoferax saidenbachensis,species
+359370,Microbulbifer sp. A4B17,species
+1249667,Burkholderia thailandensis USAMRU Malaysia #20,genome
+177416,Francisella tularensis subsp. tularensis SCHU S4,genome
+296,Pseudomonas fragi,species
+343,Xanthomonas translucens,species
+487909,Xanthomonas translucens pv. undulosa strain Xtu 4699,genome
+135615,Cardiobacteriales,order
+868,Cardiobacteriaceae,family
+2717,Cardiobacterium,genus
+2718,Cardiobacterium hominis,species
+445709,Pandoraea thiooxydans,species
+133539,Nitrosococcus halophilus,species
+472759,Nitrosococcus halophilus Nc 4,genome
+83406,gamma proteobacterium HdN1,species
+254247,Aquicella siphonis,species
+421628,Ectothiorhodospira haloalkaliphila,species
+1105105,Rickettsia rickettsii Arizona,genome
+1561924,Kangiella profundi,species
+1835254,Polynucleobacter duraquae,species
+986106,Acidiferrobacter,genus
+1281578,Acidiferrobacter sp. SPIII_3,species
+2500548,Acetobacter oryzoeni,species
+504,Kingella kingae,species
+74829,Pseudomonas balearica,species
+1123016,Pseudomonas balearica DSM 6083,genome
+470137,Brucella suis ATCC 23445,genome
+645,Aeromonas salmonicida,species
+382245,Aeromonas salmonicida subsp. salmonicida A449,genome
+1809055,Acinetobacter sp. DUT-2,species
+1316932,Mannheimia haemolytica M42548,genome
+1916293,Bdellovibrio sp. qaytius,species
+46913,Devosia,genus
+2083786,Devosia sp. I507,species
+35795,Ehrlichia muris,species
+1423892,Ehrlichia muris AS145,genome
+202907,Collimonas,genus
+279058,Collimonas arenae,species
+358220,Acidovorax sp. KKS102,species
+44,Melittangium,genus
+83453,Melittangium boletus,species
+1294270,Melittangium boletus DSM 14713,genome
+880,Desulfovibrio salexigens,species
+526222,Desulfovibrio salexigens DSM 2638,genome
+866345,Helicobacter pylori F30,genome
+290397,Anaeromyxobacter dehalogenans 2CP-C,genome
+82985,Pragia fontium,species
+51367,Salinivibrio costicola,species
+2072590,Massilia armeniaca,species
+228400,Histophilus somni 2336,genome
+1649486,Rhizorhabdus,genus
+1850238,Rhizorhabdus dicambivorans,species
+183417,Proteus hauseri,species
+1097466,Defluviimonas,genus
+1335048,Defluviimonas alba,species
+104087,Pseudomonas frederiksbergensis,species
+2651974,Hydrogenophaga sp. BPS33,species
+1866325,Sphingopyxis sp. MG,species
+1432049,Rhizobium etli bv. phaseoli IE4803,genome
+1048757,Candidatus Moranella,genus
+1048758,Candidatus Moranella endobia,species
+903503,Candidatus Moranella endobia PCIT,genome
+637386,Yersinia pestis Z176003,genome
+497725,Kosakonia oryzae,species
+1367493,Pseudomonas aeruginosa PAO1-VE2,genome
+292,Burkholderia cepacia,species
+1009846,Burkholderia cepacia GG4,genome
+156885,Thioflavicoccus,genus
+80679,Thioflavicoccus mobilis,species
+765912,Thioflavicoccus mobilis 8321,genome
+2591633,Lysobacter alkalisoli,species
+1231242,Ferrovibrio,genus
+2594003,Ferrovibrio terrae,species
+1249665,Burkholderia thailandensis E254,genome
+265570,Sulfurovum,genus
+206403,Sulfurovum lithotrophicum,species
+53946,Octadecabacter arcticus,species
+391616,Octadecabacter arcticus 238,genome
+1543704,Niveispirillum,genus
+1612173,Niveispirillum cyanobacteriorum,species
+184917,Desulfovibrio magneticus,species
+573370,Desulfovibrio magneticus RS-1,genome
+1855875,Spiribacter roseus,species
+2497879,Colwellia sp. Arc7-635,species
+75105,Paraburkholderia caribensis,species
+1323664,Paraburkholderia caribensis MBA4 (Burkholderia caribensis MBA4),genome
+434922,Coxiella burnetii Dugway 5J108-111,genome
+85072,Allochromatium,genus
+1049,Allochromatium vinosum,species
+572477,Allochromatium vinosum DSM 180,genome
+2082188,Sphingobium sp. YG1,species
+351746,Pseudomonas putida F1,genome
+404589,Anaeromyxobacter sp. Fw109-5,species
+263437,Wolbachia endosymbiont of Culex quinquefasciatus,species
+570417,Wolbachia sp. wPip,genome
+44012,Ferrimonas balearica,species
+550540,Ferrimonas balearica DSM 9799,genome
+1244528,Campylobacter fetus subsp. testudinum 03-427,genome
+1987723,Cellvibrio sp. PSBB006,species
+1412841,Anaplasma marginale Dawn,genome
+90243,Oligella,genus
+90245,Oligella urethralis,species
+87883,Burkholderia multivorans,species
+395019,Burkholderia multivorans ATCC 17616 (JGI),genome
+985079,Burkholderia multivorans ATCC BAA-247,genome
+1202539,Candidatus Carsonella ruddii HT,genome
+1420885,Vibrio cholerae O1 El Tor MS6,genome
+1325095,Bradyrhizobium guangzhouense,species
+1404768,Bradyrhizobium amphicarpaeae,species
+193,Azospirillum lipoferum,species
+862719,Azospirillum lipoferum 4B,genome
+1874317,Marinobacter salinus,species
+1541743,Candidatus Ruthia,genus
+386487,Candidatus Ruthia magnifica,species
+413404,Candidatus Ruthia magnifica Cm,genome
+267375,Pseudoalteromonas marina,species
+1719125,Candidatus Riesia sp. GBBU,species
+84159,Magnetospirillum magneticum,species
+342108,Magnetospirillum magneticum AMB-1,genome
+465,Tatlockia,genus
+451,Tatlockia micdadei,species
+1763827,Hankyongella,genus
+1763828,Hankyongella ginsenosidimutans,species
+2028343,Rhizobium sp. 11515TR,species
+359408,Methylotenera mobilis,species
+583345,Methylotenera mobilis JLW8,genome
+554290,Salmonella enterica subsp. enterica serovar Paratyphi A AKU_12601,genome
+742013,Delftia sp. Cs1-4,species
+1236909,Wolbachia sp. wHa,genome
+670307,Hyphomicrobium denitrificans 1NES1,genome
+82541,Cupriavidus gilardii,species
+1267562,Cupriavidus gilardii CR3,genome
+48074,Microbulbifer hydrolyticus,species
+260364,Shewanella marisflavi,species
+550537,Salmonella enterica subsp. enterica serovar Enteritidis P125109,genome
+1407056,Litorilituus,genus
+718192,Litorilituus sediminis,species
+507626,Halomonas chromatireducens,species
+1581680,Candidatus Methylopumilus turicensis,species
+866344,Helicobacter pylori F16,genome
+199596,Methylocella silvestris,species
+395965,Methylocella silvestris BL2,genome
+337479,Rickettsia endosymbiont of Bemisia tabaci,species
+1182263,Rickettsia sp. MEAM1,genome
+261933,Pleomorphomonas,genus
+1885025,Pleomorphomonas sp. SM30,species
+1208320,Thalassolituus oleivorans R6-15,genome
+57706,Citrobacter braakii,species
+2680021,Ephemeroptericola,genus
+2268024,Ephemeroptericola cinctiostellae,species
+540747,Roseovarius indicus,species
+1002672,Candidatus Pelagibacter sp. IMCC9063,species
+70348,Acinetobacter dispersus,species
+161398,Pseudoalteromonas phenolica,species
+2282309,Leclercia sp. W17,species
+372461,Buchnera aphidicola BCc,genome
+265959,Komagataeibacter saccharivorans,species
+216592,Escherichia coli O44:H18 042 (EAEC),genome
+1795043,Burkholderia sp. PAMC 26561,species
+290339,Cronobacter sakazakii ATCC BAA-894,genome
+2558360,Neokomagataea sp. Ha5,species
+539,Eikenella corrodens,species
+405416,Acinetobacter baumannii ACICU,genome
+1300255,Alteromonas mediterranea U4 (Alteromonas macleodii Ionian Sea U4),genome
+34102,Sphaerotilus,genus
+34103,Sphaerotilus natans,species
+639200,Sphaerotilus natans subsp. sulfidivorans D-507,genome
+222136,Helicobacter sp. MIT 01-6242,species
+301,Pseudomonas oleovorans,species
+1182590,Pseudomonas pseudoalcaligenes CECT 5344,genome
+272560,Burkholderia pseudomallei K96243,genome
+81479,Rhodoferax antarcticus,species
+1366050,Ralstonia pickettii DTP0602,genome
+1248915,Escherichia coli O145:H28 RM13516 (EHEC),genome
+1094170,Klebsiella pneumoniae subsp. pneumoniae KPNIH10,genome
+1273155,Thiohalobacter,genus
+585455,Thiohalobacter thiocyanaticus,species
+169427,Paraburkholderia terricola,species
+564,Escherichia fergusonii,species
+585054,Escherichia fergusonii ATCC 35469,genome
+395960,Rhodopseudomonas palustris TIE-1,genome
+208962,Escherichia albertii,species
+1440052,Escherichia albertii KF1,genome
+291331,Xanthomonas oryzae pv. oryzae KACC 10331,genome
+1355477,Bradyrhizobium diazoefficiens,species
+224911,Bradyrhizobium diazoefficiens USDA 110,genome
+1327989,Serratia sp. FS14,species
+2077147,Citrobacter freundii complex sp. CFNIH3,species
+74109,Photobacterium profundum,species
+298386,Photobacterium profundum SS9,genome
+2066070,Mesorhizobium japonicum,species
+266835,Mesorhizobium japonicum MAFF 303099,genome
+636,Edwardsiella tarda,species
+718251,Edwardsiella tarda FL6-60,genome
+44742,Desulfovibrio fairfieldensis,species
+1085647,Allofrancisella inopinata,species
+568709,Salmonella enterica subsp. enterica serovar Typhimurium DT2,genome
+1158459,Kosakonia sacchari,species
+1235834,Kosakonia sacchari SP1,genome
+1211776,Campylobacter jejuni subsp. jejuni NCTC 11168-BN148,genome
+2497863,Janthinobacterium sp. 17J80-10,species
+1250339,Burkholderia thailandensis MSMB59,genome
+1082704,Lonsdalea britannica,species
+1335483,Shimwellia,genus
+563,Shimwellia blattae,species
+630626,Shimwellia blattae DSM 4481 = NBRC 105725,genome
+2036754,Chelatococcaceae,family
+28209,Chelatococcus,genus
+444444,Chelatococcus daeguensis,species
+1636608,Aeromonas sp. ASNIH3,species
+896,Desulfococcus,genus
+181663,Desulfococcus oleovorans,species
+96561,Desulfococcus oleovorans Hxd3,genome
+645517,Altererythrobacter namhicola,species
+2202149,Thermomonas sp. SY21,species
+2153385,Lelliottia sp. WB101,species
+2005262,Legionella endosymbiont of Polyplax serrata,species
+754523,Rhizobium leguminosarum bv. trifolii WSM1689,genome
+881260,Enterobacter bugandensis,species
+2029986,Shewanella sp. WE21,species
+400673,Legionella pneumophila Corby,genome
+189834,Actinobacillus porcitonsillarum,species
+92245,Thiomicrospira aerophila,species
+717772,Thiomicrospira aerophila AL3,genome
+1967781,Rhizobium esperanzae,species
+1079922,Commensalibacter,genus
+2070537,Commensalibacter sp. ESL0284,species
+152480,Burkholderia ambifaria,species
+398577,Burkholderia ambifaria MC40-6,genome
+148447,Paraburkholderia phymatum,species
+391038,Paraburkholderia phymatum STM815,genome
+352450,Simplicispira,genus
+2109915,Simplicispira suum,species
+488729,Burkholderia metallica,species
+325775,Coxiella endosymbiont of Amblyomma americanum,species
+941322,Escherichia coli O25b:K100:H4-ST131 EC958 (UPEC),genome
+1054034,Arcobacter cloacae,species
+93221,Pandoraea pulmonicola,species
+889738,Acinetobacter baumannii MDR-TJ,genome
+190721,Ralstonia insidiosa,species
+61652,Serratia rubidaea,species
+1173064,Anaplasma phagocytophilum JM,genome
+2527775,Polynucleobacter paneuropaeus,species
+153948,Nitrosomonas sp. AL212,species
+2479367,Buttiauxella sp. 3AFRM03,species
+245876,Nitratireductor,genus
+2599600,Nitratireductor sp. SY7,species
+1808977,Candidatus Methylospira,genus
+1808979,Candidatus Methylospira mobilis,species
+1191175,Candidatus Vidania,genus
+881286,Candidatus Vidania fulgoroideae,species
+285091,Alcanivorax dieselolei,species
+930169,Alcanivorax dieselolei B5,genome
+884204,Burkholderia pseudomallei 1026b,genome
+2715163,Acinetobacter sp. 185,species
+407148,Campylobacter jejuni subsp. jejuni 81116,genome
+205922,Pseudomonas fluorescens Pf0-1,genome
+308754,Rhodovulum sp. MB263,species
+824,Campylobacter gracilis,species
+91914,Asaia,genus
+91915,Asaia bogorensis,species
+1231624,Asaia bogorensis NBRC 16594,genome
+794846,Sinorhizobium sp. CCBAU 05631,species
+1420012,Klebsiella pneumoniae 30660/NJST258_1,genome
+28199,Arcobacter nitrofigilis,species
+572480,Arcobacter nitrofigilis DSM 7299,genome
+34,Myxococcus xanthus,species
+246197,Myxococcus xanthus DK 1622,genome
+1031536,Campylobacter lari subsp. concheus LMG 11760,genome
+105219,Ralstonia mannitolilytica,species
+866913,Salmonella enterica subsp. enterica serovar 4,genome
+57320,Pseudodesulfovibrio profundus,species
+1207075,Pseudomonas sp. UW4,species
+1580596,Phaeobacter piscinae,species
+2478912,Commensalibacter sp. AMU001,species
+869727,Helicobacter pylori 908,genome
+1035377,Yersinia pestis A1122,genome
+1702325,Chelatococcus sp. CO-6,species
+243160,Burkholderia mallei ATCC 23344,genome
+339670,Burkholderia ambifaria AMMD,genome
+293,Brevundimonas diminuta,species
+1388751,Campylobacter subantarcticus LMG 24374,genome
+1933912,Bartonella sp. Raccoon60,species
+2042961,Campylobacter blaseri,species
+2683599,Paraoceanicella,genus
+2579971,Paraoceanicella profunda,species
+115553,Halomonas sulfidaeris,species
+1004788,Alteromonas macleodii English Channel 673,genome
+1055528,Helicobacter pylori Puno120,genome
+213113,Desulfurellales,order
+117942,Desulfurellaceae,family
+33001,Desulfurella,genus
+33002,Desulfurella acetivorans,species
+694431,Desulfurella acetivorans A63,genome
+1009859,Buchnera aphidicola F009,genome
+2136172,Halomonas sp. SF2003,species
+169055,Nordella,genus
+2712222,Nordella sp. HKS 07,species
+1358410,Campylobacter coli 15-537360,genome
+235559,Arsenophonus endosymbiont of Aleurodicus dispersus,species
+106649,Acinetobacter guillouiae,species
+32014,Iodobacter,genus
+537,Iodobacter fluviatilis,species
+93,Stella,genus
+94,Stella humosa,species
+1333851,Enterobacter hormaechei subsp. hoffmannii ECNIH3,genome
+718271,Campylobacter jejuni subsp. jejuni S3,genome
+1389192,Cupriavidus sp. USMAHM13,species
+299261,Tateyamaria,genus
+299262,Tateyamaria omphalii,species
+1274814,Escherichia coli APEC O78 (APEC),genome
+1321939,Helicobacter pylori UM037,genome
+1654741,Bombella,genus
+2676441,Bombella sp. ESL0368,species
+400770,Devosia ginsengisoli,species
+1542390,Francisella frigiditurris,species
+267608,Ralstonia solanacearum GMI1000,genome
+398527,Paraburkholderia phytofirmans PsJN (Burkholderia phytofirmans PsJN),genome
+400667,Acinetobacter baumannii ATCC 17978,genome
+1300254,Alteromonas mediterranea MED64 (Alteromonas macleodii Aegean Sea MED64),genome
+363253,Lawsonia intracellularis PHE/MN1-00,genome
+291112,Photorhabdus asymbiotica,species
+199310,Escherichia coli O6:K2:H1 CFT073 (UPEC),genome
+1385591,Burkholderia sp. BDU6,species
+688354,Campylobacter fetus subsp. venerealis 84-112,genome
+56448,Xanthomonas arboricola,species
+43658,Pseudoalteromonas rubra,species
+1105097,Rickettsia prowazekii Dachau,genome
+387095,Maribius,genus
+2587842,Maribius sp. THAF1,species
+1763535,Hydrogenophaga crassostreae,species
+29498,Vibrio tubiashii,species
+1051646,Vibrio tubiashii ATCC 19109,genome
+1891279,Thalassospira indica,species
+2748098,Rhodobacteraceae bacterium RR4-56,species
+721785,Acidovorax ebreus,species
+535289,Acidovorax ebreus TPSY,genome
+2492396,Kosakonia sp. CCTCC M2018092,species
+56458,Xanthomonas sacchari,species
+2005046,Stenotrophomonas sp. WZN-1,species
+1055531,Helicobacter pylori Aklavik117,genome
+309512,Dinoroseobacter,genus
+215813,Dinoroseobacter shibae,species
+398580,Dinoroseobacter shibae DFL 12 = DSM 16493,genome
+192843,Rhodoferax ferrireducens,species
+338969,Rhodoferax ferrireducens T118 (DSM 15236),genome
+216597,Salmonella enterica subsp. enterica serovar Typhimurium SL1344,genome
+1891094,Pandoraea fibrosis,species
+1854493,Sulfurospirillum sp. ACSTCE,species
+297246,Legionella pneumophila Paris (serogroup 1),genome
+693970,Shewanella baltica OS117,genome
+69539,Moritella yayanosii,species
+983594,Burkholderia cepacia ATCC 25416 UCB 717,genome
+2268087,Polaromonas sp. SP1,species
+1176492,Burkholderia glumae LMG 2196 = ATCC 33617,genome
+261164,Psychrobacter alimentarius,species
+627344,Zymomonas mobilis subsp. mobilis ATCC 29191,genome
+351671,Xenorhabdus doucetiae,species
+498217,Edwardsiella tarda EIB202,genome
+53413,Xanthomonas axonopodis,species
+1304892,Xanthomonas axonopodis Xac29-1,genome
+915,Nitrosomonas europaea,species
+228410,Nitrosomonas europaea ATCC 19718,genome
+255527,Saccharospirillaceae,family
+1445504,Gynuella,genus
+1445505,Gynuella sunshinyii,species
+1445510,Gynuella sunshinyii YC6258,genome
+1707785,Massilia sp. WG5,species
+1412460,Salmonella enterica subsp. enterica serovar Enteritidis EC20090135,genome
+665913,Mixta calida,species
+2035710,Thioalkalibacteraceae,family
+2035712,Guyparkeria,genus
+47960,Guyparkeria halophila,species
+357348,Burkholderia pseudomallei 1106a,genome
+333965,Providencia vermicola,species
+2588711,Rhodobacteraceae bacterium SM1903,species
+1987580,Proteus columbae,species
+587,Providencia rettgeri,species
+488546,Campylobacter peloridis,species
+1388753,Campylobacter peloridis LMG 23910,genome
+43661,Shewanella benthica,species
+591020,Shigella flexneri 2002017 (serotype Fxv),genome
+726,Haemophilus haemolyticus,species
+301105,Enterobacter hormaechei subsp. hormaechei 34983,genome
+1054211,Sulfuritalea,genus
+748811,Sulfuritalea hydrogenivorans,species
+1223802,Sulfuritalea hydrogenivorans sk43H,genome
+2027290,Providencia sp. WCHPHu000369,species
+373384,Shigella flexneri 8401 (serotype 5b),genome
+359336,Castellaniella,genus
+75697,Castellaniella defragrans,species
+1437824,Castellaniella defragrans 65Phen,genome
+101571,Burkholderia ubonensis,species
+1249668,Burkholderia ubonensis MSMB22,genome
+1163740,Helicobacter pylori Shi112,genome
+1218933,Pectobacterium carotovorum subsp. carotovorum PCC21,genome
+1891098,Brucella sp. 2002734562,species
+1105109,Rickettsia slovaca D-CWPP,genome
+599651,Bermanella,genus
+207949,Bermanella marisrubri,species
+80867,Acidovorax avenae,species
+643561,Acidovorax avenae subsp. avenae ATCC 19860,genome
+104623,Serratia sp. ATCC 39006,species
+2004661,Hyphobacterium,genus
+2749086,Hyphobacterium sp. CCMP332,species
+20,Phenylobacterium,genus
+2201350,Phenylobacterium sp. HYN0004,species
+556287,Candidatus Liberibacter solanacearum,species
+658172,Candidatus Liberibacter solanacearum CLso-ZC1,genome
+216895,Vibrio vulnificus CMCP6,genome
+1904441,Rhodobacteraceae bacterium,species
+2493668,Mesorhizobium sp. M9A.F.Ca.ET.002.03.1.2,species
+1433402,Glycocaulis,genus
+1434191,Glycocaulis alkaliphilus,species
+137722,Azospirillum sp. B510,genome
+691,Vibrio natriegens,species
+1219067,Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759,genome
+34020,Candidatus Liberibacter africanus,species
+1277257,Candidatus Liberibacter africanus PTSAPSY,genome
+2066490,Emcibacterales,order
+2066491,Emcibacteraceae,family
+1602338,Emcibacter,genus
+2043170,Emcibacter congregatus,species
+1335916,Escherichia coli LY180,genome
+40222,Methylophaga,genus
+754476,Methylophaga nitratireducenticrescens,species
+76758,Pseudomonas orientalis,species
+34004,Paracoccus aminovorans,species
+2594005,Thalassotalea sp. PS06,species
+2698682,Lysobacter oculi,species
+1914449,Rugosibacter,genus
+1565605,Rugosibacter aromaticivorans,species
+447217,Anaeromyxobacter sp. K,species
+1742974,Pyruvatibacter,genus
+1712261,Pyruvatibacter mobilis,species
+370038,Desulfovibrio marinus,species
+573737,Pandoraea oxalativorans,species
+2109558,Halobacteriovorax sp. BALOs_7,species
+107637,Methylomonas sp. LW13,species
+376619,Francisella tularensis subsp. holarctica LVS (Live Vaccine Strain),genome
+735,Haemophilus parahaemolyticus,species
+1848766,Campylobacter ornithocola,species
+409438,Escherichia coli O152:H28 SE11 (commensal strain),genome
+191026,Desulfovibrio hydrothermalis,species
+1121451,Desulfovibrio hydrothermalis AM13 = DSM 14728,genome
+316385,Escherichia coli K-12 DH10B,genome
+1249651,Ehrlichia chaffeensis Heartland,genome
+990315,Xanthomonas campestris pv. raphani 756C,genome
+2282124,Stenotrophomonas sp. ASS1,species
+1911577,Oryzomicrobium,genus
+1735038,Oryzomicrobium terrae,species
+1891787,Roseobacter ponti,species
+137545,Serratia quinivorans,species
+1004786,Alteromonas mediterranea DE1 (Alteromonas macleodii AltDE1),genome
+2587854,Labrenzia sp. THAF35,species
+169176,Novosphingobium tardaugens,species
+1219035,Novosphingobium tardaugens NBRC 16725,genome
+2508307,Leisingera sp. NJS204,species
+1407647,Aggregatibacter actinomycetemcomitans NUM4039,genome
+293089,Martelella mediterranea,species
+1122214,Martelella mediterranea DSM 17316 MACL11,genome
+306263,Campylobacter lari RM2100,genome
+1125847,Rhizobium sp. NT-26,species
+38323,Bartonella henselae,species
+283166,Bartonella henselae Houston-1,genome
+1867846,Legionella clemsonensis,species
+1357994,Campylobacter jejuni subsp. jejuni 00-2425,genome
+101534,Candidatus Blochmannia pennsylvanicus,species
+291272,Candidatus Blochmannia pennsylvanicus BPEN,genome
+1105099,Rickettsia prowazekii RpGvF24,genome
+1249661,Burkholderia thailandensis MSMB121,genome
+254945,Ehrlichia ruminantium Welgevonden (France),genome
+2100208,Caedimonadaceae,family
+2100211,Candidatus Paracaedimonas,genus
+244581,Candidatus Paracaedimonas acanthamoebae,species
+1273132,Liberibacter crescens,species
+1215343,Liberibacter crescens BT-1,genome
+655817,Escherichia coli ABU 83972,genome
+2018305,Shewanella bicestrii,species
+76517,Campylobacter hominis,species
+360107,Campylobacter hominis ATCC BAA-381,genome
+994696,Candidatus Kinetoplastibacterium oncopeltii,species
+1208920,Candidatus Kinetoplastibacterium oncopeltii TCC290E,genome
+1538553,Methylomonas denitrificans,species
+681157,Phaeobacter sp. LSS9,species
+741091,Rahnella sp. Y9602,species
+588932,Brevundimonas naejangsanensis,species
+38313,Shewanella algae,species
+1327635,Sphingomonas sp. Cra20,species
+1906657,Candidatus Doolittlea,genus
+1778262,Candidatus Doolittlea endobia,species
+1055527,Helicobacter pylori ELS37,genome
+2654982,Paraburkholderia sp. CNPSo 3155,species
+757425,Campylobacter jejuni subsp. jejuni ICDCCJ07001,genome
+651,Aeromonas media,species
+1208104,Aeromonas media WS,genome
+1609958,Confluentimicrobium,genus
+1609966,Confluentimicrobium sp. EMB200-NS6,species
+1082930,Pelagibacterium,genus
+531813,Pelagibacterium halotolerans,species
+1082931,Pelagibacterium halotolerans B2,genome
+1279031,Agrobacterium sp. 33MFTa1.1,species
+941967,Brucella melitensis M28,genome
+83564,Desulfosarcina ovata,species
+885957,Desulfosarcina ovata subsp. sediminis 28bB2T,genome
+509173,Acinetobacter baumannii AYE,genome
+447467,Simiduia,genus
+447471,Simiduia agarivorans,species
+1117647,Simiduia agarivorans SA1 = DSM 21679,genome
+1408272,Pseudomonas aeruginosa LES431,genome
+948519,Aeromonas rivipollensis,species
+40214,Acinetobacter johnsonii,species
+1242245,Acinetobacter johnsonii XBB1,genome
+1308548,Xanthomonas citri subsp. citri UI6,genome
+901,Desulfovibrio piger,species
+85963,Helicobacter pylori J99,genome
+1344552,Noviherbaspirillum,genus
+2601898,Noviherbaspirillum sp. UKPF54,species
+1909699,Desulfobulbus oligotrophicus,species
+1096996,Acinetobacter baumannii BJAB0715,genome
+35814,Bordetella holmesii,species
+1247649,Bordetella holmesii ATCC 51541,genome
+557600,Acinetobacter baumannii AB307-0294,genome
+1189310,Myxococcus macrosporus DSM 14697,genome
+80869,Acidovorax citrulli,species
+397945,Acidovorax citrulli AAC00-1,genome
+1199191,Legionella pneumophila subsp. pneumophila Thunder Bay,genome
+484022,Francisella philomiragia subsp. philomiragia ATCC 25017,genome
+1547445,Francisella sp. FSC1006,species
+36746,Pseudomonas cichorii,species
+1441629,Pseudomonas cichorii JBC1,genome
+349215,Micavibrio aeruginosavorus EPB,genome
+399742,Enterobacter sp. 638,species
+634453,Acetobacter pasteurianus IFO 3283-03,genome
+1234603,Candidatus Moranella endobia PCVAL,genome
+33992,Rickettsia rhipicephali,species
+1105113,Rickettsia rhipicephali 3-7-female6-CWPP,genome
+1412462,Salmonella enterica subsp. enterica serovar Enteritidis EC20090531,genome
+2021862,Labrenzia sp. VG12,species
+35806,Rhodovulum sulfidophilum,species
+173366,Methylocystis rosea,species
+229193,Yersinia pestis 91001 (biovar Microtus),genome
+51049,Actinobacillus indolicus,species
+1524213,Vulgatibacteraceae,family
+1524214,Vulgatibacter,genus
+1391653,Vulgatibacter incomptus,species
+684950,Helicobacter pylori 52,genome
+698936,Sinorhizobium meliloti BL225C,genome
+70863,Shewanella oneidensis,species
+211586,Shewanella oneidensis MR-1,genome
+1906660,Candidatus Mikella,genus
+1778264,Candidatus Mikella endobia,species
+1546149,Diaphorobacter polyhydroxybutyrativorans,species
+51288,Kluyvera ascorbata,species
+56453,Xanthomonas cucurbitae,species
+28229,Colwellia psychrerythraea,species
+167879,Colwellia psychrerythraea 34H,genome
+227377,Coxiella burnetii RSA 493,genome
+912,Nitrobacter hamburgensis,species
+323097,Nitrobacter hamburgensis X14,genome
+1202538,Candidatus Carsonella ruddii HC,genome
+220622,Sulfurospirillum sp. JPD-1,species
+1208658,Bordetella bronchiseptica MO149,genome
+39765,Hydrogenovibrio crunogenus,species
+317025,Hydrogenovibrio crunogenus XCL-2 (Thiomicrospira crunogena XCL-2),genome
+1208308,Vibrio neocaledonicus,species
+2259647,Raoultella sp. X13,species
+1897729,Halomonas aestuarii,species
+495,Neisseria elongata,species
+546263,Neisseria elongata subsp. glycolytica ATCC 29315,genome
+76869,Pseudomonas putida GB-1,genome
+869,Dichelobacter,genus
+870,Dichelobacter nodosus,species
+246195,Dichelobacter nodosus VCS1703A,genome
+537457,Actinobacillus pleuropneumoniae AP76 (serotype 7),genome
+296591,Polaromonas sp. JS666,species
+1352354,Pseudomonas aeruginosa PAO581,genome
+891974,Plautia stali symbiont,species
+935297,Vibrio cholerae O1 LMA3984-4,genome
+1404864,Bradyrhizobium sp. 58S1,species
+216596,Rhizobium leguminosarum bv. viciae 3841,genome
+1347340,Campylobacter jejuni 4031,genome
+63,Vitreoscilla filiformis,species
+86185,Psychrobacter sp. FME2,species
+1538158,Rhizobium acidisoli,species
+96,Gallionella,genus
+370405,Gallionella capsiferriformans,species
+395494,Gallionella capsiferriformans ES-2,genome
+146937,Azospira,genus
+146939,Dechlorosoma suillum,species
+640081,Azospira oryzae PS (Dechlorosoma suillum PS),genome
+1904463,Arcobacter lekithochrous,species
+41899,Burkholderia plantarii,species
+682634,Serratia plymuthica 4Rx13,genome
+846,Oxalobacter,genus
+847,Oxalobacter formigenes,species
+65553,Sulfurospirillum deleyianum,species
+525898,Sulfurospirillum deleyianum DSM 6946,genome
+1458426,Serpentinomonas mccroryi,species
+1429044,Vibrio parahaemolyticus UCM-V493,genome
+1202536,Candidatus Carsonella ruddii CE,genome
+1509243,Candidatus Nucleicultrix,genus
+1509244,Candidatus Nucleicultrix amoebiphila,species
+1414854,Candidatus Nucleicultrix amoebiphila FS5,genome
+655351,Cohaesibacteraceae,family
+1406135,Breoghania,genus
+2304600,Breoghania sp. L-A4,species
+985081,Helicobacter pylori 2017,genome
+416269,Actinobacillus pleuropneumoniae L20 (serotype 5b),genome
+827,Campylobacter ureolyticus,species
+1032069,Campylobacter ureolyticus RIGS 9880,genome
+732,Aggregatibacter aphrophilus,species
+1203471,Geobacter daltonii,species
+316067,Geobacter daltonii FRC-32,genome
+2681310,Methylococcus sp. IM1,species
+377628,Yersinia pestis Nepal516 (biovar Antiqua),genome
+2319844,Sphingomonas sp. YZ-8,species
+370622,Aureimonas altamirensis,species
+2697033,Bombella sp. KACC 21507,species
+192222,Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819,genome
+536230,Burkholderia pseudomallei MSHR346,genome
+262727,Haemophilus influenzae R2846 (nontypeable),genome
+568,Hafnia,genus
+546367,Hafnia paralvei,species
+215689,Erwinia sp. Ejp617,species
+1021,Beggiatoa,genus
+288004,Beggiatoa leptomitoformis,species
+69220,Lelliottia nimipressuralis,species
+574521,Escherichia coli O127:H6 E2348/69 (EPEC),genome
+1415629,Pseudomonas aeruginosa MTB-1,genome
+754477,Methylophaga frappieri,species
+706191,Pantoea ananatis LMG 20103,genome
+964,Herbaspirillum seropedicae,species
+279113,Collimonas pratensis,species
+1295010,Campylobacter jejuni subsp. jejuni R14,genome
+2714945,Thermomonas sp. HDW16,species
+53336,Tatumella citrea,species
+859655,Ralstonia solanacearum CMR15,genome
+223926,Vibrio parahaemolyticus RIMD 2210633,genome
+316407,Escherichia coli K-12 W3110,genome
+1381133,Candidatus Profftella,genus
+669502,Candidatus Profftella armatura,species
+568706,Bordetella pertussis 18323,genome
+1366053,Mannheimia haemolytica USMARC_2286,genome
+944,Ehrlichia canis,species
+269484,Ehrlichia canis Jake,genome
+2681984,Erwinia sp. J780,species
+75309,Rhodanobacter,genus
+666685,Rhodanobacter denitrificans,species
+1842534,Sinorhizobium sp. RAC02,species
+502682,Erythrobacter gangjinensis,species
+1434214,Mannheimia varigena USDA-ARS-USMARC-1312,genome
+2739433,Erythrobacter sp. EB310,species
+1427364,Candidatus Thioglobus singularis,species
+1125411,Candidatus Thioglobus singularis PS1,genome
+2077182,Sphingorhabdus sp. YGSMI21,species
+190895,Vibrio rotiferianus,species
+45658,Vibrio scophthalmi,species
+155920,Xylella fastidiosa subsp. sandyi Ann-1,genome
+1453988,Campylobacter lari RM16712,genome
+2153354,Klebsiella huaxiensis,species
+1503054,Burkholderia stagnalis,species
+2590016,Labrenzia sp. PHM005,species
+1906661,Candidatus Gullanella,genus
+1070130,Candidatus Gullanella endobia,species
+426114,Thiomonas arsenitoxydans,species
+400947,Deefgea,genus
+2739061,Deefgea sp. D17,species
+998088,Aeromonas veronii B565,genome
+1955420,Silicimonas,genus
+1826607,Silicimonas algicola,species
+402882,Shewanella baltica OS185,genome
+630588,Neisseria meningitidis alpha710 (serogroup B),genome
+553239,Vibrio breoganii,species
+311181,Denitratisoma,genus
+311182,Denitratisoma oestradiolicum,species
+69474,Orientia,genus
+784,Orientia tsutsugamushi,species
+334380,Orientia tsutsugamushi Ikeda,genome
+303379,Herminiimonas,genus
+204773,Herminiimonas arsenicoxydans,species
+1355100,Escherichia coli JJ1886,genome
+349101,Rhodobacter sphaeroides ATCC 17029,genome
+1315974,Sphingobium sp. TKS,species
+1248727,endosymbiont of unidentified scaly snail isolate Monju,species
+2709666,Pseudolysobacter,genus
+2511995,Pseudolysobacter antarcticus,species
+2738850,Candidatus Reidiella,genus
+2738883,Candidatus Reidiella endopervernicosa,species
+945556,Acinetobacter baumannii D1279779,genome
+1649317,Frederiksenia,genus
+123824,Frederiksenia canicola,species
+520461,Brucella pinnipedialis B2/94,genome
+2714924,Diaphorobacter sp. HDW4A,species
+35554,Geobacter sulfurreducens,species
+243231,Geobacter sulfurreducens PCA,genome
+297245,Legionella pneumophila Lens (serogroup 1),genome
+278153,Mesorhizobium sp. WSM1497,species
+1230587,Sinorhizobium meliloti Rm41,genome
+484429,Sphingobium sp. YBL2,species
+260552,Microbulbifer agarilyticus,species
+419610,Methylorubrum extorquens PA1,genome
+197222,Paraglaciecola mesophila,species
+1945512,Cellvibrio sp. PSBB023,species
+75687,Neptunomonas,genus
+1031538,Neptunomonas concharum,species
+47421,Hydrogenophaga pseudoflava,species
+1029825,Brucella melitensis NI,genome
+258255,Pseudovibrio,genus
+911045,Pseudovibrio sp. FO-BEG1,species
+135740,Paracoccus kondratievae,species
+1401087,Dickeya aquatica,species
+1777491,Alteromonas sp. Mac1,species
+227,Pseudoalteromonas carrageenovora,species
+413502,Cronobacter turicensis,species
+693216,Cronobacter turicensis z3032,genome
+1183378,Campylobacter coli RM1875,genome
+1271862,Salmonella enterica subsp. enterica serovar Typhimurium var. 5- CFSAN001921,genome
+2565782,Luteimonas yindakuii,species
+549,Pantoea agglomerans,species
+2082385,Polaromonas sp. Pch-P,species
+1001534,Francisella tularensis subsp. tularensis TI0902,genome
+1325090,Bradyrhizobium guangdongense,species
+1560345,Sphingomonas panacis,species
+663917,Geobacter sulfurreducens KN400,genome
+1382923,Helicobacter pylori oki154,genome
+634457,Acetobacter pasteurianus IFO 3283-32,genome
+1933906,Bartonella sp. JB15,species
+1610576,Halomonas sp. R57-5,species
+522373,Stenotrophomonas maltophilia K279a,genome
+55210,Brenneria nigrifluens,species
+1121120,Brenneria nigrifluens ATCC 13028,genome
+1834205,Burkholderiales bacterium YL45,species
+1055686,Sandaracinaceae,family
+1055688,Sandaracinus,genus
+927083,Sandaracinus amylolyticus,species
+1643450,Devosia sp. H5989,species
+67827,Citrobacter werkmanii,species
+925818,Methylobacterium sp. AMS5,species
+714962,Escherichia coli O18:K1:H7 IHE3034 (ExPEC),genome
+150120,Shewanella livingstonensis,species
+787,Rickettsia australis,species
+1105110,Rickettsia australis Cutlack,genome
+1315211,Arcobacter aquimarinus,species
+312306,Pseudomonas entomophila,species
+384676,Pseudomonas entomophila L48,genome
+2233801,Ahniella,genus
+2021234,Ahniella affigens,species
+576611,Polynucleobacter asymbioticus,species
+312153,Polynucleobacter asymbioticus QLW-P1DMWA-1 (Polynucleobacter sp. QLW-P1DMWA-1) (Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1),genome
+529507,Proteus mirabilis HI4320,genome
+427922,Desulfurivibrio,genus
+427923,Desulfurivibrio alkaliphilus,species
+589865,Desulfurivibrio alkaliphilus AHT 2,genome
+1926494,Paraburkholderia sp. SOS3,species
+956149,Cronobacter sakazakii Sp291,genome
+67825,Citrobacter rodentium,species
+637910,Citrobacter rodentium ICC168,genome
+1759396,Marivivens,genus
+1920883,Marivivens sp. JLT3646,species
+1217908,Octadecabacter antarcticus,species
+391626,Octadecabacter antarcticus 307,genome
+48296,Acinetobacter pittii,species
+871585,Acinetobacter pittii PHEA-2 (Acinetobacter calcoaceticus PHEA-2),genome
+200450,Pseudomonas trivialis,species
+563178,Buchnera aphidicola 5A,genome
+1156568,Methylovirgula,genus
+569860,Methylovirgula ligni,species
+2741499,Serratia surfactantfaciens,species
+2572036,Beijerinckiaceae bacterium RH AL1,species
+56454,Xanthomonas hortorum,species
+561231,Pectobacterium parmentieri WPP163 (Pectobacterium wasabiae WPP163),genome
+208963,Pseudomonas aeruginosa UCBPP-PA14,genome
+61645,Enterobacter asburiae,species
+1421338,Enterobacter asburiae L1,genome
+252514,Microbulbifer thermotolerans,species
+1869170,Rhizobium sp. S41,species
+1858656,Alteromonas pelagimontana,species
+2732587,Candidatus Vesicomyosocius,genus
+412965,Candidatus Vesicomyosocius okutanii,species
+33045,Bartonella grahamii,species
+634504,Bartonella grahamii as4aup,genome
+502800,Yersinia pseudotuberculosis YPIII (serotype O:3),genome
+47886,Pseudomonas luteola,species
+1407463,Helicobacter pylori BM012S,genome
+481146,Acetobacter ascendens,species
+1239307,Sodalis praecaptivus,species
+2065379,Paracoccus jeotgali,species
+272943,Rhodobacter sphaeroides 2.4.1,genome
+32025,Helicobacter hepaticus,species
+235279,Helicobacter hepaticus ATCC 51449,genome
+1827305,Stenotrophomonas sp. MYb57,species
+152161,Stappia,genus
+538381,Stappia indica,species
+634176,Aggregatibacter aphrophilus NJ8700,genome
+426117,Methylobacterium sp. 4-46,species
+1788301,Pseudomonas versuta,species
+70775,Pseudomonas plecoglossicida,species
+85,Hyphomonas,genus
+81032,Hyphomonas neptunium,species
+228405,Hyphomonas neptunium ATCC 15444,genome
+386656,Yersinia pestis Pestoides F (biovar Antiqua),genome
+196600,Vibrio vulnificus YJ016 (biotype 1),genome
+1576550,Candidatus Kinetoplastibacterium sorsogonicusi,species
+1777492,Alteromonas sp. Mac2,species
+1263832,Bibersteinia trehalosi USDA-ARS-USMARC-190,genome
+954,Francisella persica,species
+1086726,Francisella persica ATCC VR-331,genome
+69666,Caulobacter mirabilis,species
+1357916,Sphingopyxis sp. QXT-31,species
+1244531,Campylobacter iguaniorum,species
+2602067,Octadecabacter sp. SW4,species
+1215088,Pseudomonas putida HB3267,genome
+405955,Escherichia coli APEC O1 (Avian pathogenic Escherichia coli),genome
+94122,Shewanella sp. ANA-3,species
+419257,Yersinia massiliensis,species
+1241582,Burkholderia thailandensis 2002721723,genome
+1172205,Bordetella holmesii 44057,genome
+216591,Burkholderia cenocepacia J2315,genome
+157783,Pseudomonas cremoricolorata,species
+1328324,Klebsiella pneumoniae subsp. pneumoniae KPNIH27,genome
+360104,Campylobacter concisus 13826,genome
+1163752,Candidatus Portiera aleyrodidarum MED,genome
+935588,Neisseria meningitidis M01-240355 (serogroup B),genome
+1337396,Rickettsia rickettsii Morgan,genome
+2682137,Defluviicoccus sp.,species
+593909,Mesorhizobium opportunistum,species
+536019,Mesorhizobium opportunistum WSM2075,genome
+160808,Acidithiobacillus ferrivorans,species
+743299,Acidithiobacillus ferrivorans SS3,genome
+1352355,Pseudomonas aeruginosa c7447m,genome
+1744881,Sulfuricaulis,genus
+1620215,Sulfuricaulis limicola,species
+767891,Candidatus Puniceispirillum,genus
+767892,Candidatus Puniceispirillum marinum,species
+488538,Candidatus Puniceispirillum marinum IMCC1322,genome
+595496,Escherichia coli BW2952 (K-12 MC41000 with placMu50 fusion),genome
+585397,Escherichia coli O81 D1a (commensal strain),genome
+1816218,Colwellia sp. PAMC 20917,species
+1761016,Paraburkholderia caffeinilytica,species
+582702,Rhodanobacter glycinis,species
+1402135,Sulfitobacter pseudonitzschiae,species
+168658,Rhodoblastus,genus
+1962975,Rhodoblastus sp.,species
+141679,Photorhabdus laumondii subsp. laumondii DSPV002N,genome
+128785,Pseudoxanthomonas mexicana,species
+205918,Pseudomonas syringae pv. syringae B728a,genome
+568987,Candidatus Hamiltonella,genus
+138072,Candidatus Hamiltonella defensa,species
+572265,Candidatus Hamiltonella defensa 5AT,genome
+46257,Pseudomonas avellanae,species
+1081093,Salmonella enterica subsp. enterica serovar Gallinarum/pullorum RKS5078,genome
+1105106,Rickettsia philipii,species
+481009,Rickettsia philipii 364D,genome
+310581,uncultured Sphingopyxis sp.,species
+553981,Chromatiaceae bacterium RW,species
+1389005,Sulfitobacter sp. SK012,species
+386585,Escherichia coli O157:H7 Sakai (EHEC),genome
+1196325,Pseudomonas putida DOT-T1E,genome
+1061,Rhodobacter capsulatus,species
+272942,Rhodobacter capsulatus SB 1003,genome
+415229,Pseudoxanthomonas spadix,species
+1045855,Pseudoxanthomonas spadix BD-a59,genome
+387093,Sulfurovum sp. NBC37-1,species
+158899,Collimonas fungivorans,species
+1005048,Collimonas fungivorans Ter331,genome
+1110693,Escherichia coli K-12 MDS42,genome
+423212,Legionella pneumophila 2300/99 Alcoy (serogroup 1),genome
+1208660,Bordetella parapertussis Bpp5,genome
+364106,Escherichia coli O18:K1:H7 UTI89 (UPEC),genome
+1565532,Rouxiella,genus
+1646377,Rouxiella badensis,species
+202954,Acinetobacter tandoii,species
+319939,Pseudomonas otitidis,species
+67575,Rheinheimera,genus
+2545632,Rheinheimera sp. D18,species
+1805933,Rahnella sp. ERMR1:05,species
+1262456,Ralstonia solanacearum FQY_4,genome
+42054,Chromohalobacter,genus
+158080,Chromohalobacter salexigens,species
+290398,Chromohalobacter salexigens DSM 3043,genome
+2738852,Candidatus Ruthia endofausta,species
+879,Desulfovibrio gigas,species
+1121448,Desulfovibrio gigas DSM 1382 = ATCC 19364,genome
+1448857,Campylobacter corcagiensis,species
+272620,Klebsiella pneumoniae subsp. pneumoniae MGH 78578 (serotype K52),genome
+33052,Sphingopyxis terrae,species
+1219058,Sphingopyxis terrae NBRC 15098 203-1,genome
+1690484,Hyphomonadaceae bacterium UKL13-1,species
+885275,Escherichia coli clone D i14,genome
+1850254,Arcobacter sp. LPB0137,species
+1930557,Shewanella sp. FDAARGOS_354,species
+2267275,Bartonella krasnovii,species
+713601,Buchnera aphidicola JF99,genome
+1033991,Rhizobium leguminosarum bv. trifolii CB782,genome
+113267,Bathymodiolus septemdierum thioautotrophic gill symbiont,species
+1303921,Endosymbiont of Bathymodiolus septemdierum isolate Myojin knoll,genome
+505249,Arcobacter marinus,species
+537971,Helicobacter cinaedi CCUG 18818 = ATCC BAA-847 (Helicobacter cinaedi ATCC BAA-847),genome
+168470,Laribacter,genus
+168471,Laribacter hongkongensis,species
+557598,Laribacter hongkongensis HLHK9,genome
+56460,Xanthomonas vesicatoria,species
+925775,Xanthomonas vesicatoria ATCC 35937 LMG911,genome
+1703250,Citrobacter sp. CRE-46,species
+1434215,Mannheimia varigena USDA-ARS-USMARC-1388,genome
+164546,Cupriavidus taiwanensis,species
+977880,Cupriavidus taiwanensis LMG 19424,genome
+2082387,Mesorhizobium sp. Pch-S,species
+935591,Neisseria meningitidis M01-240149 (serogroup B),genome
+1382920,Helicobacter pylori oki102,genome
+1113728,Alcanivorax sp. NBRC 101098,species
+2339259,Yersinia hibernica,species
+1903434,Atlantibacter,genus
+565,Atlantibacter hermannii,species
+592205,Helicobacter pylori B38,genome
+713603,Buchnera aphidicola LL01,genome
+1263831,Bibersteinia trehalosi USDA-ARS-USMARC-189,genome
+622,Shigella dysenteriae,species
+300267,Shigella dysenteriae Sd197,genome
+914150,Kangiella geojedonensis,species
+1472344,Basilea,genus
+1472345,Basilea psittacipulmonis,species
+1072685,Basilea psittacipulmonis DSM 24701,genome
+521006,Neisseria gonorrhoeae NCCP11945,genome
+320388,Burkholderia mallei SAVP1,genome
+712898,Pantoea vagans C9-1,genome
+1300256,Alteromonas mediterranea U7 (Alteromonas macleodii Ionian Sea U7),genome
+393305,Yersinia enterocolitica subsp. enterocolitica 8081 (serotype 0:8),genome
+942513,Neisseria meningitidis WUE 2594 (serogroup A),genome
+46429,Sphingobium chlorophenolicum,species
+690566,Sphingobium chlorophenolicum L-1,genome
+1116375,Vibrio sp. EJY3,species
+374463,Baumannia cicadellinicola Hc,genome
+286727,Azospirillum oryzae,species
+1288394,Aeromonas hydrophila ML09-119,genome
+1703966,Rhizobium sp. N731,species
+488447,Burkholderia contaminans,species
+546272,Brucella melitensis ATCC 23457,genome
+157932,Paucimonas,genus
+29443,Paucimonas lemoignei,species
+1692238,Enterobacter sp. FY-07,species
+230494,Reinekea,genus
+1336806,Reinekea forsetii,species
+47951,Vibrio cyclitrophicus,species
+66269,Pantoea stewartii,species
+660596,Pantoea stewartii subsp. stewartii DC283,genome
+1003191,Salmonella enterica subsp. enterica serovar Tennessee TXSC_TXSC08-19,genome
+1331258,Bordetella pseudohinzii,species
+2202148,Azospirillum sp. CFH 70021,species
+921,Starkeya novella,species
+639283,Starkeya novella DSM 506,genome
+637385,Yersinia pestis D182038,genome
+1105094,Rickettsia prowazekii Chernikova,genome
+383629,Phaeobacter inhibens 2.10 (Phaeobacter gallaeciensis 2.10),genome
+493,Neisseria canis,species
+93218,Pandoraea apista,species
+198107,Azoarcus sp. CIB,species
+1321938,Helicobacter pylori UM299,genome
+1779135,Bradymonadaceae,family
+1779136,Bradymonas,genus
+1548548,Bradymonas sediminis,species
+914149,Vibrio cholerae O1 2010EL-1786,genome
+129394,Xanthomonas oryzae pv. oryzicola CFBP7342,genome
+1171377,Bibersteinia trehalosi USDA-ARS-USMARC-192,genome
+2488560,Pigmentiphaga sp. H8,species
+393115,Francisella tularensis subsp. tularensis FSC198,genome
+359303,Shewanella loihica,species
+323850,Shewanella loihica PV-4,genome
+357244,Orientia tsutsugamushi Boryong,genome
+1196835,Pseudomonas stutzeri CCUG 29243,genome
+585056,Escherichia coli O17:K52:H18 UMN026 (ExPEC),genome
+1986224,Sulfurospirillum sp. SL2-1,species
+33060,Yersinia mollaretii,species
+349967,Yersinia mollaretii ATCC 43969,genome
+43662,Pseudoalteromonas piscicida,species
+2686014,Candidatus Neorickettsia finleia,species
+47,Archangium,genus
+48,Archangium gephyra,species
+75658,Campylobacter lanienae,species
+1031753,Campylobacter lanienae NCTC 13004,genome
+2518599,Pandoraea sp. XY-2,species
+2008785,Hydrogenophilalia,class
+119069,Hydrogenophilales,order
+206349,Hydrogenophilaceae,family
+70774,Hydrogenophilus,genus
+297,Hydrogenophilus thermoluteolus,species
+1031711,Ralstonia solanacearum Po82,genome
+327159,Candidatus Accumulibacter,genus
+327160,Candidatus Accumulibacter phosphatis,species
+522306,Candidatus Accumulibacter phosphatis clade IIA UW-1,genome
+28200,Arcobacter skirrowii,species
+1003202,Rickettsia typhi B9991CWPP,genome
+33,Myxococcus fulvus,species
+1334629,Myxococcus fulvus 124B02,genome
+1117943,Sinorhizobium fredii HH103,genome
+757424,Herbaspirillum seropedicae SmR1,genome
+947919,Desulfosarcina widdelii,species
+215743,Roseovarius mucosus,species
+331111,Escherichia coli O139:H28 E24377A (ETEC),genome
+869729,Escherichia coli UM146,genome
+115561,Halomonas hydrothermalis,species
+1076550,Pantoea rwandensis,species
+1388750,Campylobacter lari CCUG 22395,genome
+1437823,Xenorhabdus nematophila AN6/1,genome
+128780,Stenotrophomonas acidaminiphila,species
+198,Campylobacter hyointestinalis,species
+1031746,Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260,genome
+1100891,Paenalcaligenes,genus
+643674,Paenalcaligenes hominis,species
+520450,Brucella abortus bv. 2 86/8/59,genome
+1184254,Anaplasma phagocytophilum Dog2,genome
+39773,Methylomicrobium,genus
+95641,Methylomicrobium buryatense,species
+84404,Hippea,genus
+84405,Hippea maritima,species
+760142,Hippea maritima DSM 10411,genome
+1031542,Campylobacter volucris,species
+580033,Campylobacter volucris LMG 24379,genome
+1725232,Candidatus Desulfovibrio trichonymphae,species
+524,Acidiphilium cryptum,species
+349163,Acidiphilium cryptum JF-5,genome
+74329,Brevundimonas mediterranea,species
+1069642,Bdellovibrio bacteriovorus Tiberius,genome
+1382924,Helicobacter pylori oki422,genome
+311403,Agrobacterium radiobacter K84,genome
+1682492,Candidatus Tachikawaea,genus
+1410383,Candidatus Tachikawaea gelatinosa,species
+1348774,Croceicoccus naphthovorans,species
+395491,Rhizobium leguminosarum bv. trifolii WSM1325,genome
+569,Hafnia alvei,species
+1453496,Hafnia alvei FB1,genome
+593588,Vibrio cholerae O1 MJ-1236,genome
+999541,Burkholderia gladioli BSR3,genome
+1921087,Mariprofundus ferrinatatus,species
+404,Methylobacillus,genus
+405,Methylobacillus flagellatus,species
+265072,Methylobacillus flagellatus KT,genome
+1985873,Sulfuriferula sp. AH1,species
+444450,Escherichia coli O157:H7 EC4115 (EHEC),genome
+48075,Marinobacterium,genus
+1821621,Marinobacterium aestuarii,species
+123899,Bordetella trematum,species
+622759,Zymomonas mobilis subsp. mobilis NCIMB 11163,genome
+86192,Pseudomonas chlororaphis subsp. aurantiaca JD37,genome
+169430,Paraburkholderia hospita,species
+2059672,Chromobacterium sp. ATCC 53434,species
+316401,Escherichia coli O78:H11:K80 H10407 (ETEC),genome
+1503055,Burkholderia territorii,species
+2028345,Pusillimonas sp. ye3,species
+360115,Coxiella burnetii RSA 331,genome
+665874,Limnohabitans,genus
+1678129,Limnohabitans sp. 103DPR2,species
+413882,[Polyangium] brachysporum,species
+1290428,Rickettsia prowazekii Breinl,genome
+1484157,Pantoea sp. PSNIH2,species
+2304594,Marinobacter sp. Arc7-DN-1,species
+2434,Roseobacter denitrificans,species
+375451,Roseobacter denitrificans OCh 114,genome
+217070,Stella vacuolata,species
+1033854,Thioalkalivibrio sulfidiphilus,species
+396588,Thioalkalivibrio sulfidiphilus HL-EbGr7,genome
+391008,Stenotrophomonas maltophilia R551-3,genome
+398,Rhizobium tropici,species
+698761,Rhizobium tropici CIAT 899,genome
+2025808,Vibrio qinghaiensis,species
+70411,Frateuria,genus
+81475,Frateuria aurantia,species
+767434,Frateuria aurantia DSM 6220,genome
+1236608,Moraxella catarrhalis BBH18,genome
+345632,Geobacter pickeringii,species
+2675298,Sulfuriferula nivalis,species
+1118153,Halomonas sp. GFAJ-1,species
+1104326,Enterobacter cloacae subsp. dissolvens SDM,genome
+765962,Helicobacter pylori SJM180,genome
+1777867,Mesorhizobium jarvisii,species
+716925,Ensifer sojae,species
+716928,Ensifer sojae CCBAU 05684,genome
+682998,Azospirillum ramasamyi,species
+13724,Thiocystis,genus
+73141,Thiocystis violascens,species
+765911,Thiocystis violascens DSM 198,genome
+1182780,Magnetospira,genus
+1288970,Magnetospira sp. QH-2,species
+392332,Geoalkalibacter,genus
+483547,Geoalkalibacter subterraneus,species
+743972,Actinobacillus suis ATCC 33415,genome
+1042876,Pseudomonas putida S16,genome
+1229,Nitrosococcus oceani,species
+323261,Nitrosococcus oceani ATCC 19707,genome
+2587853,Ruegeria sp. THAF33,species
+376,Bradyrhizobium sp.,species
+332055,Sphingobium indicum,species
+861109,Sphingobium indicum B90A,genome
+28198,Arcobacter cryaerophilus,species
+1032070,Arcobacter cryaerophilus ATCC 43158,genome
+204286,Cobetia,genus
+28258,Cobetia marina,species
+349746,Yersinia pestis Angola (virulent Pestoides isolate),genome
+261292,Nitrosomonas sp. Is79A3,species
+1226968,Azospirillum humicireducens,species
+661410,Methylorubrum extorquens DM4 (Methylobacterium extorquens DM4),genome
+935296,Klebsiella aerogenes EA1509E (Enterobacter aerogenes EA1509E),genome
+28151,Serratia proteamaculans,species
+399741,Serratia proteamaculans 568,genome
+648,Aeromonas caviae,species
+2678529,Kineobactrum,genus
+2708301,Kineobactrum sp. M2,species
+35798,Nitrosospira,genus
+1288494,Nitrosospira lacus,species
+693974,Shewanella baltica BA175,genome
+594679,Allofrancisella guangzhouensis,species
+220341,Salmonella enterica subsp. enterica serovar Typhi CT18 (Salmonella typhi CT18),genome
+1400867,Acinetobacter baumannii ZW85-1,genome
+1249659,Burkholderia pseudomallei MSHR520,genome
+1432056,Mannheimia sp. USDA-ARS-USMARC-1261,species
+69395,Caulobacter henricii,species
+284016,Phenylobacterium zucineum,species
+450851,Phenylobacterium zucineum HLK1,genome
+692370,Altererythrobacter dongtanensis,species
+405441,Xylella fastidiosa M23,genome
+2565557,Psychrobacter sp. PAMC27889,species
+932677,Pantoea ananatis AJ13355,genome
+60480,Shewanella sp. MR-4,species
+1821960,Edwardsiella anguillarum,species
+667120,Edwardsiella anguillarum ET080813 (Edwardsiella tarda 080813),genome
+1850374,Ancylobacter sp. TS-1,species
+60217,Shewanella violacea,species
+637905,Shewanella violacea DSS12,genome
+2018065,Roseomonas sp. FDAARGOS_362,species
+475375,Francisella sp. MA067296,species
+1842533,Acidovorax sp. RAC01,species
+390919,Halomonas olivaria,species
+1678128,Limnohabitans sp. 63ED37-2,species
+1505596,Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri,species
+293613,Rickettsia canadensis McKiel,genome
+754093,Shigella dysenteriae 1617 (serotype 1),genome
+1334564,Serratia marcescens SM39,genome
+1333852,Klebsiella oxytoca KONIH1,genome
+288000,Bradyrhizobium sp. BTAi1,species
+1207504,Burkholderia pseudomultivorans,species
+1077935,Paracoccus zhejiangensis,species
+454662,Cellvibrio sp. KY-YJ-3,species
+386891,Moraxella bovoculi,species
+1905288,Klebsiella sp. LTGPAF-6F,species
+744985,alpha proteobacterium HIMB59,species
+43263,Pseudomonas alcaligenes,species
+768493,Serratia sp. AS13,species
+1054037,Sphingobium barthaii,species
+1908198,Salinivibrio kushneri,species
+66084,Wolbachia sp. wRi,species
+1423891,Brucella ceti TE10759-12,genome
+1231,Nitrosospira multiformis,species
+323848,Nitrosospira multiformis ATCC 25196,genome
+883,Desulfovibrio vulgaris Miyazaki F,genome
+271065,Methylomicrobium alcaliphilum,species
+1091494,Methylomicrobium alcaliphilum 20Z,genome
+1223566,Bradyrhizobium sp. CCGE-LA001,species
+2714952,Mitsuaria sp. DAIF2,species
+1279007,Pseudomonas aeruginosa PA1,genome
+390235,Pseudomonas putida W619,genome
+1329899,Cycloclasticus zancles,species
+1198232,Cycloclasticus zancles 78-ME,genome
+2501295,Dyella sp. M7H15-1,species
+2033033,Aeromonas sp. CU5,species
+907237,Helicobacter pylori Lithuania75,genome
+2052837,Neisseriaceae bacterium DSM 100970,species
+45065,Legionella geestiana,species
+122586,Neisseria meningitidis MC58 (serogroup B),genome
+1842727,Rhodoferax koreense,species
+349742,Sedimenticola,genus
+1543721,Sedimenticola thiotaurini,species
+331271,Burkholderia cenocepacia AU 1054,genome
+361106,Desulfoglaeba,genus
+361111,Desulfoglaeba alkanexedens,species
+980445,Desulfoglaeba alkanexedens ALDC,genome
+246273,Wolbachia endosymbiont of Cimex lectularius,species
+366614,Haematobacter,genus
+195105,Haematobacter massiliensis,species
+1335757,Spiribacter curvatus,species
+1005057,Buchnera aphidicola Ua,genome
+1505597,Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus,species
+1526658,Bosea vaviloviae,species
+536018,Mesorhizobium australicum,species
+754035,Mesorhizobium australicum WSM2073,genome
+2496266,Iodobacter sp. H11R3,species
+1646498,Acinetobacter sp. TTH0-4,species
+285107,Thioclava,genus
+1915078,Thioclava nitratireducens,species
+29429,Methylorubrum zatmanii,species
+947567,Litoreibacter,genus
+2599296,Litoreibacter sp. LN3S51,species
+1151116,Rahnella aquatilis HX2,genome
+43659,Pseudoalteromonas tetraodonis,species
+1105111,Rickettsia amblyommatis GAT-30V,genome
+317658,Sulfurimonas paralvinellae,species
+247523,Pseudoalteromonas aliena,species
+31998,Methylobacterium radiotolerans,species
+426355,Methylobacterium radiotolerans JCM 2831,genome
+360102,Yersinia pestis Antiqua (biovar Antiqua),genome
+1163745,Helicobacter cetorum MIT 99-5656,genome
+262728,Haemophilus influenzae R2866 (nontypeable),genome
+794851,Helicobacter pylori Sat464,genome
+1009858,Buchnera aphidicola G002,genome
+484,Neisseria flavescens,species
+135569,Helicobacter apodemus,species
+1938606,Janthinobacterium sp. LM6,species
+1921582,Orrella,genus
+1851544,Orrella dioscoreae,species
+543728,Variovorax paradoxus S110,genome
+1842537,Hydrogenophaga sp. RAC07,species
+2651334,Microvirga sp. HR1,species
+2026240,Klebsiella quasivariicola,species
+1633874,Acetobacter oryzifermentans,species
+1972431,Phytobacter ursingii,species
+487316,Acinetobacter soli,species
+1680158,Xanthomonas sp. ISO98C4,species
+1529068,Paracoccus sp. BM15,species
+318683,Gluconobacter albidus,species
+1338035,Campylobacter jejuni 32488,genome
+907239,Helicobacter pylori SouthAfrica7,genome
+556,Dickeya chrysanthemi,species
+561229,Dickeya chrysanthemi Ech1591,genome
+463014,Bordetella flabilis,species
+1332080,Sphingobium baderi,species
+758,Rodentibacter pneumotropicus,species
+28222,Desulfobacula,genus
+28223,Desulfobacula toluolica,species
+651182,Desulfobacula toluolica Tol2,genome
+273526,Serratia marcescens subsp. marcescens Db11,genome
+1163743,Helicobacter pylori HUP-B14,genome
+665914,Mixta gaviniae,species
+897,Desulfococcus multivorans,species
+93973,Shewanella japonica,species
+1282358,Shigella flexneri Shi06HN006 (serotype Yv),genome
+2290922,Lysobacter sp. TY2-98,species
+984129,Francisella cf. novicida Fx1,genome
+2303332,Cellvibrio sp. KY-GH-1,species
