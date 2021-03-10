@@ -17,8 +17,8 @@ This repository hosts the code and the data for the post [Analyzing Genomes in a
 
     python genome_parser.py [genome_folder] [target_taxonomic_rank] [target_taxonomic_name]
      
-      + where target_taxonomic_rank and target_taxonomic_name are the taxonomic group you want to analyze. For the article, I use "phylum" and "Proteobacteria".
-      + It outputs a mapping.csv file, which is needed for the next step.
++ where target_taxonomic_rank and target_taxonomic_name are the taxonomic group you want to analyze. For the article, I use "phylum" and "Proteobacteria".
++ It outputs a mapping.csv file, which is needed for the next step.
  
 4. Use **kegg_parser.py** to process the KO data: 
     
