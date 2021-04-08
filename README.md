@@ -11,6 +11,8 @@ This repository hosts the code and the data for the post [Analyzing Genomes in a
 2. Then use **download_kegg_various_databases.py** again to download the KO:
 
     python download_kegg_various_databases.py ko  [ko_output_folder]
+    
+Sometimes these two commands will fail because of the network connection. Rerun the command. It will check the which files are already downloaded and then it will fill up those missing file. 
       
 3. Use **genome_parser.py** to process the genome data:
   
