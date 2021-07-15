@@ -2,6 +2,14 @@
 # Analyzing Genomes in a Graph Database
 This repository hosts the code and the data for the post [Analyzing Genomes in a Graph Database](https://dgg32.medium.com/analyzing-genomes-in-a-graph-database-27a45faa0ae8).
 
+## Prerequisites:
+
+If you need to prepare the data, you need the [pyphy](https://github.com/dgg32/pyphy) library.
+
+First, clone the [pyphy](https://github.com/dgg32/pyphy) repo, and prepare both the library and the data following the instructions.
+
+
+
 ## Scripts
 1. First, **download_kegg_various_databases.py** download data from KEGG via its API. To download the genomes, run:
 
