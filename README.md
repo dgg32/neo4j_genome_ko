@@ -4,9 +4,9 @@ This repository hosts the code and the data for the post [Analyzing Genomes in a
 
 ## Prerequisites:
 
-If you need to prepare the data, you need the [pyphy](https://github.com/dgg32/pyphy) library.
+If you want to prepare the data yourself, you need the [pyphy](https://github.com/dgg32/pyphy) library.
 
-First, clone the [pyphy](https://github.com/dgg32/pyphy) repo, and prepare both the library and the data following the instructions.
+First, clone the [pyphy](https://github.com/dgg32/pyphy) repo, and prepare both the library and the data following the instructions there.
 
 
 
