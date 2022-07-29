@@ -1,12 +1,23 @@
 import sys, re, os, json
-import pyphy
+from pyphy import pyphy
 
-rx_name = re.compile(r'NAME\s+(\w+,)+\s+(\d+)')
-rx_definition = re.compile(r'DEFINITION\s+(.+)')
+rx_short = re.compile(r'ORG_CODE\s+(\S+)')
+rx_name = re.compile(r'NAME\s+(.+)')
+rx_taxonomy = re.compile(r'TAXONOMY    TAX:(\d+)')
 
 top_folder = sys.argv[1]
 filter_rank = sys.argv[2]
 filter_taxon = sys.argv[3]
+
+existing_mapping = set()
+
+if os.path.isfile("mapping.tsv"):
+    with open("mapping.tsv", "r") as input:
+        for line in input.readlines():
+            line = line.strip()
+
+            existing_mapping.add(line)
+
 
 short_taxid = {}
 
@@ -30,29 +41,32 @@ for (head, dirs, files) in os.walk(top_folder):
         current_file_path = os.path.abspath(os.path.dirname(os.path.join(head, file)))
         with_name = os.path.join(current_file_path, file)
 
-        short_cut = []
-        definition = ""
+        short_cut = ""
+        name = ""
         taxid = -1
 
         for line in open(with_name, 'r'):
-            search_definition = rx_definition.search(line)
 
-            if search_definition:
-                definition = search_definition.group(1)
 
             
             if line.startswith("NAME"):
 
-                search_name = re.findall(r'(\w+),', line)
+                search_name = rx_name.search(line)
 
-                for name in search_name:
-                    short_cut.append(name)
+                if search_name:
+                    name = search_name.group(1)
 
-                search_taxid = re.findall(r',\s+(\d+)', line)
+            if line.startswith("ORG_CODE"):
+                search_short = rx_short.search(line)
 
-                for t in search_taxid:
-                    taxid = int(t)
+                if search_short:
+                    short_cut = search_short.group(1)
+            
+            if line.startswith("TAXONOMY"):
+                search_taxonomy = rx_taxonomy.search(line)
 
+                if search_taxonomy:
+                    taxid = int(search_taxonomy.group(1))
 
         #print (file)
 
@@ -68,9 +82,8 @@ for (head, dirs, files) in os.walk(top_folder):
 
                 for rank in desired_rank:
                     if rank in dict_path:
-                        name = definition.split(",")[0]
-                        if rank != "genome":
-                            name = pyphy.getNameByTaxid(dict_path[rank])
+
+                        name = pyphy.getNameByTaxid(dict_path[rank])
 
                         if rank == "superkingdom":
 
@@ -90,10 +103,13 @@ for (head, dirs, files) in os.walk(top_folder):
                                     taxid_taxon[dict_path[rank]] = [name, rank]
 
                                 quartett[0] = quartett[1]
+                
+                mapping = f"{short_cut}\t{taxid}"
 
-                with open("mapping.tsv", "a+") as output:
-                    for short in short_cut:
-                        output.write(f"{short}\t{taxid}\n")
+                if mapping not in existing_mapping:
+                    with open("mapping.tsv", "a+") as output:
+
+                        output.write(f"{mapping}\n")
 
 #print (taxid_taxon)
 
@@ -101,7 +117,7 @@ for (head, dirs, files) in os.walk(top_folder):
 
 for taxid in taxid_taxon:
     with open("taxon.csv", "a") as output:
-        output.write(",".join([f"{taxid}", f'{taxid_taxon[taxid][0]}', taxid_taxon[taxid][1]]) + "\n")
+        output.write(",".join([f"{taxid}", f'"{taxid_taxon[taxid][0]}"', f'"{taxid_taxon[taxid][1]}"']) + "\n")
 
 for parent in parent_son:
     with open("connections.csv", "a") as output:
