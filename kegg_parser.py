@@ -2,7 +2,7 @@ import sys, re, os, json
 import pyphy
 
 rx_entry = re.compile(r'ENTRY\s+(\w+)')
-rx_definition = re.compile(r'DEFINITION\s+(.+)')
+rx_name = re.compile(r'NAME\s+(.+)')
 rx_gene = re.compile(r'\s+(\w+):\s+(.+)')
 
 top_folder = sys.argv[1]
@@ -47,16 +47,17 @@ for (head, dirs, files) in os.walk(top_folder):
         with_name = current_file_path + "/"+ file
 
         entry = ""
-        definition = ""
+        name = ""
         genomes = {}
 
         is_gene = False
 
         for line in open(with_name, 'r'):
-            search_definition = rx_definition.search(line)
+            if line.startswith("NAME"):
+                search_name = rx_name.search(line)
 
-            if search_definition:
-                definition = search_definition.group(1).replace('"', "'")
+                if search_name:
+                    name = search_name.group(1).replace('"', "'")
 
             
             if line.startswith("GENES"):
@@ -89,7 +90,7 @@ for (head, dirs, files) in os.walk(top_folder):
         #["~id", "name:String", "taxid:Int", "~label"]
         with open("kegg.csv", "a+") as output:
             #o"taxid", "name", "label"
-            output.write(",".join([entry, f'"{definition}"', "ko"]) + "\n")
+            output.write(",".join([entry, f'"{name}"', "ko"]) + "\n")
 
 
         #["~id", "~from", "~to", "~label"]
